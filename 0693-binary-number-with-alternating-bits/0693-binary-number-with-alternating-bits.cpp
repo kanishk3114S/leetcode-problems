@@ -1,25 +1,17 @@
 class Solution {
 public:
     bool hasAlternatingBits(int n) {
+
+        // O(1) TIME COMPLEXITY //
+
+        long long a = 0;
+
+        a = (n ^ (n>>1));
+
+        if ((a & (a+1)) == 0) return true;
         
-        int bitone = 0 , bittwo = 0;
-        bool onefound = false;
-        int correctidx = 0;
 
-        for (int i=0; i<31; i++) {
-
-            correctidx = 31-i;
-
-            bitone = ((n>>correctidx) & 1);
-            bittwo = ((n>>(correctidx-1)) & 1);
-
-            if (bitone == 1) onefound = true; 
-
-            if (onefound == true && bitone == bittwo) return false;
-
-        }
-
-        return true;
+        return false;
 
     }
 };
