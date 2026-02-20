@@ -13,7 +13,7 @@ public:
                 cntzeros++;
             }
 
-            while (cntzeros > k) {
+            if (cntzeros > k) {
                 if (nums[l] == 0) {
                     cntzeros--;
                 }
