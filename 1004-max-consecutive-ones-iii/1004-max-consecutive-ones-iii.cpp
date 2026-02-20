@@ -8,25 +8,23 @@ public:
 
         while (r < nums.size()) {
 
-            if (nums[r] == 1) {
-                len = r-l+1;
-                r++;
-            } else if (nums[r] == 0) {
+            
+            if (nums[r] == 0) {
                 cntzeros++;
-
-                while (cntzeros > k) {
-                    
-                    if (nums[l] == 1) {
-                        l++;
-                    } else {
-                        cntzeros--;
-                        l++;
-                    }
-                }
-                len = r-l+1;
-                r++;
             }
-            maxlen = max(maxlen , len);
+
+            while (cntzeros > k) {
+                if (nums[l] == 0) {
+                    cntzeros--;
+                }
+                l++;
+            }
+
+
+            len = r-l+1;
+            maxlen = max(len , maxlen);
+            r++;
+
 
         }
 
