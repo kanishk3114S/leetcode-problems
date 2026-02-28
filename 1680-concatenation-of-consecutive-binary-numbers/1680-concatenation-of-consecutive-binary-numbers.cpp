@@ -10,7 +10,7 @@ public:
             totalbits = 1+log2(i);
             for (int j=0; j<totalbits; j++) {
 
-                ans = (ans + (power * ((i >> j) & 1)) % MOD) % MOD;
+                ans = (ans + (power * ((i >> j) & 1))) % MOD;
                 // cout << ans << " ";
                 power = (power*2)%MOD;
 
