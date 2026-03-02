@@ -20,21 +20,37 @@ public:
         //we need the typical bubble sort//
         //that solution exists//
 
-        int swaps = 0;
-        for (int i = 0; i < n; i++) {
-            int need = n-1-i;
-            int j = i;
+        int cnt = 0;
+        int idx = 0;
+        int reqidx = -1;
+        while (idx < arr.size()) {
 
-            while (j < n && arr[j] < need) j++;
-            if (j == n) return -1;
-
-            while (j > i) {
-                swap(arr[j], arr[j-1]);
-                swaps++;
-                j--;
+            int req = n-1-idx;
+            if (arr[idx] < req) {
+            reqidx = -1;
+            for (int i=idx+1; i<n; i++) {
+                if (arr[i] >= req) {
+                    reqidx = i;
+                    break;
+                }
             }
+                            if (reqidx == -1) return -1;
+                while (reqidx > idx) {
+                        swap(arr[reqidx] , arr[reqidx-1]);
+                        cnt++;
+                        reqidx--;
+                    }
+            }
+
+
+
+                    idx++;
+
         }
-        return swaps;
+
+        return cnt;
+
+
 
     }
 };
