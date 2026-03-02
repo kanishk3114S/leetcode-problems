@@ -20,15 +20,12 @@ public:
                 max++;
 
             }
-
-        if (min < 0) min = 0;
-        if (max < 0) return false; //till that point the max is negative.....tf its not possible//
+        if (min < 0 && max >=0) min = 0;
+        if (max < 0) return false; //till that ppint the max is negative.....tf its not possible..
 
         }
 
-        if (min == 0) return true;
-
-        return false;
+        return min==0;
 
     }
 };
