@@ -1,45 +1,25 @@
 class Solution {
 public:
-
-    string invert(string s) {
-
-        for (int i=0; i<s.length(); i++) {
-
-            if (s[i] == '1') s[i] = '0';
-            else s[i] = '1';
-
-        }
-
-        return s;
-
-    }
-
-    string reverseS(string s) {
-
-        int l = 0 , r = s.length()-1;
-        while (l<=r) {
-            swap(s[l] , s[r]);
-            l++;
-            r--;
-        }
-        return s;
-
-    }
-
-    string func(int n) {
-
-        if (n == 1) return "0";
-
-        return  func(n-1) + "1" + reverseS((invert(func(n-1))));     
-
-    }
-
     char findKthBit(int n, int k) {
-        
-        string s = "";
-        s = func(n);
+        //optimised solution//
+        //since Sn = Sn-1 + '1' + reverse(invert(Sn-1))//
 
-        return s[k-1];
+        if (n==1) return '0'; //if recursive calls
+
+        // we knoe if k==mid --> 1 else > mid ......... //
+
+        int len = (1<<n)-1;
+        int mid = (len+1)/2;
+
+        if (k == mid) return '1';
+         if (k < mid) return findKthBit(n-1,k); //it will get shot .. check short again//
+         
+
+            int mirrored = len-k+1;
+            char bit = findKthBit(n-1 , mirrored);
+
+            return bit=='0' ? '1' : '0';
+
 
 
     }
