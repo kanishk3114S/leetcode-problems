@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/kanishk3114S/leetcode-problems/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/kanishk3114S/leetcode-problems/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/kanishk3114S/leetcode-problems/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
+| [1582-special-positions-in-a-binary-matrix](https://github.com/kanishk3114S/leetcode-problems/tree/master/1582-special-positions-in-a-binary-matrix) |
 | [2053-kth-distinct-string-in-an-array](https://github.com/kanishk3114S/leetcode-problems/tree/master/2053-kth-distinct-string-in-an-array) |
 | [2079-watering-plants](https://github.com/kanishk3114S/leetcode-problems/tree/master/2079-watering-plants) |
 | [2090-k-radius-subarray-averages](https://github.com/kanishk3114S/leetcode-problems/tree/master/2090-k-radius-subarray-averages) |
@@ -112,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/kanishk3114S/leetcode-problems/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
+| [1582-special-positions-in-a-binary-matrix](https://github.com/kanishk3114S/leetcode-problems/tree/master/1582-special-positions-in-a-binary-matrix) |
 ## Dynamic Programming
 |  |
 | ------- |
