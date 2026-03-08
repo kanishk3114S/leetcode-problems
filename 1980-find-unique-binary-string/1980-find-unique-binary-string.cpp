@@ -4,6 +4,11 @@ public:
         
         int n = nums.size();
         unordered_map<string,int> mpp;
+        for (int i=0; i<nums.size(); i++) {
+
+            mpp[nums[i]]++;
+
+        }
         int poss = 1<<n;
         int bit = 0;
         for (int i=0; i<poss; i++) {
@@ -15,24 +20,11 @@ public:
         
 
             }
-            mpp[sample]++;
-
-        }
-
-        //all samples got generated//
-
-        for (int i=0; i<nums.size(); i++) {
-
-            mpp[nums[i]]--;
-
-        }
-
-        for (auto it:mpp) {
-            if (it.second == 1) {
-                return it.first;
+            if (!mpp.count(sample)) {
+                return sample;
             }
-        }
-        return "";
 
+        }
+    return "";
     }
 };
