@@ -2,7 +2,7 @@ class Solution {
 public:
 
     int smallestBalancedIndex(vector<int>& nums) {
-        const long long MOD = 1e9+7;
+        const long long MOD = 1e9+15;
         vector<long long> prefixsum;
         vector<long long> product(nums.size()+1);
 
@@ -12,7 +12,7 @@ public:
 
         for (int i=0; i<nums.size(); i++) {
 
-            prefsum += (nums[i]%MOD)%MOD;
+            prefsum = (prefsum + (nums[i]%MOD))%MOD;
             prefixsum.push_back(prefsum);
 
         }
@@ -21,7 +21,7 @@ public:
 
         for (int i=nums.size()-1; i>-1; i--) {
 
-            prod *= (nums[i]%MOD)%MOD;
+            prod = (prod *(nums[i]%MOD)%MOD);
             product[i] = prod;
 
         }
