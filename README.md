@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/kanishk3114S/leetcode-problems/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2482-difference-between-ones-and-zeros-in-row-and-column](https://github.com/kanishk3114S/leetcode-problems/tree/master/2482-difference-between-ones-and-zeros-in-row-and-column) |
 | [3309-maximum-possible-number-by-binary-concatenation](https://github.com/kanishk3114S/leetcode-problems/tree/master/3309-maximum-possible-number-by-binary-concatenation) |
+| [3862-find-the-smallest-balanced-index](https://github.com/kanishk3114S/leetcode-problems/tree/master/3862-find-the-smallest-balanced-index) |
 ## Binary Search
 |  |
 | ------- |
@@ -62,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/kanishk3114S/leetcode-problems/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [3129-find-all-possible-stable-binary-arrays-i](https://github.com/kanishk3114S/leetcode-problems/tree/master/3129-find-all-possible-stable-binary-arrays-i) |
 | [3130-find-all-possible-stable-binary-arrays-ii](https://github.com/kanishk3114S/leetcode-problems/tree/master/3130-find-all-possible-stable-binary-arrays-ii) |
+| [3862-find-the-smallest-balanced-index](https://github.com/kanishk3114S/leetcode-problems/tree/master/3862-find-the-smallest-balanced-index) |
 ## Hash Table
 |  |
 | ------- |
