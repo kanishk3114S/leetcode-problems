@@ -3,31 +3,19 @@ public:
 
 
     int calc(vector<int>&arr) {
-        int len = arr.size();
-        vector<int> ns;
-        stack<int> s;
-        for (int i=arr.size()-1; i>-1; i--) {
+        int n = arr.size();
+        vector<int> ns(n , n);
+        for (int i = n - 2; i >= 0; i--) {
+        int j = i + 1;
 
-            if (s.empty()) {
-                ns.push_back(len);
-            } else {
-
-                if(arr[i] > arr[s.top()]) { 
-                    ns.push_back(s.top());
-                } else {
-
-                    while(!s.empty() && arr[s.top()] >= arr[i]) {
-                        s.pop();
-                    }
-                    
-                    if (s.empty()) ns.push_back(len);
-                    else ns.push_back(s.top());
-
-                }
-            }
-            s.push(i);
-
+        while (j != n && ns[j] >= ns[i]) {
+            j = ns[j];  // jump!
         }
+
+        ns[i] = j;
+    }
+
+
 
         reverse(ns.begin() , ns.end());
         int area = 0 , maxarea = INT_MIN;
