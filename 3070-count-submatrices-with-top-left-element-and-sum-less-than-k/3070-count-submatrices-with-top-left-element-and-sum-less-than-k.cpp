@@ -9,6 +9,7 @@ public:
         int temp = 0;
         int prefsum = 0;
         int prevrow = -1;
+        int ans = 0;
 
         for (int i=0; i<m; i++) {
             prefsum = 0;
@@ -22,21 +23,11 @@ public:
                 prefsum += grid[i][j];
 
                 pref[i][j] = (prefsum+temp);
+                if (pref[i][j] <= k) ans++;
             }
         }
 
         //prefgrid will contain all  the submatrices containing the first top left element...//
-
-        int ans = 0;
-        for (int i=0; i<m; i++) {
-            for (int j=0; j<n; j++) {
-
-                if (pref[i][j] <= k) {
-                    ans++;
-                }
-
-            }
-        }
 
         return ans;
 
