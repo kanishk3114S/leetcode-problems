@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/kanishk3114S/leetcode-problems/tree/master/0001-two-sum) |
 | [0046-permutations](https://github.com/kanishk3114S/leetcode-problems/tree/master/0046-permutations) |
+| [0135-candy](https://github.com/kanishk3114S/leetcode-problems/tree/master/0135-candy) |
 | [0643-maximum-average-subarray-i](https://github.com/kanishk3114S/leetcode-problems/tree/master/0643-maximum-average-subarray-i) |
 | [0713-subarray-product-less-than-k](https://github.com/kanishk3114S/leetcode-problems/tree/master/0713-subarray-product-less-than-k) |
 | [1004-max-consecutive-ones-iii](https://github.com/kanishk3114S/leetcode-problems/tree/master/1004-max-consecutive-ones-iii) |
@@ -130,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0135-candy](https://github.com/kanishk3114S/leetcode-problems/tree/master/0135-candy) |
 | [0678-valid-parenthesis-string](https://github.com/kanishk3114S/leetcode-problems/tree/master/0678-valid-parenthesis-string) |
 | [1353-maximum-number-of-events-that-can-be-attended](https://github.com/kanishk3114S/leetcode-problems/tree/master/1353-maximum-number-of-events-that-can-be-attended) |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/kanishk3114S/leetcode-problems/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
