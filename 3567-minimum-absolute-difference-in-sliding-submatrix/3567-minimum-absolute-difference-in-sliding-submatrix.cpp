@@ -22,14 +22,11 @@ public:
                 vec.push_back(it);
             }
 
+            sort(vec.begin() , vec.end());
             for (int i=0; i<vec.size()-1; i++) {
-                for (int j=i+1; j<vec.size(); j++) {
-
-                    diff = abs(vec[i] - vec[j]);
-                    mindiff = min(diff , mindiff);
-
-                }
+                mindiff = min(abs(vec[i] - vec[i+1]) , mindiff);
             }
+          
         }
         // cout << mindiff << endl;
         return mindiff;
