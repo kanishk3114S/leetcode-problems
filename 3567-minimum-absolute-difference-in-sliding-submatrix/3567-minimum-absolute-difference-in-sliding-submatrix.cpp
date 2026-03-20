@@ -31,7 +31,7 @@ public:
                 }
             }
         }
-        cout << mindiff << endl;
+        // cout << mindiff << endl;
         return mindiff;
 
     }
