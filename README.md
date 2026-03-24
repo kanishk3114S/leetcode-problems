@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/kanishk3114S/leetcode-problems/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [1680-concatenation-of-consecutive-binary-numbers](https://github.com/kanishk3114S/leetcode-problems/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
+| [2413-smallest-even-multiple](https://github.com/kanishk3114S/leetcode-problems/tree/master/2413-smallest-even-multiple) |
 | [2520-count-the-digits-that-divide-a-number](https://github.com/kanishk3114S/leetcode-problems/tree/master/2520-count-the-digits-that-divide-a-number) |
 ## Bit Manipulation
 |  |
@@ -197,4 +198,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1353-maximum-number-of-events-that-can-be-attended](https://github.com/kanishk3114S/leetcode-problems/tree/master/1353-maximum-number-of-events-that-can-be-attended) |
+## Number Theory
+|  |
+| ------- |
+| [2413-smallest-even-multiple](https://github.com/kanishk3114S/leetcode-problems/tree/master/2413-smallest-even-multiple) |
 <!---LeetCode Topics End-->
