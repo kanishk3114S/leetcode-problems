@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2090-k-radius-subarray-averages](https://github.com/kanishk3114S/leetcode-problems/tree/master/2090-k-radius-subarray-averages) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/kanishk3114S/leetcode-problems/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2482-difference-between-ones-and-zeros-in-row-and-column](https://github.com/kanishk3114S/leetcode-problems/tree/master/2482-difference-between-ones-and-zeros-in-row-and-column) |
+| [2906-construct-product-matrix](https://github.com/kanishk3114S/leetcode-problems/tree/master/2906-construct-product-matrix) |
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/kanishk3114S/leetcode-problems/tree/master/3070-count-submatrices-with-top-left-element-and-sum-less-than-k) |
 | [3212-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/kanishk3114S/leetcode-problems/tree/master/3212-count-submatrices-with-equal-frequency-of-x-and-y) |
 | [3309-maximum-possible-number-by-binary-concatenation](https://github.com/kanishk3114S/leetcode-problems/tree/master/3309-maximum-possible-number-by-binary-concatenation) |
@@ -75,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0713-subarray-product-less-than-k](https://github.com/kanishk3114S/leetcode-problems/tree/master/0713-subarray-product-less-than-k) |
 | [1004-max-consecutive-ones-iii](https://github.com/kanishk3114S/leetcode-problems/tree/master/1004-max-consecutive-ones-iii) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/kanishk3114S/leetcode-problems/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
+| [2906-construct-product-matrix](https://github.com/kanishk3114S/leetcode-problems/tree/master/2906-construct-product-matrix) |
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/kanishk3114S/leetcode-problems/tree/master/3070-count-submatrices-with-top-left-element-and-sum-less-than-k) |
 | [3129-find-all-possible-stable-binary-arrays-i](https://github.com/kanishk3114S/leetcode-problems/tree/master/3129-find-all-possible-stable-binary-arrays-i) |
 | [3130-find-all-possible-stable-binary-arrays-ii](https://github.com/kanishk3114S/leetcode-problems/tree/master/3130-find-all-possible-stable-binary-arrays-ii) |
@@ -159,6 +161,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1727-largest-submatrix-with-rearrangements](https://github.com/kanishk3114S/leetcode-problems/tree/master/1727-largest-submatrix-with-rearrangements) |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/kanishk3114S/leetcode-problems/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
 | [2482-difference-between-ones-and-zeros-in-row-and-column](https://github.com/kanishk3114S/leetcode-problems/tree/master/2482-difference-between-ones-and-zeros-in-row-and-column) |
+| [2906-construct-product-matrix](https://github.com/kanishk3114S/leetcode-problems/tree/master/2906-construct-product-matrix) |
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/kanishk3114S/leetcode-problems/tree/master/3070-count-submatrices-with-top-left-element-and-sum-less-than-k) |
 | [3212-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/kanishk3114S/leetcode-problems/tree/master/3212-count-submatrices-with-equal-frequency-of-x-and-y) |
 | [3567-minimum-absolute-difference-in-sliding-submatrix](https://github.com/kanishk3114S/leetcode-problems/tree/master/3567-minimum-absolute-difference-in-sliding-submatrix) |
