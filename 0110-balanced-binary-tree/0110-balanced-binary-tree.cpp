@@ -11,31 +11,25 @@
  */
 class Solution {
 public:
-    int height(TreeNode* root , int maxcnt , int cnt) { // a bottom up recursion where we calculate while returning//
+    int getH(TreeNode* root) {
+        //Optimised solution to track the depth and check for the balance for every node//
 
-        if (root == NULL) return cnt; //when we reach the end we give the maximum depth reached//
-        maxcnt = max(maxcnt , cnt);
-        int left = height(root->left , maxcnt , cnt + 1);
-        int right = height(root->right , maxcnt , cnt+ 1);
-        return max(left , right);
+        if (root == NULL) return 0;
+
+        int L = getH(root->left);
+        int R = getH(root->right);
+
+        if (L==-1 || R==-1) return -1;
+        if (abs(L-R) > 1) return -1;
+
+        return 1+max(L,R);
+
     }
 
     bool isBalanced(TreeNode* root) {
-      //brute force//  
-        
-        if(root == NULL) return true;
 
-        int leftsum = height(root->left , 0 , 0);
-        int rightsum = height(root->right , 0 , 0);
-
-        if (abs(leftsum-rightsum) > 1) return false; //the moment we got the wrong//
-
-        bool left = isBalanced(root->left);
-        bool right = isBalanced(root->right);
-
-        if (!left || !right) return false;
-
-        return true;
+        int result = getH(root);
+        return result == -1 ? false : true;
 
     }
 };
