@@ -11,25 +11,24 @@
  */
 class Solution {
 public:
-    int getH(TreeNode* root) {
-        //Optimised solution to track the depth and check for the balance for every node//
+
+    int geth(TreeNode* root) {
 
         if (root == NULL) return 0;
 
-        int L = getH(root->left);
-        int R = getH(root->right);
+        int left = geth(root->left);
+        int right = geth(root->right);
+        if (left == -1 || right == -1) return -1;
+        if (abs(left-right) > 1) return -1;
 
-        if (L==-1 || R==-1) return -1;
-        if (abs(L-R) > 1) return -1;
-
-        return 1+max(L,R);
+        return 1+max(left,right);
 
     }
 
     bool isBalanced(TreeNode* root) {
-
-        int result = getH(root);
-        return result == -1 ? false : true;
+        
+        return geth(root)==-1?false:true;
+        
 
     }
 };
