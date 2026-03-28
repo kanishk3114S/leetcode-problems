@@ -10,7 +10,7 @@ public:
         sort(arr.begin() , arr.end());
         int sum = 0;
         
-        while (i<arr.size()) {
+        while (i<j) {
         while (i>0 && i<arr.size() && arr[i] == arr[i-1]) {
                     i++;
            }
