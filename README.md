@@ -249,6 +249,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0145-binary-tree-postorder-traversal](https://github.com/kanishk3114S/leetcode-problems/tree/master/0145-binary-tree-postorder-traversal) |
 | [0429-n-ary-tree-level-order-traversal](https://github.com/kanishk3114S/leetcode-problems/tree/master/0429-n-ary-tree-level-order-traversal) |
 | [0543-diameter-of-binary-tree](https://github.com/kanishk3114S/leetcode-problems/tree/master/0543-diameter-of-binary-tree) |
+| [0559-maximum-depth-of-n-ary-tree](https://github.com/kanishk3114S/leetcode-problems/tree/master/0559-maximum-depth-of-n-ary-tree) |
 | [0589-n-ary-tree-preorder-traversal](https://github.com/kanishk3114S/leetcode-problems/tree/master/0589-n-ary-tree-preorder-traversal) |
 | [0590-n-ary-tree-postorder-traversal](https://github.com/kanishk3114S/leetcode-problems/tree/master/0590-n-ary-tree-postorder-traversal) |
 ## Depth-First Search
@@ -263,6 +264,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0145-binary-tree-postorder-traversal](https://github.com/kanishk3114S/leetcode-problems/tree/master/0145-binary-tree-postorder-traversal) |
 | [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/kanishk3114S/leetcode-problems/tree/master/0430-flatten-a-multilevel-doubly-linked-list) |
 | [0543-diameter-of-binary-tree](https://github.com/kanishk3114S/leetcode-problems/tree/master/0543-diameter-of-binary-tree) |
+| [0559-maximum-depth-of-n-ary-tree](https://github.com/kanishk3114S/leetcode-problems/tree/master/0559-maximum-depth-of-n-ary-tree) |
 | [0589-n-ary-tree-preorder-traversal](https://github.com/kanishk3114S/leetcode-problems/tree/master/0589-n-ary-tree-preorder-traversal) |
 | [0590-n-ary-tree-postorder-traversal](https://github.com/kanishk3114S/leetcode-problems/tree/master/0590-n-ary-tree-postorder-traversal) |
 ## Binary Tree
@@ -286,6 +288,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/kanishk3114S/leetcode-problems/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/kanishk3114S/leetcode-problems/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0429-n-ary-tree-level-order-traversal](https://github.com/kanishk3114S/leetcode-problems/tree/master/0429-n-ary-tree-level-order-traversal) |
+| [0559-maximum-depth-of-n-ary-tree](https://github.com/kanishk3114S/leetcode-problems/tree/master/0559-maximum-depth-of-n-ary-tree) |
 ## Linked List
 |  |
 | ------- |
