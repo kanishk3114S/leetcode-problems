@@ -27,6 +27,9 @@ public:
 
         //for every node there will be children[i] calls//
         maxcnt = max(cnt , maxcnt);
+
+        //for a particular node----> loop ends...all children visited..then store the depth....//
+
         for (int i=0; i<root->children.size(); i++) {
             
             solver(root->children[i] , maxcnt , cnt + 1);
