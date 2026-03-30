@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0222-count-complete-tree-nodes](https://github.com/kanishk3114S/leetcode-problems/tree/master/0222-count-complete-tree-nodes) |
 | [0476-number-complement](https://github.com/kanishk3114S/leetcode-problems/tree/master/0476-number-complement) |
 | [0693-binary-number-with-alternating-bits](https://github.com/kanishk3114S/leetcode-problems/tree/master/0693-binary-number-with-alternating-bits) |
 | [0868-binary-gap](https://github.com/kanishk3114S/leetcode-problems/tree/master/0868-binary-gap) |
@@ -64,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0222-count-complete-tree-nodes](https://github.com/kanishk3114S/leetcode-problems/tree/master/0222-count-complete-tree-nodes) |
 | [0713-subarray-product-less-than-k](https://github.com/kanishk3114S/leetcode-problems/tree/master/0713-subarray-product-less-than-k) |
 | [1004-max-consecutive-ones-iii](https://github.com/kanishk3114S/leetcode-problems/tree/master/1004-max-consecutive-ones-iii) |
 ## Sliding Window
@@ -250,6 +252,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0124-binary-tree-maximum-path-sum](https://github.com/kanishk3114S/leetcode-problems/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/kanishk3114S/leetcode-problems/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/kanishk3114S/leetcode-problems/tree/master/0145-binary-tree-postorder-traversal) |
+| [0222-count-complete-tree-nodes](https://github.com/kanishk3114S/leetcode-problems/tree/master/0222-count-complete-tree-nodes) |
 | [0429-n-ary-tree-level-order-traversal](https://github.com/kanishk3114S/leetcode-problems/tree/master/0429-n-ary-tree-level-order-traversal) |
 | [0543-diameter-of-binary-tree](https://github.com/kanishk3114S/leetcode-problems/tree/master/0543-diameter-of-binary-tree) |
 | [0559-maximum-depth-of-n-ary-tree](https://github.com/kanishk3114S/leetcode-problems/tree/master/0559-maximum-depth-of-n-ary-tree) |
@@ -287,6 +290,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0124-binary-tree-maximum-path-sum](https://github.com/kanishk3114S/leetcode-problems/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/kanishk3114S/leetcode-problems/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/kanishk3114S/leetcode-problems/tree/master/0145-binary-tree-postorder-traversal) |
+| [0222-count-complete-tree-nodes](https://github.com/kanishk3114S/leetcode-problems/tree/master/0222-count-complete-tree-nodes) |
 | [0543-diameter-of-binary-tree](https://github.com/kanishk3114S/leetcode-problems/tree/master/0543-diameter-of-binary-tree) |
 | [0958-check-completeness-of-a-binary-tree](https://github.com/kanishk3114S/leetcode-problems/tree/master/0958-check-completeness-of-a-binary-tree) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/kanishk3114S/leetcode-problems/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
