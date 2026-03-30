@@ -11,30 +11,27 @@
  */
 class Solution {
 public:
-    int geth(TreeNode* root) {
-
-        if (root == NULL) return 0;
-
-        int l = geth(root->left);
-        int r = geth(root->right);
-
-        return 1+max(l,r);
-
-    }
-
     bool isCompleteTree(TreeNode* root) {
-
-        int depth = geth(root); //1 based indexing//
         
         queue<TreeNode*> q;
         q.push(root);
-        int currdepth = 0;
-        bool gotnull = false;
+        bool gotnull = false; //do not reset for each level..//
+
+        //this will check the completeness//
+
+        //earlier....at each level is you see node after getting null node return false.....BUT thats for the last level..levels above that should be filled...//
+        // therefore.....after resetting at each level we will treat eveyrhitng as leaf node//
+
+        //what if....leaf case -- true....but one more level exists//
+
+        //either for currdepth != depth check completeness and for the last case check leaf case//
+        // or better----> if you encounter null you must not encounter a node//
+
+        //made a global got null variable//
 
         while (!q.empty()) {
 
             int size = q.size();
-            currdepth ++;
             for (int i=0; i<size; i++) {
 
                 TreeNode* node = q.front();
@@ -58,7 +55,6 @@ public:
 
                 } else gotnull = true;
 
-                // if ((node->left != NULL || node->right != NULL) && currdepth != depth) return false;
             }
         }
         return true;
