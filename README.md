@@ -122,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/kanishk3114S/leetcode-problems/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0257-binary-tree-paths](https://github.com/kanishk3114S/leetcode-problems/tree/master/0257-binary-tree-paths) |
 | [0678-valid-parenthesis-string](https://github.com/kanishk3114S/leetcode-problems/tree/master/0678-valid-parenthesis-string) |
 | [0696-count-binary-substrings](https://github.com/kanishk3114S/leetcode-problems/tree/master/0696-count-binary-substrings) |
 | [1297-maximum-number-of-occurrences-of-a-substring](https://github.com/kanishk3114S/leetcode-problems/tree/master/1297-maximum-number-of-occurrences-of-a-substring) |
@@ -225,6 +226,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0046-permutations](https://github.com/kanishk3114S/leetcode-problems/tree/master/0046-permutations) |
+| [0257-binary-tree-paths](https://github.com/kanishk3114S/leetcode-problems/tree/master/0257-binary-tree-paths) |
 | [1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/kanishk3114S/leetcode-problems/tree/master/1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
 | [1980-find-unique-binary-string](https://github.com/kanishk3114S/leetcode-problems/tree/master/1980-find-unique-binary-string) |
 ## Sorting
@@ -262,6 +264,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0145-binary-tree-postorder-traversal](https://github.com/kanishk3114S/leetcode-problems/tree/master/0145-binary-tree-postorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/kanishk3114S/leetcode-problems/tree/master/0199-binary-tree-right-side-view) |
 | [0222-count-complete-tree-nodes](https://github.com/kanishk3114S/leetcode-problems/tree/master/0222-count-complete-tree-nodes) |
+| [0257-binary-tree-paths](https://github.com/kanishk3114S/leetcode-problems/tree/master/0257-binary-tree-paths) |
 | [0429-n-ary-tree-level-order-traversal](https://github.com/kanishk3114S/leetcode-problems/tree/master/0429-n-ary-tree-level-order-traversal) |
 | [0543-diameter-of-binary-tree](https://github.com/kanishk3114S/leetcode-problems/tree/master/0543-diameter-of-binary-tree) |
 | [0559-maximum-depth-of-n-ary-tree](https://github.com/kanishk3114S/leetcode-problems/tree/master/0559-maximum-depth-of-n-ary-tree) |
@@ -284,6 +287,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0144-binary-tree-preorder-traversal](https://github.com/kanishk3114S/leetcode-problems/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/kanishk3114S/leetcode-problems/tree/master/0145-binary-tree-postorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/kanishk3114S/leetcode-problems/tree/master/0199-binary-tree-right-side-view) |
+| [0257-binary-tree-paths](https://github.com/kanishk3114S/leetcode-problems/tree/master/0257-binary-tree-paths) |
 | [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/kanishk3114S/leetcode-problems/tree/master/0430-flatten-a-multilevel-doubly-linked-list) |
 | [0543-diameter-of-binary-tree](https://github.com/kanishk3114S/leetcode-problems/tree/master/0543-diameter-of-binary-tree) |
 | [0559-maximum-depth-of-n-ary-tree](https://github.com/kanishk3114S/leetcode-problems/tree/master/0559-maximum-depth-of-n-ary-tree) |
@@ -308,6 +312,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0145-binary-tree-postorder-traversal](https://github.com/kanishk3114S/leetcode-problems/tree/master/0145-binary-tree-postorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/kanishk3114S/leetcode-problems/tree/master/0199-binary-tree-right-side-view) |
 | [0222-count-complete-tree-nodes](https://github.com/kanishk3114S/leetcode-problems/tree/master/0222-count-complete-tree-nodes) |
+| [0257-binary-tree-paths](https://github.com/kanishk3114S/leetcode-problems/tree/master/0257-binary-tree-paths) |
 | [0543-diameter-of-binary-tree](https://github.com/kanishk3114S/leetcode-problems/tree/master/0543-diameter-of-binary-tree) |
 | [0958-check-completeness-of-a-binary-tree](https://github.com/kanishk3114S/leetcode-problems/tree/master/0958-check-completeness-of-a-binary-tree) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/kanishk3114S/leetcode-problems/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
