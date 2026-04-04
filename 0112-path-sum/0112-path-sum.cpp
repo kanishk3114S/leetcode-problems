@@ -15,7 +15,7 @@ public:
         return root->left == NULL && root->right == NULL;
     }
 
-    bool solver(TreeNode* root , int sum , int target) {
+    bool solver(TreeNode* root , int& sum , int target) {
 
         //base case//
         if (root == NULL) return false;
@@ -25,8 +25,8 @@ public:
 
         if(isleaf(root)) {
 
-            if (sum == target) return true;
-            else return false;
+            if (sum == target) {sum-= root->val; return true;}
+            else {sum-= root->val; return false;}
 
         } 
 
@@ -42,6 +42,7 @@ public:
     }
 
     bool hasPathSum(TreeNode* root, int target) {
-        return solver(root , 0 , target);
+        int sum = 0;
+        return solver(root , sum , target);
     }
 };
