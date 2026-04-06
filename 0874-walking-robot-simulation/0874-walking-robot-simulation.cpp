@@ -30,15 +30,18 @@ public:
 
                 for (int steps = 0; steps < cmd[i]; steps++) {
 
-                    int dx = x + dir[d].first;
-                    int dy = y + dir[d].second;
+                    x+= dir[d].first;
+                    y += dir[d].second;
 
-                    if (s.count({dx , dy})) break;
+                    if (s.count({x , y})) {
 
-                    x  = dx;
-                    y  = dy;
+                        x-= dir[d].first;
+                        y-= dir[d].second;
+                        ans = max(ans , x*x + y*y);
+                        break;
 
-                    
+                    }
+
                     ans = max(ans , x*x+y*y);
 
                 }
