@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0643-maximum-average-subarray-i](https://github.com/kanishk3114S/leetcode-problems/tree/master/0643-maximum-average-subarray-i) |
 | [0713-subarray-product-less-than-k](https://github.com/kanishk3114S/leetcode-problems/tree/master/0713-subarray-product-less-than-k) |
 | [0874-walking-robot-simulation](https://github.com/kanishk3114S/leetcode-problems/tree/master/0874-walking-robot-simulation) |
+| [0889-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/kanishk3114S/leetcode-problems/tree/master/0889-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [0950-reveal-cards-in-increasing-order](https://github.com/kanishk3114S/leetcode-problems/tree/master/0950-reveal-cards-in-increasing-order) |
 | [0986-interval-list-intersections](https://github.com/kanishk3114S/leetcode-problems/tree/master/0986-interval-list-intersections) |
 | [1004-max-consecutive-ones-iii](https://github.com/kanishk3114S/leetcode-problems/tree/master/1004-max-consecutive-ones-iii) |
@@ -116,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/kanishk3114S/leetcode-problems/tree/master/0560-subarray-sum-equals-k) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/kanishk3114S/leetcode-problems/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0874-walking-robot-simulation](https://github.com/kanishk3114S/leetcode-problems/tree/master/0874-walking-robot-simulation) |
+| [0889-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/kanishk3114S/leetcode-problems/tree/master/0889-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/kanishk3114S/leetcode-problems/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1297-maximum-number-of-occurrences-of-a-substring](https://github.com/kanishk3114S/leetcode-problems/tree/master/1297-maximum-number-of-occurrences-of-a-substring) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/kanishk3114S/leetcode-problems/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
@@ -305,6 +307,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0637-average-of-levels-in-binary-tree](https://github.com/kanishk3114S/leetcode-problems/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/kanishk3114S/leetcode-problems/tree/master/0662-maximum-width-of-binary-tree) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/kanishk3114S/leetcode-problems/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
+| [0889-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/kanishk3114S/leetcode-problems/tree/master/0889-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [0958-check-completeness-of-a-binary-tree](https://github.com/kanishk3114S/leetcode-problems/tree/master/0958-check-completeness-of-a-binary-tree) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/kanishk3114S/leetcode-problems/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [0993-cousins-in-binary-tree](https://github.com/kanishk3114S/leetcode-problems/tree/master/0993-cousins-in-binary-tree) |
@@ -369,6 +372,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0637-average-of-levels-in-binary-tree](https://github.com/kanishk3114S/leetcode-problems/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/kanishk3114S/leetcode-problems/tree/master/0662-maximum-width-of-binary-tree) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/kanishk3114S/leetcode-problems/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
+| [0889-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/kanishk3114S/leetcode-problems/tree/master/0889-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [0958-check-completeness-of-a-binary-tree](https://github.com/kanishk3114S/leetcode-problems/tree/master/0958-check-completeness-of-a-binary-tree) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/kanishk3114S/leetcode-problems/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [0993-cousins-in-binary-tree](https://github.com/kanishk3114S/leetcode-problems/tree/master/0993-cousins-in-binary-tree) |
@@ -420,6 +424,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/kanishk3114S/leetcode-problems/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/kanishk3114S/leetcode-problems/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
+| [0889-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/kanishk3114S/leetcode-problems/tree/master/0889-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/kanishk3114S/leetcode-problems/tree/master/3653-xor-after-range-multiplication-queries-i) |
 ## Design
 |  |
