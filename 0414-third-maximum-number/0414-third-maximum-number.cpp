@@ -1,20 +1,32 @@
 class Solution {
 public:
     int thirdMax(vector<int>& nums) {
-        set<long long , greater<long long>> s;
+        
+        long long a = LLONG_MIN , b = LLONG_MIN, c = LLONG_MIN;
 
-        for (int i=0; i<nums.size(); i++) s.insert(nums[i]);
+        for (int i=0; i<nums.size(); i++) {
 
-        if (s.size() < 3) {
-            return *s.begin();
-        } else {
+            if (nums[i] == a || nums[i] == b || nums[i] == c) continue;
 
-            while (s.size() > 3) {
+            if (nums[i] > a) {
 
-                s.erase(prev(s.end()));
+                c = b;
+                b = a;
+                a = nums[i];
+
+            } else if (nums[i] > b) {
+
+                c = b;
+                b = nums[i];
+
+            } else if (nums[i] > c) {
+
+                c = nums[i];
+
             }
 
         }
-        return *prev(s.end());
+        return c==LLONG_MIN ? a : c;
+
     }
 };
