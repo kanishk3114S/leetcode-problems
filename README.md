@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2413-smallest-even-multiple](https://github.com/kanishk3114S/leetcode-problems/tree/master/2413-smallest-even-multiple) |
 | [2520-count-the-digits-that-divide-a-number](https://github.com/kanishk3114S/leetcode-problems/tree/master/2520-count-the-digits-that-divide-a-number) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/kanishk3114S/leetcode-problems/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
+| [3591-check-if-any-element-has-prime-frequency](https://github.com/kanishk3114S/leetcode-problems/tree/master/3591-check-if-any-element-has-prime-frequency) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -65,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3309-maximum-possible-number-by-binary-concatenation](https://github.com/kanishk3114S/leetcode-problems/tree/master/3309-maximum-possible-number-by-binary-concatenation) |
 | [3546-equal-sum-grid-partition-i](https://github.com/kanishk3114S/leetcode-problems/tree/master/3546-equal-sum-grid-partition-i) |
 | [3567-minimum-absolute-difference-in-sliding-submatrix](https://github.com/kanishk3114S/leetcode-problems/tree/master/3567-minimum-absolute-difference-in-sliding-submatrix) |
+| [3591-check-if-any-element-has-prime-frequency](https://github.com/kanishk3114S/leetcode-problems/tree/master/3591-check-if-any-element-has-prime-frequency) |
 | [3643-flip-square-submatrix-vertically](https://github.com/kanishk3114S/leetcode-problems/tree/master/3643-flip-square-submatrix-vertically) |
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/kanishk3114S/leetcode-problems/tree/master/3653-xor-after-range-multiplication-queries-i) |
 | [3779-minimum-number-of-operations-to-have-distinct-elements](https://github.com/kanishk3114S/leetcode-problems/tree/master/3779-minimum-number-of-operations-to-have-distinct-elements) |
@@ -132,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/kanishk3114S/leetcode-problems/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2641-cousins-in-binary-tree-ii](https://github.com/kanishk3114S/leetcode-problems/tree/master/2641-cousins-in-binary-tree-ii) |
 | [3146-permutation-difference-between-two-strings](https://github.com/kanishk3114S/leetcode-problems/tree/master/3146-permutation-difference-between-two-strings) |
+| [3591-check-if-any-element-has-prime-frequency](https://github.com/kanishk3114S/leetcode-problems/tree/master/3591-check-if-any-element-has-prime-frequency) |
 | [3779-minimum-number-of-operations-to-have-distinct-elements](https://github.com/kanishk3114S/leetcode-problems/tree/master/3779-minimum-number-of-operations-to-have-distinct-elements) |
 | [3853-merge-close-characters](https://github.com/kanishk3114S/leetcode-problems/tree/master/3853-merge-close-characters) |
 ## String
@@ -180,6 +183,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/kanishk3114S/leetcode-problems/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [2053-kth-distinct-string-in-an-array](https://github.com/kanishk3114S/leetcode-problems/tree/master/2053-kth-distinct-string-in-an-array) |
 | [2833-furthest-point-from-origin](https://github.com/kanishk3114S/leetcode-problems/tree/master/2833-furthest-point-from-origin) |
+| [3591-check-if-any-element-has-prime-frequency](https://github.com/kanishk3114S/leetcode-problems/tree/master/3591-check-if-any-element-has-prime-frequency) |
 ## Rolling Hash
 |  |
 | ------- |
@@ -283,6 +287,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1952-three-divisors](https://github.com/kanishk3114S/leetcode-problems/tree/master/1952-three-divisors) |
 | [2413-smallest-even-multiple](https://github.com/kanishk3114S/leetcode-problems/tree/master/2413-smallest-even-multiple) |
+| [3591-check-if-any-element-has-prime-frequency](https://github.com/kanishk3114S/leetcode-problems/tree/master/3591-check-if-any-element-has-prime-frequency) |
 ## Tree
 |  |
 | ------- |
