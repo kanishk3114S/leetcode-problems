@@ -1,32 +1,26 @@
+#include <bits/stdc++.h>
+using namespace std;
+
 class Solution {
 public:
 
 
     int calc(vector<int>&v) {
 
-        sort(v.begin() , v.end());
+        int l = 0 , r = 1 , p = 2;
 
-        int l = 0 , r = 2;
-        int maxel = INT_MIN , minel = INT_MAX;
-        int ans = 0;
-        for (int i=l; i<=r; i++) {
+        int ans = INT_MAX;
 
-            maxel = max(maxel , v[i]);
-            minel = min(minel , v[i]);
-        }
-        ans = 2*(maxel - minel);
+        ans = min(ans , abs(v[l] - v[r]) + abs(v[r] - v[p]) + abs(v[p] - v[l]));
 
-        while (r < v.size()) {
+        while (p < v.size()) {
 
             l++;
             r++;
+            p++;
 
-            if (r == v.size()) break;
-
-            maxel = v[r];
-            minel = v[l];
-
-            ans = min(ans , 2*(maxel - minel));
+            if (p == v.size()) break;
+           ans = min(ans , abs(v[l] - v[r]) + abs(v[r] - v[p]) + abs(v[p] - v[l]));
 
         }
 
