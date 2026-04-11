@@ -2,9 +2,9 @@ class Solution {
 public:
 
 
-    int calc(set<int>&s) {
+    int calc(vector<int>&v) {
 
-        vector<int> v(s.begin(), s.end());
+        sort(v.begin() , v.end());
 
         int l = 0 , r = 2;
         int maxel = INT_MIN , minel = INT_MAX;
@@ -15,8 +15,6 @@ public:
             minel = min(minel , v[i]);
         }
         ans = 2*(maxel - minel);
-
-        // cout << maxel << " " << minel << endl;
 
         while (r < v.size()) {
 
@@ -40,11 +38,11 @@ public:
 
         int result = INT_MAX;
         
-        unordered_map<int , set<int>> mpp;
+        unordered_map<int , vector<int>> mpp;
 
         for (int i=0; i<arr.size(); i++) {
 
-            mpp[arr[i]].insert(i); //store all the indices of elements//
+            mpp[arr[i]].push_back(i); //store all the indices of elements//
 
         }
 
