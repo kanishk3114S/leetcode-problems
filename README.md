@@ -71,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3643-flip-square-submatrix-vertically](https://github.com/kanishk3114S/leetcode-problems/tree/master/3643-flip-square-submatrix-vertically) |
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/kanishk3114S/leetcode-problems/tree/master/3653-xor-after-range-multiplication-queries-i) |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/kanishk3114S/leetcode-problems/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
+| [3741-minimum-distance-between-three-equal-elements-ii](https://github.com/kanishk3114S/leetcode-problems/tree/master/3741-minimum-distance-between-three-equal-elements-ii) |
 | [3779-minimum-number-of-operations-to-have-distinct-elements](https://github.com/kanishk3114S/leetcode-problems/tree/master/3779-minimum-number-of-operations-to-have-distinct-elements) |
 | [3862-find-the-smallest-balanced-index](https://github.com/kanishk3114S/leetcode-problems/tree/master/3862-find-the-smallest-balanced-index) |
 ## Binary Search
@@ -138,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3146-permutation-difference-between-two-strings](https://github.com/kanishk3114S/leetcode-problems/tree/master/3146-permutation-difference-between-two-strings) |
 | [3591-check-if-any-element-has-prime-frequency](https://github.com/kanishk3114S/leetcode-problems/tree/master/3591-check-if-any-element-has-prime-frequency) |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/kanishk3114S/leetcode-problems/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
+| [3741-minimum-distance-between-three-equal-elements-ii](https://github.com/kanishk3114S/leetcode-problems/tree/master/3741-minimum-distance-between-three-equal-elements-ii) |
 | [3779-minimum-number-of-operations-to-have-distinct-elements](https://github.com/kanishk3114S/leetcode-problems/tree/master/3779-minimum-number-of-operations-to-have-distinct-elements) |
 | [3853-merge-close-characters](https://github.com/kanishk3114S/leetcode-problems/tree/master/3853-merge-close-characters) |
 ## String
