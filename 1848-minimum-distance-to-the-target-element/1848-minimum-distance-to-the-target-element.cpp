@@ -1,19 +1,19 @@
 class Solution {
 public:
     int getMinDistance(vector<int>& nums, int target, int start) {
-        unordered_map<int,vector<int>> mpp;
-        for (int i=0; i<nums.size(); i++) {
-            mpp[nums[i]].push_back(i);
-        }
+        
 
+        //o(1) approach//
         int ans = INT_MAX;
+        for (int i=0; i<nums.size(); i++) {
 
-        for (int i=0; i<mpp[target].size(); i++) {
+            if (nums[i] == target) {
 
-            ans = min(ans , abs(mpp[target][i] - start));
+                ans = min(ans , abs(i - start));
 
-        }
+            }
 
+        }   
         return ans;
         
     }
