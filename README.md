@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0222-count-complete-tree-nodes](https://github.com/kanishk3114S/leetcode-problems/tree/master/0222-count-complete-tree-nodes) |
 | [0476-number-complement](https://github.com/kanishk3114S/leetcode-problems/tree/master/0476-number-complement) |
+| [0645-set-mismatch](https://github.com/kanishk3114S/leetcode-problems/tree/master/0645-set-mismatch) |
 | [0693-binary-number-with-alternating-bits](https://github.com/kanishk3114S/leetcode-problems/tree/master/0693-binary-number-with-alternating-bits) |
 | [0868-binary-gap](https://github.com/kanishk3114S/leetcode-problems/tree/master/0868-binary-gap) |
 | [1009-complement-of-base-10-integer](https://github.com/kanishk3114S/leetcode-problems/tree/master/1009-complement-of-base-10-integer) |
@@ -41,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/kanishk3114S/leetcode-problems/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0560-subarray-sum-equals-k](https://github.com/kanishk3114S/leetcode-problems/tree/master/0560-subarray-sum-equals-k) |
 | [0643-maximum-average-subarray-i](https://github.com/kanishk3114S/leetcode-problems/tree/master/0643-maximum-average-subarray-i) |
+| [0645-set-mismatch](https://github.com/kanishk3114S/leetcode-problems/tree/master/0645-set-mismatch) |
 | [0713-subarray-product-less-than-k](https://github.com/kanishk3114S/leetcode-problems/tree/master/0713-subarray-product-less-than-k) |
 | [0874-walking-robot-simulation](https://github.com/kanishk3114S/leetcode-problems/tree/master/0874-walking-robot-simulation) |
 | [0889-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/kanishk3114S/leetcode-problems/tree/master/0889-construct-binary-tree-from-preorder-and-postorder-traversal) |
@@ -128,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/kanishk3114S/leetcode-problems/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0560-subarray-sum-equals-k](https://github.com/kanishk3114S/leetcode-problems/tree/master/0560-subarray-sum-equals-k) |
 | [0567-permutation-in-string](https://github.com/kanishk3114S/leetcode-problems/tree/master/0567-permutation-in-string) |
+| [0645-set-mismatch](https://github.com/kanishk3114S/leetcode-problems/tree/master/0645-set-mismatch) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/kanishk3114S/leetcode-problems/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0874-walking-robot-simulation](https://github.com/kanishk3114S/leetcode-problems/tree/master/0874-walking-robot-simulation) |
 | [0889-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/kanishk3114S/leetcode-problems/tree/master/0889-construct-binary-tree-from-preorder-and-postorder-traversal) |
@@ -284,6 +287,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0015-3sum](https://github.com/kanishk3114S/leetcode-problems/tree/master/0015-3sum) |
 | [0414-third-maximum-number](https://github.com/kanishk3114S/leetcode-problems/tree/master/0414-third-maximum-number) |
+| [0645-set-mismatch](https://github.com/kanishk3114S/leetcode-problems/tree/master/0645-set-mismatch) |
 | [0950-reveal-cards-in-increasing-order](https://github.com/kanishk3114S/leetcode-problems/tree/master/0950-reveal-cards-in-increasing-order) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/kanishk3114S/leetcode-problems/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1353-maximum-number-of-events-that-can-be-attended](https://github.com/kanishk3114S/leetcode-problems/tree/master/1353-maximum-number-of-events-that-can-be-attended) |
