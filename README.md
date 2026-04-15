@@ -159,6 +159,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0257-binary-tree-paths](https://github.com/kanishk3114S/leetcode-problems/tree/master/0257-binary-tree-paths) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/kanishk3114S/leetcode-problems/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/kanishk3114S/leetcode-problems/tree/master/0438-find-all-anagrams-in-a-string) |
+| [0520-detect-capital](https://github.com/kanishk3114S/leetcode-problems/tree/master/0520-detect-capital) |
 | [0567-permutation-in-string](https://github.com/kanishk3114S/leetcode-problems/tree/master/0567-permutation-in-string) |
 | [0657-robot-return-to-origin](https://github.com/kanishk3114S/leetcode-problems/tree/master/0657-robot-return-to-origin) |
 | [0678-valid-parenthesis-string](https://github.com/kanishk3114S/leetcode-problems/tree/master/0678-valid-parenthesis-string) |
