@@ -72,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/kanishk3114S/leetcode-problems/tree/master/3070-count-submatrices-with-top-left-element-and-sum-less-than-k) |
 | [3212-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/kanishk3114S/leetcode-problems/tree/master/3212-count-submatrices-with-equal-frequency-of-x-and-y) |
 | [3309-maximum-possible-number-by-binary-concatenation](https://github.com/kanishk3114S/leetcode-problems/tree/master/3309-maximum-possible-number-by-binary-concatenation) |
+| [3488-closest-equal-element-queries](https://github.com/kanishk3114S/leetcode-problems/tree/master/3488-closest-equal-element-queries) |
 | [3546-equal-sum-grid-partition-i](https://github.com/kanishk3114S/leetcode-problems/tree/master/3546-equal-sum-grid-partition-i) |
 | [3567-minimum-absolute-difference-in-sliding-submatrix](https://github.com/kanishk3114S/leetcode-problems/tree/master/3567-minimum-absolute-difference-in-sliding-submatrix) |
 | [3591-check-if-any-element-has-prime-frequency](https://github.com/kanishk3114S/leetcode-problems/tree/master/3591-check-if-any-element-has-prime-frequency) |
@@ -87,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0222-count-complete-tree-nodes](https://github.com/kanishk3114S/leetcode-problems/tree/master/0222-count-complete-tree-nodes) |
 | [0713-subarray-product-less-than-k](https://github.com/kanishk3114S/leetcode-problems/tree/master/0713-subarray-product-less-than-k) |
 | [1004-max-consecutive-ones-iii](https://github.com/kanishk3114S/leetcode-problems/tree/master/1004-max-consecutive-ones-iii) |
+| [3488-closest-equal-element-queries](https://github.com/kanishk3114S/leetcode-problems/tree/master/3488-closest-equal-element-queries) |
 ## Sliding Window
 |  |
 | ------- |
@@ -147,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/kanishk3114S/leetcode-problems/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2641-cousins-in-binary-tree-ii](https://github.com/kanishk3114S/leetcode-problems/tree/master/2641-cousins-in-binary-tree-ii) |
 | [3146-permutation-difference-between-two-strings](https://github.com/kanishk3114S/leetcode-problems/tree/master/3146-permutation-difference-between-two-strings) |
+| [3488-closest-equal-element-queries](https://github.com/kanishk3114S/leetcode-problems/tree/master/3488-closest-equal-element-queries) |
 | [3591-check-if-any-element-has-prime-frequency](https://github.com/kanishk3114S/leetcode-problems/tree/master/3591-check-if-any-element-has-prime-frequency) |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/kanishk3114S/leetcode-problems/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
 | [3741-minimum-distance-between-three-equal-elements-ii](https://github.com/kanishk3114S/leetcode-problems/tree/master/3741-minimum-distance-between-three-equal-elements-ii) |
