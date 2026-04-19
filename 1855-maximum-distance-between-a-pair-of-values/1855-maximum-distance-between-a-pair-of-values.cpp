@@ -17,8 +17,12 @@ public:
 
             } else if (arr1[ptr1] > arr2[ptr2]) {
 
-                ptr1++;
-                ptr2++;
+                if (ptr1 == ptr2) {
+                    ptr1++;
+                    ptr2++;
+                } else {
+                    ptr1++;
+                }
 
             }
 
