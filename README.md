@@ -65,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/kanishk3114S/leetcode-problems/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
 | [1980-find-unique-binary-string](https://github.com/kanishk3114S/leetcode-problems/tree/master/1980-find-unique-binary-string) |
 | [2053-kth-distinct-string-in-an-array](https://github.com/kanishk3114S/leetcode-problems/tree/master/2053-kth-distinct-string-in-an-array) |
+| [2078-two-furthest-houses-with-different-colors](https://github.com/kanishk3114S/leetcode-problems/tree/master/2078-two-furthest-houses-with-different-colors) |
 | [2079-watering-plants](https://github.com/kanishk3114S/leetcode-problems/tree/master/2079-watering-plants) |
 | [2090-k-radius-subarray-averages](https://github.com/kanishk3114S/leetcode-problems/tree/master/2090-k-radius-subarray-averages) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/kanishk3114S/leetcode-problems/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
@@ -252,6 +253,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/kanishk3114S/leetcode-problems/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/kanishk3114S/leetcode-problems/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/kanishk3114S/leetcode-problems/tree/master/1727-largest-submatrix-with-rearrangements) |
+| [2078-two-furthest-houses-with-different-colors](https://github.com/kanishk3114S/leetcode-problems/tree/master/2078-two-furthest-houses-with-different-colors) |
 ## Matrix
 |  |
 | ------- |
