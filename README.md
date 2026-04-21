@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0009-palindrome-number](https://github.com/kanishk3114S/leetcode-problems/tree/master/0009-palindrome-number) |
 | [0264-ugly-number-ii](https://github.com/kanishk3114S/leetcode-problems/tree/master/0264-ugly-number-ii) |
+| [1295-find-numbers-with-even-number-of-digits](https://github.com/kanishk3114S/leetcode-problems/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/kanishk3114S/leetcode-problems/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [1680-concatenation-of-consecutive-binary-numbers](https://github.com/kanishk3114S/leetcode-problems/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
 | [1952-three-divisors](https://github.com/kanishk3114S/leetcode-problems/tree/master/1952-three-divisors) |
@@ -53,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0950-reveal-cards-in-increasing-order](https://github.com/kanishk3114S/leetcode-problems/tree/master/0950-reveal-cards-in-increasing-order) |
 | [0986-interval-list-intersections](https://github.com/kanishk3114S/leetcode-problems/tree/master/0986-interval-list-intersections) |
 | [1004-max-consecutive-ones-iii](https://github.com/kanishk3114S/leetcode-problems/tree/master/1004-max-consecutive-ones-iii) |
+| [1295-find-numbers-with-even-number-of-digits](https://github.com/kanishk3114S/leetcode-problems/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1324-print-words-vertically](https://github.com/kanishk3114S/leetcode-problems/tree/master/1324-print-words-vertically) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/kanishk3114S/leetcode-problems/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1353-maximum-number-of-events-that-can-be-attended](https://github.com/kanishk3114S/leetcode-problems/tree/master/1353-maximum-number-of-events-that-can-be-attended) |
