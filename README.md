@@ -61,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/kanishk3114S/leetcode-problems/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/kanishk3114S/leetcode-problems/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/kanishk3114S/leetcode-problems/tree/master/1582-special-positions-in-a-binary-matrix) |
+| [1722-minimize-hamming-distance-after-swap-operations](https://github.com/kanishk3114S/leetcode-problems/tree/master/1722-minimize-hamming-distance-after-swap-operations) |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/kanishk3114S/leetcode-problems/tree/master/1727-largest-submatrix-with-rearrangements) |
 | [1848-minimum-distance-to-the-target-element](https://github.com/kanishk3114S/leetcode-problems/tree/master/1848-minimum-distance-to-the-target-element) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/kanishk3114S/leetcode-problems/tree/master/1855-maximum-distance-between-a-pair-of-values) |
@@ -398,6 +399,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/kanishk3114S/leetcode-problems/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [0993-cousins-in-binary-tree](https://github.com/kanishk3114S/leetcode-problems/tree/master/0993-cousins-in-binary-tree) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/kanishk3114S/leetcode-problems/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
+| [1722-minimize-hamming-distance-after-swap-operations](https://github.com/kanishk3114S/leetcode-problems/tree/master/1722-minimize-hamming-distance-after-swap-operations) |
 | [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/kanishk3114S/leetcode-problems/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
 | [2641-cousins-in-binary-tree-ii](https://github.com/kanishk3114S/leetcode-problems/tree/master/2641-cousins-in-binary-tree-ii) |
 ## Binary Tree
@@ -497,4 +499,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0386-lexicographical-numbers](https://github.com/kanishk3114S/leetcode-problems/tree/master/0386-lexicographical-numbers) |
+## Union-Find
+|  |
+| ------- |
+| [1722-minimize-hamming-distance-after-swap-operations](https://github.com/kanishk3114S/leetcode-problems/tree/master/1722-minimize-hamming-distance-after-swap-operations) |
 <!---LeetCode Topics End-->
