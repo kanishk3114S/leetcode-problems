@@ -1,20 +1,20 @@
 class Solution {
 public:
-bool isgood(string s , string t) {
+// bool isgood(string s , string t) {
 
-    int changed = 0;
+//     int changed = 0;
 
-    for (int i=0; i<s.length(); i++) {
+//     for (int i=0; i<s.length(); i++) {
 
-        if (s[i] != t[i]) changed++;
+//         if (s[i] != t[i]) changed++;
 
-    }
+//     }
 
-    if (changed <=2) return true;
+//     if (changed <=2) return true;
 
-    return false;
+//     return false;
 
-}
+// }
 
 vector<string> twoEditWords(vector<string>& q, vector<string>& d) {
     
@@ -23,12 +23,18 @@ vector<string> twoEditWords(vector<string>& q, vector<string>& d) {
         string s = q[i];
         for (int j=0; j<d.size(); j++) {
             string t = d[j];
-            if (isgood(s , t)) {
+    int changed = 0;
 
-                ans.push_back(s);
-                break;
+    for (int i=0; i<s.length(); i++) {
 
-            }
+        if (s[i] != t[i]) changed++;
+
+    }
+
+    if (changed <=2) {
+        ans.push_back(s);
+        break;
+    } else continue;
         }
     }
     return ans;
