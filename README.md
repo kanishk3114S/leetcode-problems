@@ -76,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2482-difference-between-ones-and-zeros-in-row-and-column](https://github.com/kanishk3114S/leetcode-problems/tree/master/2482-difference-between-ones-and-zeros-in-row-and-column) |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/kanishk3114S/leetcode-problems/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
 | [2559-count-vowel-strings-in-ranges](https://github.com/kanishk3114S/leetcode-problems/tree/master/2559-count-vowel-strings-in-ranges) |
+| [2615-sum-of-distances](https://github.com/kanishk3114S/leetcode-problems/tree/master/2615-sum-of-distances) |
 | [2906-construct-product-matrix](https://github.com/kanishk3114S/leetcode-problems/tree/master/2906-construct-product-matrix) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/kanishk3114S/leetcode-problems/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/kanishk3114S/leetcode-problems/tree/master/3070-count-submatrices-with-top-left-element-and-sum-less-than-k) |
@@ -125,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1004-max-consecutive-ones-iii](https://github.com/kanishk3114S/leetcode-problems/tree/master/1004-max-consecutive-ones-iii) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/kanishk3114S/leetcode-problems/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [2559-count-vowel-strings-in-ranges](https://github.com/kanishk3114S/leetcode-problems/tree/master/2559-count-vowel-strings-in-ranges) |
+| [2615-sum-of-distances](https://github.com/kanishk3114S/leetcode-problems/tree/master/2615-sum-of-distances) |
 | [2906-construct-product-matrix](https://github.com/kanishk3114S/leetcode-problems/tree/master/2906-construct-product-matrix) |
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/kanishk3114S/leetcode-problems/tree/master/3070-count-submatrices-with-top-left-element-and-sum-less-than-k) |
 | [3129-find-all-possible-stable-binary-arrays-i](https://github.com/kanishk3114S/leetcode-problems/tree/master/3129-find-all-possible-stable-binary-arrays-i) |
@@ -158,6 +160,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2053-kth-distinct-string-in-an-array](https://github.com/kanishk3114S/leetcode-problems/tree/master/2053-kth-distinct-string-in-an-array) |
 | [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/kanishk3114S/leetcode-problems/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/kanishk3114S/leetcode-problems/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
+| [2615-sum-of-distances](https://github.com/kanishk3114S/leetcode-problems/tree/master/2615-sum-of-distances) |
 | [2641-cousins-in-binary-tree-ii](https://github.com/kanishk3114S/leetcode-problems/tree/master/2641-cousins-in-binary-tree-ii) |
 | [3146-permutation-difference-between-two-strings](https://github.com/kanishk3114S/leetcode-problems/tree/master/3146-permutation-difference-between-two-strings) |
 | [3488-closest-equal-element-queries](https://github.com/kanishk3114S/leetcode-problems/tree/master/3488-closest-equal-element-queries) |
