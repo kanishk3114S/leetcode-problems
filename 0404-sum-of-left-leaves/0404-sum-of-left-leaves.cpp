@@ -17,34 +17,26 @@ public:
 
     }
 
-    int sumOfLeftLeaves(TreeNode* root) {
+    int solver(TreeNode* root , int idx) {
         
-        queue<pair<TreeNode*,int>> q;
+        if (root == NULL) return 0;
 
-        q.push({root , -1});
-        int sum = 0;
-
-        while (!q.empty()) {
-
-            int size = q.size();
-
-            for (int i=0; i<size; i++) {
-
-                TreeNode* node = q.front().first;
-                int num = q.front().second;
-                q.pop();
-
-                if (node->left != NULL) q.push({node->left , 1});
-                if (node->right != NULL) q.push({node->right , 0});
-
-                if (num == 1 && isleaf(node)) sum+=node->val;
-
-            }
-
+        if (root!=NULL && isleaf(root) && idx == 1) {
+            return root->val;
+        }
+        if (root!=NULL && isleaf(root) && idx == 0) {
+            return 0;
         }
 
-        return sum;
+        int l = solver(root->left , 1);
+        int r = solver(root->right , 0);
+
+        return l+r;
 
 
+
+    }
+    int sumOfLeftLeaves(TreeNode* root) {
+        return solver(root,0);
     }
 };
