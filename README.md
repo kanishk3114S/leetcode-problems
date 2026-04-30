@@ -62,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1353-maximum-number-of-events-that-can-be-attended](https://github.com/kanishk3114S/leetcode-problems/tree/master/1353-maximum-number-of-events-that-can-be-attended) |
 | [1380-lucky-numbers-in-a-matrix](https://github.com/kanishk3114S/leetcode-problems/tree/master/1380-lucky-numbers-in-a-matrix) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/kanishk3114S/leetcode-problems/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
+| [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/kanishk3114S/leetcode-problems/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/kanishk3114S/leetcode-problems/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/kanishk3114S/leetcode-problems/tree/master/1582-special-positions-in-a-binary-matrix) |
 | [1685-sum-of-absolute-differences-in-a-sorted-array](https://github.com/kanishk3114S/leetcode-problems/tree/master/1685-sum-of-absolute-differences-in-a-sorted-array) |
@@ -119,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/kanishk3114S/leetcode-problems/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/kanishk3114S/leetcode-problems/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/kanishk3114S/leetcode-problems/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
+| [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/kanishk3114S/leetcode-problems/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/kanishk3114S/leetcode-problems/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/kanishk3114S/leetcode-problems/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
 | [2090-k-radius-subarray-averages](https://github.com/kanishk3114S/leetcode-problems/tree/master/2090-k-radius-subarray-averages) |
@@ -295,6 +297,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0264-ugly-number-ii](https://github.com/kanishk3114S/leetcode-problems/tree/master/0264-ugly-number-ii) |
 | [0678-valid-parenthesis-string](https://github.com/kanishk3114S/leetcode-problems/tree/master/0678-valid-parenthesis-string) |
 | [0907-sum-of-subarray-minimums](https://github.com/kanishk3114S/leetcode-problems/tree/master/0907-sum-of-subarray-minimums) |
+| [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/kanishk3114S/leetcode-problems/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/kanishk3114S/leetcode-problems/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
 | [3129-find-all-possible-stable-binary-arrays-i](https://github.com/kanishk3114S/leetcode-problems/tree/master/3129-find-all-possible-stable-binary-arrays-i) |
 | [3130-find-all-possible-stable-binary-arrays-ii](https://github.com/kanishk3114S/leetcode-problems/tree/master/3130-find-all-possible-stable-binary-arrays-ii) |
