@@ -200,6 +200,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0657-robot-return-to-origin](https://github.com/kanishk3114S/leetcode-problems/tree/master/0657-robot-return-to-origin) |
 | [0678-valid-parenthesis-string](https://github.com/kanishk3114S/leetcode-problems/tree/master/0678-valid-parenthesis-string) |
 | [0696-count-binary-substrings](https://github.com/kanishk3114S/leetcode-problems/tree/master/0696-count-binary-substrings) |
+| [0796-rotate-string](https://github.com/kanishk3114S/leetcode-problems/tree/master/0796-rotate-string) |
 | [0856-score-of-parentheses](https://github.com/kanishk3114S/leetcode-problems/tree/master/0856-score-of-parentheses) |
 | [1297-maximum-number-of-occurrences-of-a-substring](https://github.com/kanishk3114S/leetcode-problems/tree/master/1297-maximum-number-of-occurrences-of-a-substring) |
 | [1324-print-words-vertically](https://github.com/kanishk3114S/leetcode-problems/tree/master/1324-print-words-vertically) |
@@ -558,4 +559,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0700-search-in-a-binary-search-tree](https://github.com/kanishk3114S/leetcode-problems/tree/master/0700-search-in-a-binary-search-tree) |
+## String Matching
+|  |
+| ------- |
+| [0796-rotate-string](https://github.com/kanishk3114S/leetcode-problems/tree/master/0796-rotate-string) |
 <!---LeetCode Topics End-->
