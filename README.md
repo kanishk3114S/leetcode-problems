@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/kanishk3114S/leetcode-problems/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/kanishk3114S/leetcode-problems/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0135-candy](https://github.com/kanishk3114S/leetcode-problems/tree/master/0135-candy) |
+| [0334-increasing-triplet-subsequence](https://github.com/kanishk3114S/leetcode-problems/tree/master/0334-increasing-triplet-subsequence) |
 | [0396-rotate-function](https://github.com/kanishk3114S/leetcode-problems/tree/master/0396-rotate-function) |
 | [0414-third-maximum-number](https://github.com/kanishk3114S/leetcode-problems/tree/master/0414-third-maximum-number) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/kanishk3114S/leetcode-problems/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
@@ -281,6 +282,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0135-candy](https://github.com/kanishk3114S/leetcode-problems/tree/master/0135-candy) |
+| [0334-increasing-triplet-subsequence](https://github.com/kanishk3114S/leetcode-problems/tree/master/0334-increasing-triplet-subsequence) |
 | [0455-assign-cookies](https://github.com/kanishk3114S/leetcode-problems/tree/master/0455-assign-cookies) |
 | [0678-valid-parenthesis-string](https://github.com/kanishk3114S/leetcode-problems/tree/master/0678-valid-parenthesis-string) |
 | [1353-maximum-number-of-events-that-can-be-attended](https://github.com/kanishk3114S/leetcode-problems/tree/master/1353-maximum-number-of-events-that-can-be-attended) |
