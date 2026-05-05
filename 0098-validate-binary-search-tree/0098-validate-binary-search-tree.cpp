@@ -11,30 +11,21 @@
  */
 class Solution {
 public:
+    bool solver(TreeNode* root , long long minval , long long maxval) {
 
-    void solver(TreeNode* root , long long& prev , long long& curr , bool& ans) {
+        if (root==NULL) return true;
 
-        if (root == NULL) return;
+        if (root->val <= minval || root->val >= maxval) return false;
 
-        solver(root->left , prev , curr , ans);
-        curr = root->val;
-        if (prev != LLONG_MIN && curr <= prev) {
-            ans = false;
-            return;
-        }
-        prev = curr;
-        solver(root->right , prev , curr , ans);
+        if (!solver(root->left , minval , root->val) || !solver(root->right , root->val , maxval)) return false;
+
+        return true;
 
     }
 
-    bool isValidBST(TreeNode* root) {
-
-        bool ans = true;
-        long long curr = LLONG_MIN , prev = LLONG_MIN;
-
-        solver(root,prev, curr ,ans);
-
-        return ans;
+     bool isValidBST(TreeNode* root) {
         
+        return solver(root , LLONG_MIN , LLONG_MAX);
+
     }
 };
