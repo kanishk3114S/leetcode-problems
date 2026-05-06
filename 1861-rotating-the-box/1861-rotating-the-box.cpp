@@ -11,7 +11,7 @@ public:
             for (int j=box[0].size()-1; j>-1; j--) {
                 //start traversing from the left..and keep a empty pointer to fill the stones//
 
-                cout << "row no : " << i << endl;
+                // cout << "row no : " << i << endl;
 
                 if (box[i][j] == '#') {
 
