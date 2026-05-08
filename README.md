@@ -141,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2269-find-the-k-beauty-of-a-number](https://github.com/kanishk3114S/leetcode-problems/tree/master/2269-find-the-k-beauty-of-a-number) |
 | [2379-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/kanishk3114S/leetcode-problems/tree/master/2379-minimum-recolors-to-get-k-consecutive-black-blocks) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/kanishk3114S/leetcode-problems/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
+| [3325-count-substrings-with-k-frequency-characters-i](https://github.com/kanishk3114S/leetcode-problems/tree/master/3325-count-substrings-with-k-frequency-characters-i) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -191,6 +192,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2615-sum-of-distances](https://github.com/kanishk3114S/leetcode-problems/tree/master/2615-sum-of-distances) |
 | [2641-cousins-in-binary-tree-ii](https://github.com/kanishk3114S/leetcode-problems/tree/master/2641-cousins-in-binary-tree-ii) |
 | [3146-permutation-difference-between-two-strings](https://github.com/kanishk3114S/leetcode-problems/tree/master/3146-permutation-difference-between-two-strings) |
+| [3325-count-substrings-with-k-frequency-characters-i](https://github.com/kanishk3114S/leetcode-problems/tree/master/3325-count-substrings-with-k-frequency-characters-i) |
 | [3488-closest-equal-element-queries](https://github.com/kanishk3114S/leetcode-problems/tree/master/3488-closest-equal-element-queries) |
 | [3591-check-if-any-element-has-prime-frequency](https://github.com/kanishk3114S/leetcode-problems/tree/master/3591-check-if-any-element-has-prime-frequency) |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/kanishk3114S/leetcode-problems/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
@@ -235,6 +237,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2833-furthest-point-from-origin](https://github.com/kanishk3114S/leetcode-problems/tree/master/2833-furthest-point-from-origin) |
 | [2839-check-if-strings-can-be-made-equal-with-operations-i](https://github.com/kanishk3114S/leetcode-problems/tree/master/2839-check-if-strings-can-be-made-equal-with-operations-i) |
 | [3146-permutation-difference-between-two-strings](https://github.com/kanishk3114S/leetcode-problems/tree/master/3146-permutation-difference-between-two-strings) |
+| [3325-count-substrings-with-k-frequency-characters-i](https://github.com/kanishk3114S/leetcode-problems/tree/master/3325-count-substrings-with-k-frequency-characters-i) |
 | [3340-check-balanced-string](https://github.com/kanishk3114S/leetcode-problems/tree/master/3340-check-balanced-string) |
 | [3853-merge-close-characters](https://github.com/kanishk3114S/leetcode-problems/tree/master/3853-merge-close-characters) |
 | [3863-minimum-operations-to-sort-a-string](https://github.com/kanishk3114S/leetcode-problems/tree/master/3863-minimum-operations-to-sort-a-string) |
