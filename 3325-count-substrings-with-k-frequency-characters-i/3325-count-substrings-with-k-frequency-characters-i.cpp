@@ -2,27 +2,29 @@ class Solution {
 public:
     int numberOfSubstrings(string s, int k) {
         
-
-        //GENERATE all the substirngs//
-
+        int l = 0 , r = 0;
+        unordered_map<char,int> mpp;
+        vector<int> hash(26,0);
+        int c = 0;
         int ans = 0;
+        while (r < s.length()) {
 
-        for (int i=0; i<s.length(); i++) {
-            unordered_map<char,int> mpp;
-            for (int j=i; j<s.length(); j++) {
-                
-                mpp[s[j]]++;
-                if (mpp[s[j]] == k) {
-                    ans += s.length()-j;
-                    break;
-                }
-
+            mpp[s[r]]++;
+            if (mpp[s[r]] == k) {
+                c++;
             }
+
+            while (c>0 && l<=r) {
+                ans+=s.length()-r;
+                mpp[s[l]]--;
+                if (mpp[s[l]] == k-1) c--;
+                l++;
+            }
+            r++;
 
         }
 
         return ans;
-
 
     }
 };
