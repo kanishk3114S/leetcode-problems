@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0264-ugly-number-ii](https://github.com/kanishk3114S/leetcode-problems/tree/master/0264-ugly-number-ii) |
 | [0396-rotate-function](https://github.com/kanishk3114S/leetcode-problems/tree/master/0396-rotate-function) |
 | [0788-rotated-digits](https://github.com/kanishk3114S/leetcode-problems/tree/master/0788-rotated-digits) |
+| [1071-greatest-common-divisor-of-strings](https://github.com/kanishk3114S/leetcode-problems/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/kanishk3114S/leetcode-problems/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/kanishk3114S/leetcode-problems/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [1680-concatenation-of-consecutive-binary-numbers](https://github.com/kanishk3114S/leetcode-problems/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
@@ -216,6 +217,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0696-count-binary-substrings](https://github.com/kanishk3114S/leetcode-problems/tree/master/0696-count-binary-substrings) |
 | [0796-rotate-string](https://github.com/kanishk3114S/leetcode-problems/tree/master/0796-rotate-string) |
 | [0856-score-of-parentheses](https://github.com/kanishk3114S/leetcode-problems/tree/master/0856-score-of-parentheses) |
+| [1071-greatest-common-divisor-of-strings](https://github.com/kanishk3114S/leetcode-problems/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1297-maximum-number-of-occurrences-of-a-substring](https://github.com/kanishk3114S/leetcode-problems/tree/master/1297-maximum-number-of-occurrences-of-a-substring) |
 | [1324-print-words-vertically](https://github.com/kanishk3114S/leetcode-problems/tree/master/1324-print-words-vertically) |
 | [1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/kanishk3114S/leetcode-problems/tree/master/1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
