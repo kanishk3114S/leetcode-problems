@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1828-queries-on-number-of-points-inside-a-circle](https://github.com/kanishk3114S/leetcode-problems/tree/master/1828-queries-on-number-of-points-inside-a-circle) |
 | [1952-three-divisors](https://github.com/kanishk3114S/leetcode-problems/tree/master/1952-three-divisors) |
 | [2269-find-the-k-beauty-of-a-number](https://github.com/kanishk3114S/leetcode-problems/tree/master/2269-find-the-k-beauty-of-a-number) |
+| [2280-minimum-lines-to-represent-a-line-chart](https://github.com/kanishk3114S/leetcode-problems/tree/master/2280-minimum-lines-to-represent-a-line-chart) |
 | [2413-smallest-even-multiple](https://github.com/kanishk3114S/leetcode-problems/tree/master/2413-smallest-even-multiple) |
 | [2520-count-the-digits-that-divide-a-number](https://github.com/kanishk3114S/leetcode-problems/tree/master/2520-count-the-digits-that-divide-a-number) |
 | [2807-insert-greatest-common-divisors-in-linked-list](https://github.com/kanishk3114S/leetcode-problems/tree/master/2807-insert-greatest-common-divisors-in-linked-list) |
@@ -96,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2079-watering-plants](https://github.com/kanishk3114S/leetcode-problems/tree/master/2079-watering-plants) |
 | [2090-k-radius-subarray-averages](https://github.com/kanishk3114S/leetcode-problems/tree/master/2090-k-radius-subarray-averages) |
 | [2121-intervals-between-identical-elements](https://github.com/kanishk3114S/leetcode-problems/tree/master/2121-intervals-between-identical-elements) |
+| [2280-minimum-lines-to-represent-a-line-chart](https://github.com/kanishk3114S/leetcode-problems/tree/master/2280-minimum-lines-to-represent-a-line-chart) |
 | [2452-words-within-two-edits-of-dictionary](https://github.com/kanishk3114S/leetcode-problems/tree/master/2452-words-within-two-edits-of-dictionary) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/kanishk3114S/leetcode-problems/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2482-difference-between-ones-and-zeros-in-row-and-column](https://github.com/kanishk3114S/leetcode-problems/tree/master/2482-difference-between-ones-and-zeros-in-row-and-column) |
@@ -389,6 +391,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1727-largest-submatrix-with-rearrangements](https://github.com/kanishk3114S/leetcode-problems/tree/master/1727-largest-submatrix-with-rearrangements) |
 | [1887-reduction-operations-to-make-the-array-elements-equal](https://github.com/kanishk3114S/leetcode-problems/tree/master/1887-reduction-operations-to-make-the-array-elements-equal) |
 | [1913-maximum-product-difference-between-two-pairs](https://github.com/kanishk3114S/leetcode-problems/tree/master/1913-maximum-product-difference-between-two-pairs) |
+| [2280-minimum-lines-to-represent-a-line-chart](https://github.com/kanishk3114S/leetcode-problems/tree/master/2280-minimum-lines-to-represent-a-line-chart) |
 | [2583-kth-largest-sum-in-a-binary-tree](https://github.com/kanishk3114S/leetcode-problems/tree/master/2583-kth-largest-sum-in-a-binary-tree) |
 | [3567-minimum-absolute-difference-in-sliding-submatrix](https://github.com/kanishk3114S/leetcode-problems/tree/master/3567-minimum-absolute-difference-in-sliding-submatrix) |
 ## Heap (Priority Queue)
@@ -400,6 +403,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1952-three-divisors](https://github.com/kanishk3114S/leetcode-problems/tree/master/1952-three-divisors) |
+| [2280-minimum-lines-to-represent-a-line-chart](https://github.com/kanishk3114S/leetcode-problems/tree/master/2280-minimum-lines-to-represent-a-line-chart) |
 | [2413-smallest-even-multiple](https://github.com/kanishk3114S/leetcode-problems/tree/master/2413-smallest-even-multiple) |
 | [2807-insert-greatest-common-divisors-in-linked-list](https://github.com/kanishk3114S/leetcode-problems/tree/master/2807-insert-greatest-common-divisors-in-linked-list) |
 | [3591-check-if-any-element-has-prime-frequency](https://github.com/kanishk3114S/leetcode-problems/tree/master/3591-check-if-any-element-has-prime-frequency) |
@@ -644,6 +648,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1828-queries-on-number-of-points-inside-a-circle](https://github.com/kanishk3114S/leetcode-problems/tree/master/1828-queries-on-number-of-points-inside-a-circle) |
+| [2280-minimum-lines-to-represent-a-line-chart](https://github.com/kanishk3114S/leetcode-problems/tree/master/2280-minimum-lines-to-represent-a-line-chart) |
 ## Graph Theory
 |  |
 | ------- |
