@@ -99,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/kanishk3114S/leetcode-problems/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2482-difference-between-ones-and-zeros-in-row-and-column](https://github.com/kanishk3114S/leetcode-problems/tree/master/2482-difference-between-ones-and-zeros-in-row-and-column) |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/kanishk3114S/leetcode-problems/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
+| [2553-separate-the-digits-in-an-array](https://github.com/kanishk3114S/leetcode-problems/tree/master/2553-separate-the-digits-in-an-array) |
 | [2559-count-vowel-strings-in-ranges](https://github.com/kanishk3114S/leetcode-problems/tree/master/2559-count-vowel-strings-in-ranges) |
 | [2615-sum-of-distances](https://github.com/kanishk3114S/leetcode-problems/tree/master/2615-sum-of-distances) |
 | [2906-construct-product-matrix](https://github.com/kanishk3114S/leetcode-problems/tree/master/2906-construct-product-matrix) |
@@ -291,6 +292,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2079-watering-plants](https://github.com/kanishk3114S/leetcode-problems/tree/master/2079-watering-plants) |
 | [2120-execution-of-all-suffix-instructions-staying-in-a-grid](https://github.com/kanishk3114S/leetcode-problems/tree/master/2120-execution-of-all-suffix-instructions-staying-in-a-grid) |
 | [2482-difference-between-ones-and-zeros-in-row-and-column](https://github.com/kanishk3114S/leetcode-problems/tree/master/2482-difference-between-ones-and-zeros-in-row-and-column) |
+| [2553-separate-the-digits-in-an-array](https://github.com/kanishk3114S/leetcode-problems/tree/master/2553-separate-the-digits-in-an-array) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/kanishk3114S/leetcode-problems/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/kanishk3114S/leetcode-problems/tree/master/3653-xor-after-range-multiplication-queries-i) |
 ## Enumeration
