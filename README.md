@@ -267,6 +267,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0986-interval-list-intersections](https://github.com/kanishk3114S/leetcode-problems/tree/master/0986-interval-list-intersections) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/kanishk3114S/leetcode-problems/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [1861-rotating-the-box](https://github.com/kanishk3114S/leetcode-problems/tree/master/1861-rotating-the-box) |
+| [2130-maximum-twin-sum-of-a-linked-list](https://github.com/kanishk3114S/leetcode-problems/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 | [3643-flip-square-submatrix-vertically](https://github.com/kanishk3114S/leetcode-problems/tree/master/3643-flip-square-submatrix-vertically) |
 ## Counting
 |  |
@@ -368,6 +369,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0856-score-of-parentheses](https://github.com/kanishk3114S/leetcode-problems/tree/master/0856-score-of-parentheses) |
 | [0907-sum-of-subarray-minimums](https://github.com/kanishk3114S/leetcode-problems/tree/master/0907-sum-of-subarray-minimums) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/kanishk3114S/leetcode-problems/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
+| [2130-maximum-twin-sum-of-a-linked-list](https://github.com/kanishk3114S/leetcode-problems/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 ## Recursion
 |  |
 | ------- |
@@ -612,6 +614,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/kanishk3114S/leetcode-problems/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/kanishk3114S/leetcode-problems/tree/master/0237-delete-node-in-a-linked-list) |
 | [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/kanishk3114S/leetcode-problems/tree/master/0430-flatten-a-multilevel-doubly-linked-list) |
+| [2130-maximum-twin-sum-of-a-linked-list](https://github.com/kanishk3114S/leetcode-problems/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 | [2807-insert-greatest-common-divisors-in-linked-list](https://github.com/kanishk3114S/leetcode-problems/tree/master/2807-insert-greatest-common-divisors-in-linked-list) |
 ## Doubly-Linked List
 |  |
