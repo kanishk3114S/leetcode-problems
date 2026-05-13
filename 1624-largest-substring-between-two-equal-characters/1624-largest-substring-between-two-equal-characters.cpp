@@ -2,23 +2,39 @@ class Solution {
 public:
     int maxLengthBetweenEqualCharacters(string s) {
 
-        int maxi = -1;
+        unordered_map<char,int>first,last;
 
-    for (int i=0; i<s.length(); i++) {
+        for (int i=0; i<s.length(); i++) {
 
-        for (int j=s.length()-1; j>i; j--) {
-
-            if (s[i] == s[j]) {
-                maxi = max(maxi , j-i-1);
-                break;
+            if (first.count(s[i])) {
+                continue;
+            } else {
+                first[s[i]] = i;
             }
 
         }
+                for (int i=s.length()-1; i>-1; i--) {
+
+            if (last.count(s[i])) {
+                continue;
+            } else {
+                last[s[i]] = i;
+            }
+
+        }
+    
+    int maxi=-1;
+    for (auto it:first) {
+
+        if (last.count(it.first)) {
+
+            maxi = max(maxi , last[it.first]-it.second-1);
+
+        }
+
     }
 
+    return maxi;
 
-
-
-     return maxi;   
     }
 };
