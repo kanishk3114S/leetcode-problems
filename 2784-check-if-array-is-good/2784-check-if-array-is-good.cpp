@@ -1,41 +1,24 @@
 class Solution {
 public:
     bool isGood(vector<int>& arr) {
-        
-        int n = arr.size();
-        vector<bool> seen(n+1 , false);
-        bool found = false;
-        for (int i=0; i<arr.size(); i++) {
+        multiset<int>s;
+        //fit the bases in the s//
+        int cnt =0;
+        for (int num:arr){
+            s.insert(num);
+            if (num==arr.size()-1) cnt++;
+        }
 
-            if (arr[i] >= n)  return false;
-            if (seen[arr[i]]) {
-                seen[arr[i]]=false;
-            }
-            else seen[arr[i]] = true;
-            
-            if (arr[i] == n-1) found=true;
+        for (int i=1; i<=arr.size()-1; i++) {
 
-        }   
+            //these are the values we need to check the basis for//
 
-        if (seen[n-1] || !found) return false;
-        
-
-        // for (int i=1; i<seen.size()-1; i++) {
-
-        //     cout << "indi : " << i << seen[i] ? " yes" : " no";
-        //     cout << endl;
-
-        // }
-
-        cout << n-1;
-
-        for (int i=1; i<seen.size()-1; i++) {
-            
-            if (i!=n-1 && !seen[i]) {return false;} 
+            if (!s.count(i)) return false;
+            else s.erase(i);
 
         }
 
-        return true;
+        return s.size()==0 && cnt==2;
 
     }
 };
