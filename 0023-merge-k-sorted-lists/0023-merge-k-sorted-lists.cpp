@@ -36,25 +36,23 @@ public:
 
         if (pq.size() == 0) return NULL;
         
-        ListNode* node = pq.top();
-        ListNode* head = NULL;
-        if (node) {
-        head = new ListNode(node->val);
-        } else {
-            return NULL;
-        }
+        //O(1) solution//
+
+        ListNode* head = pq.top();
+        ListNode* node = head;
         pq.pop();
-        if (node && node->next) {pq.push(node->next);}
+        if (node->next) pq.push(node->next);
         ListNode* temp = head;
 
         while (!pq.empty()) {
 
-            ListNode* node = pq.top();
-            ListNode* newnode = new ListNode(node->val);
-            temp->next = newnode;
+            node = pq.top();
             pq.pop();
-            if (node&&node->next) pq.push(node->next);
-            temp = newnode;
+
+            if (node->next) pq.push(node->next);
+            temp->next = node;
+            temp = node;
+
         }
 
         return head;
