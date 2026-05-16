@@ -101,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1887-reduction-operations-to-make-the-array-elements-equal](https://github.com/kanishk3114S/leetcode-problems/tree/master/1887-reduction-operations-to-make-the-array-elements-equal) |
 | [1913-maximum-product-difference-between-two-pairs](https://github.com/kanishk3114S/leetcode-problems/tree/master/1913-maximum-product-difference-between-two-pairs) |
 | [1914-cyclically-rotating-a-grid](https://github.com/kanishk3114S/leetcode-problems/tree/master/1914-cyclically-rotating-a-grid) |
+| [1962-remove-stones-to-minimize-the-total](https://github.com/kanishk3114S/leetcode-problems/tree/master/1962-remove-stones-to-minimize-the-total) |
 | [1980-find-unique-binary-string](https://github.com/kanishk3114S/leetcode-problems/tree/master/1980-find-unique-binary-string) |
 | [1995-count-special-quadruplets](https://github.com/kanishk3114S/leetcode-problems/tree/master/1995-count-special-quadruplets) |
 | [2053-kth-distinct-string-in-an-array](https://github.com/kanishk3114S/leetcode-problems/tree/master/2053-kth-distinct-string-in-an-array) |
@@ -347,6 +348,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/kanishk3114S/leetcode-problems/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/kanishk3114S/leetcode-problems/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/kanishk3114S/leetcode-problems/tree/master/1727-largest-submatrix-with-rearrangements) |
+| [1962-remove-stones-to-minimize-the-total](https://github.com/kanishk3114S/leetcode-problems/tree/master/1962-remove-stones-to-minimize-the-total) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/kanishk3114S/leetcode-problems/tree/master/2078-two-furthest-houses-with-different-colors) |
 | [2611-mice-and-cheese](https://github.com/kanishk3114S/leetcode-problems/tree/master/2611-mice-and-cheese) |
 ## Matrix
@@ -448,6 +450,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0658-find-k-closest-elements](https://github.com/kanishk3114S/leetcode-problems/tree/master/0658-find-k-closest-elements) |
 | [0973-k-closest-points-to-origin](https://github.com/kanishk3114S/leetcode-problems/tree/master/0973-k-closest-points-to-origin) |
 | [1353-maximum-number-of-events-that-can-be-attended](https://github.com/kanishk3114S/leetcode-problems/tree/master/1353-maximum-number-of-events-that-can-be-attended) |
+| [1962-remove-stones-to-minimize-the-total](https://github.com/kanishk3114S/leetcode-problems/tree/master/1962-remove-stones-to-minimize-the-total) |
 | [2611-mice-and-cheese](https://github.com/kanishk3114S/leetcode-problems/tree/master/2611-mice-and-cheese) |
 | [3275-k-th-nearest-obstacle-queries](https://github.com/kanishk3114S/leetcode-problems/tree/master/3275-k-th-nearest-obstacle-queries) |
 ## Number Theory
