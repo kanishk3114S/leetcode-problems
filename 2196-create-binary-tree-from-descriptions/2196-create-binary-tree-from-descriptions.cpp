@@ -18,60 +18,37 @@ public:
 
         for (int i=0; i<des.size(); i++) {
 
+            TreeNode* parent = NULL;
+            TreeNode* child = NULL;
+
             if (!mpp.count(des[i][0]) && !mpp.count(des[i][1])) {
 
-                TreeNode* parent = new TreeNode(des[i][0]);
-                TreeNode* child = new TreeNode(des[i][1]);
+                parent = new TreeNode(des[i][0]);
+                child = new TreeNode(des[i][1]);
 
-                if (des[i][2] == 1) {
-                    parent->left = child;
-                } else {
-                    parent->right = child;
-                }
-
-                mpp[parent->val] = parent;
-                mpp[child->val] = child;
-                hasparent[child] = true;
             } else if (mpp.count(des[i][0]) && !mpp.count(des[i][1])) {
 
-                TreeNode* parent = mpp[des[i][0]];
-                TreeNode* child = new TreeNode(des[i][1]);
-                if (des[i][2] == 1) {
+                parent = mpp[des[i][0]];
+                child = new TreeNode(des[i][1]);
+
+            } else if (!mpp.count(des[i][0]) && mpp.count(des[i][1])) {
+
+                parent = new TreeNode(des[i][0]);
+                child = mpp[des[i][1]];
+   
+            } else {
+                parent = mpp[des[i][0]];
+                child = mpp[des[i][1]];
+            }
+            if (des[i][2] == 1) {
                     parent->left = child;
                 } else {
                     parent->right = child;
                 }
 
+                mpp[parent->val] = parent;
                 mpp[child->val] = child;
                 hasparent[child] = true;
-            } else if (!mpp.count(des[i][0]) && mpp.count(des[i][1])) {
-
-                TreeNode* parent = new TreeNode(des[i][0]);
-                TreeNode* child = mpp[des[i][1]];
-
-                if (des[i][2] == 1) {
-                    parent->left = child;
-                } else {
-                    parent->right = child;
-                }                
-
-                mpp[parent->val] = parent;
-                hasparent[child] = true;    
-            } else {
-                TreeNode* parent = mpp[des[i][0]];
-                TreeNode* child = mpp[des[i][1]];
-
-                if (des[i][2] == 1) {
-                    parent->left = child;
-                } else {
-                    parent->right = child;
-                }                
-
-                mpp[parent->val] = parent;
-                hasparent[child] = true;  
-
-
-            }
 
         }
 
