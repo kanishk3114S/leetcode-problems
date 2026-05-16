@@ -500,6 +500,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1123-lowest-common-ancestor-of-deepest-leaves](https://github.com/kanishk3114S/leetcode-problems/tree/master/1123-lowest-common-ancestor-of-deepest-leaves) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/kanishk3114S/leetcode-problems/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1305-all-elements-in-two-binary-search-trees](https://github.com/kanishk3114S/leetcode-problems/tree/master/1305-all-elements-in-two-binary-search-trees) |
+| [1339-maximum-product-of-splitted-binary-tree](https://github.com/kanishk3114S/leetcode-problems/tree/master/1339-maximum-product-of-splitted-binary-tree) |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/kanishk3114S/leetcode-problems/tree/master/1373-maximum-sum-bst-in-binary-tree) |
 | [1382-balance-a-binary-search-tree](https://github.com/kanishk3114S/leetcode-problems/tree/master/1382-balance-a-binary-search-tree) |
 | [1609-even-odd-tree](https://github.com/kanishk3114S/leetcode-problems/tree/master/1609-even-odd-tree) |
@@ -551,6 +552,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1123-lowest-common-ancestor-of-deepest-leaves](https://github.com/kanishk3114S/leetcode-problems/tree/master/1123-lowest-common-ancestor-of-deepest-leaves) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/kanishk3114S/leetcode-problems/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1305-all-elements-in-two-binary-search-trees](https://github.com/kanishk3114S/leetcode-problems/tree/master/1305-all-elements-in-two-binary-search-trees) |
+| [1339-maximum-product-of-splitted-binary-tree](https://github.com/kanishk3114S/leetcode-problems/tree/master/1339-maximum-product-of-splitted-binary-tree) |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/kanishk3114S/leetcode-problems/tree/master/1373-maximum-sum-bst-in-binary-tree) |
 | [1382-balance-a-binary-search-tree](https://github.com/kanishk3114S/leetcode-problems/tree/master/1382-balance-a-binary-search-tree) |
 | [1722-minimize-hamming-distance-after-swap-operations](https://github.com/kanishk3114S/leetcode-problems/tree/master/1722-minimize-hamming-distance-after-swap-operations) |
@@ -608,6 +610,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1123-lowest-common-ancestor-of-deepest-leaves](https://github.com/kanishk3114S/leetcode-problems/tree/master/1123-lowest-common-ancestor-of-deepest-leaves) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/kanishk3114S/leetcode-problems/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1305-all-elements-in-two-binary-search-trees](https://github.com/kanishk3114S/leetcode-problems/tree/master/1305-all-elements-in-two-binary-search-trees) |
+| [1339-maximum-product-of-splitted-binary-tree](https://github.com/kanishk3114S/leetcode-problems/tree/master/1339-maximum-product-of-splitted-binary-tree) |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/kanishk3114S/leetcode-problems/tree/master/1373-maximum-sum-bst-in-binary-tree) |
 | [1382-balance-a-binary-search-tree](https://github.com/kanishk3114S/leetcode-problems/tree/master/1382-balance-a-binary-search-tree) |
 | [1609-even-odd-tree](https://github.com/kanishk3114S/leetcode-problems/tree/master/1609-even-odd-tree) |
