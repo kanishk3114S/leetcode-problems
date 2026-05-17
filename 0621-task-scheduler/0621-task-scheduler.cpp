@@ -1,11 +1,12 @@
 class Solution {
 public:
     int leastInterval(vector<char>& tasks, int n) {
-        
+        unordered_map<char,int> hash;        
         unordered_map<char,int> mpp;
         for (int i=0; i<tasks.size(); i++) {
 
             mpp[tasks[i]]++;
+            hash[tasks[i]] = 1;
 
         }
 
@@ -18,10 +19,7 @@ public:
 
         }
 
-        unordered_map<char,int> hash;
-        for (auto it:mpp) {
-            hash[it.first] = 1; //initially minimum seat number would be 1//
-        }
+
 
         int seat = 1;
 
