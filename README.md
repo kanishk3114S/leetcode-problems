@@ -67,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0502-ipo](https://github.com/kanishk3114S/leetcode-problems/tree/master/0502-ipo) |
 | [0560-subarray-sum-equals-k](https://github.com/kanishk3114S/leetcode-problems/tree/master/0560-subarray-sum-equals-k) |
 | [0605-can-place-flowers](https://github.com/kanishk3114S/leetcode-problems/tree/master/0605-can-place-flowers) |
+| [0621-task-scheduler](https://github.com/kanishk3114S/leetcode-problems/tree/master/0621-task-scheduler) |
 | [0643-maximum-average-subarray-i](https://github.com/kanishk3114S/leetcode-problems/tree/master/0643-maximum-average-subarray-i) |
 | [0645-set-mismatch](https://github.com/kanishk3114S/leetcode-problems/tree/master/0645-set-mismatch) |
 | [0646-maximum-length-of-pair-chain](https://github.com/kanishk3114S/leetcode-problems/tree/master/0646-maximum-length-of-pair-chain) |
@@ -206,6 +207,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/kanishk3114S/leetcode-problems/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0560-subarray-sum-equals-k](https://github.com/kanishk3114S/leetcode-problems/tree/master/0560-subarray-sum-equals-k) |
 | [0567-permutation-in-string](https://github.com/kanishk3114S/leetcode-problems/tree/master/0567-permutation-in-string) |
+| [0621-task-scheduler](https://github.com/kanishk3114S/leetcode-problems/tree/master/0621-task-scheduler) |
 | [0645-set-mismatch](https://github.com/kanishk3114S/leetcode-problems/tree/master/0645-set-mismatch) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/kanishk3114S/leetcode-problems/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/kanishk3114S/leetcode-problems/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
@@ -302,6 +304,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/kanishk3114S/leetcode-problems/tree/master/0347-top-k-frequent-elements) |
+| [0621-task-scheduler](https://github.com/kanishk3114S/leetcode-problems/tree/master/0621-task-scheduler) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/kanishk3114S/leetcode-problems/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [2053-kth-distinct-string-in-an-array](https://github.com/kanishk3114S/leetcode-problems/tree/master/2053-kth-distinct-string-in-an-array) |
 | [2833-furthest-point-from-origin](https://github.com/kanishk3114S/leetcode-problems/tree/master/2833-furthest-point-from-origin) |
@@ -346,6 +349,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/kanishk3114S/leetcode-problems/tree/master/0455-assign-cookies) |
 | [0502-ipo](https://github.com/kanishk3114S/leetcode-problems/tree/master/0502-ipo) |
 | [0605-can-place-flowers](https://github.com/kanishk3114S/leetcode-problems/tree/master/0605-can-place-flowers) |
+| [0621-task-scheduler](https://github.com/kanishk3114S/leetcode-problems/tree/master/0621-task-scheduler) |
 | [0646-maximum-length-of-pair-chain](https://github.com/kanishk3114S/leetcode-problems/tree/master/0646-maximum-length-of-pair-chain) |
 | [0678-valid-parenthesis-string](https://github.com/kanishk3114S/leetcode-problems/tree/master/0678-valid-parenthesis-string) |
 | [1353-maximum-number-of-events-that-can-be-attended](https://github.com/kanishk3114S/leetcode-problems/tree/master/1353-maximum-number-of-events-that-can-be-attended) |
@@ -430,6 +434,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0414-third-maximum-number](https://github.com/kanishk3114S/leetcode-problems/tree/master/0414-third-maximum-number) |
 | [0455-assign-cookies](https://github.com/kanishk3114S/leetcode-problems/tree/master/0455-assign-cookies) |
 | [0502-ipo](https://github.com/kanishk3114S/leetcode-problems/tree/master/0502-ipo) |
+| [0621-task-scheduler](https://github.com/kanishk3114S/leetcode-problems/tree/master/0621-task-scheduler) |
 | [0645-set-mismatch](https://github.com/kanishk3114S/leetcode-problems/tree/master/0645-set-mismatch) |
 | [0646-maximum-length-of-pair-chain](https://github.com/kanishk3114S/leetcode-problems/tree/master/0646-maximum-length-of-pair-chain) |
 | [0658-find-k-closest-elements](https://github.com/kanishk3114S/leetcode-problems/tree/master/0658-find-k-closest-elements) |
@@ -457,6 +462,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/kanishk3114S/leetcode-problems/tree/master/0347-top-k-frequent-elements) |
 | [0373-find-k-pairs-with-smallest-sums](https://github.com/kanishk3114S/leetcode-problems/tree/master/0373-find-k-pairs-with-smallest-sums) |
 | [0502-ipo](https://github.com/kanishk3114S/leetcode-problems/tree/master/0502-ipo) |
+| [0621-task-scheduler](https://github.com/kanishk3114S/leetcode-problems/tree/master/0621-task-scheduler) |
 | [0658-find-k-closest-elements](https://github.com/kanishk3114S/leetcode-problems/tree/master/0658-find-k-closest-elements) |
 | [0786-k-th-smallest-prime-fraction](https://github.com/kanishk3114S/leetcode-problems/tree/master/0786-k-th-smallest-prime-fraction) |
 | [0973-k-closest-points-to-origin](https://github.com/kanishk3114S/leetcode-problems/tree/master/0973-k-closest-points-to-origin) |
