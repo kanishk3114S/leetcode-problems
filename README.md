@@ -64,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0414-third-maximum-number](https://github.com/kanishk3114S/leetcode-problems/tree/master/0414-third-maximum-number) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/kanishk3114S/leetcode-problems/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0455-assign-cookies](https://github.com/kanishk3114S/leetcode-problems/tree/master/0455-assign-cookies) |
+| [0502-ipo](https://github.com/kanishk3114S/leetcode-problems/tree/master/0502-ipo) |
 | [0560-subarray-sum-equals-k](https://github.com/kanishk3114S/leetcode-problems/tree/master/0560-subarray-sum-equals-k) |
 | [0605-can-place-flowers](https://github.com/kanishk3114S/leetcode-problems/tree/master/0605-can-place-flowers) |
 | [0643-maximum-average-subarray-i](https://github.com/kanishk3114S/leetcode-problems/tree/master/0643-maximum-average-subarray-i) |
@@ -343,6 +344,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0135-candy](https://github.com/kanishk3114S/leetcode-problems/tree/master/0135-candy) |
 | [0334-increasing-triplet-subsequence](https://github.com/kanishk3114S/leetcode-problems/tree/master/0334-increasing-triplet-subsequence) |
 | [0455-assign-cookies](https://github.com/kanishk3114S/leetcode-problems/tree/master/0455-assign-cookies) |
+| [0502-ipo](https://github.com/kanishk3114S/leetcode-problems/tree/master/0502-ipo) |
 | [0605-can-place-flowers](https://github.com/kanishk3114S/leetcode-problems/tree/master/0605-can-place-flowers) |
 | [0646-maximum-length-of-pair-chain](https://github.com/kanishk3114S/leetcode-problems/tree/master/0646-maximum-length-of-pair-chain) |
 | [0678-valid-parenthesis-string](https://github.com/kanishk3114S/leetcode-problems/tree/master/0678-valid-parenthesis-string) |
@@ -427,6 +429,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/kanishk3114S/leetcode-problems/tree/master/0347-top-k-frequent-elements) |
 | [0414-third-maximum-number](https://github.com/kanishk3114S/leetcode-problems/tree/master/0414-third-maximum-number) |
 | [0455-assign-cookies](https://github.com/kanishk3114S/leetcode-problems/tree/master/0455-assign-cookies) |
+| [0502-ipo](https://github.com/kanishk3114S/leetcode-problems/tree/master/0502-ipo) |
 | [0645-set-mismatch](https://github.com/kanishk3114S/leetcode-problems/tree/master/0645-set-mismatch) |
 | [0646-maximum-length-of-pair-chain](https://github.com/kanishk3114S/leetcode-problems/tree/master/0646-maximum-length-of-pair-chain) |
 | [0658-find-k-closest-elements](https://github.com/kanishk3114S/leetcode-problems/tree/master/0658-find-k-closest-elements) |
@@ -453,6 +456,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0264-ugly-number-ii](https://github.com/kanishk3114S/leetcode-problems/tree/master/0264-ugly-number-ii) |
 | [0347-top-k-frequent-elements](https://github.com/kanishk3114S/leetcode-problems/tree/master/0347-top-k-frequent-elements) |
 | [0373-find-k-pairs-with-smallest-sums](https://github.com/kanishk3114S/leetcode-problems/tree/master/0373-find-k-pairs-with-smallest-sums) |
+| [0502-ipo](https://github.com/kanishk3114S/leetcode-problems/tree/master/0502-ipo) |
 | [0658-find-k-closest-elements](https://github.com/kanishk3114S/leetcode-problems/tree/master/0658-find-k-closest-elements) |
 | [0786-k-th-smallest-prime-fraction](https://github.com/kanishk3114S/leetcode-problems/tree/master/0786-k-th-smallest-prime-fraction) |
 | [0973-k-closest-points-to-origin](https://github.com/kanishk3114S/leetcode-problems/tree/master/0973-k-closest-points-to-origin) |
