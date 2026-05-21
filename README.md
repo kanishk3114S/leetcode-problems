@@ -230,6 +230,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1296-divide-array-in-sets-of-k-consecutive-numbers](https://github.com/kanishk3114S/leetcode-problems/tree/master/1296-divide-array-in-sets-of-k-consecutive-numbers) |
 | [1297-maximum-number-of-occurrences-of-a-substring](https://github.com/kanishk3114S/leetcode-problems/tree/master/1297-maximum-number-of-occurrences-of-a-substring) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/kanishk3114S/leetcode-problems/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
+| [1540-can-convert-string-in-k-moves](https://github.com/kanishk3114S/leetcode-problems/tree/master/1540-can-convert-string-in-k-moves) |
 | [1624-largest-substring-between-two-equal-characters](https://github.com/kanishk3114S/leetcode-problems/tree/master/1624-largest-substring-between-two-equal-characters) |
 | [1796-second-largest-digit-in-a-string](https://github.com/kanishk3114S/leetcode-problems/tree/master/1796-second-largest-digit-in-a-string) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/kanishk3114S/leetcode-problems/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
@@ -276,6 +277,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/kanishk3114S/leetcode-problems/tree/master/1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/kanishk3114S/leetcode-problems/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/kanishk3114S/leetcode-problems/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
+| [1540-can-convert-string-in-k-moves](https://github.com/kanishk3114S/leetcode-problems/tree/master/1540-can-convert-string-in-k-moves) |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/kanishk3114S/leetcode-problems/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 | [1624-largest-substring-between-two-equal-characters](https://github.com/kanishk3114S/leetcode-problems/tree/master/1624-largest-substring-between-two-equal-characters) |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/kanishk3114S/leetcode-problems/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
