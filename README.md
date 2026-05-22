@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0135-candy](https://github.com/kanishk3114S/leetcode-problems/tree/master/0135-candy) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/kanishk3114S/leetcode-problems/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/kanishk3114S/leetcode-problems/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
+| [0200-number-of-islands](https://github.com/kanishk3114S/leetcode-problems/tree/master/0200-number-of-islands) |
 | [0215-kth-largest-element-in-an-array](https://github.com/kanishk3114S/leetcode-problems/tree/master/0215-kth-largest-element-in-an-array) |
 | [0334-increasing-triplet-subsequence](https://github.com/kanishk3114S/leetcode-problems/tree/master/0334-increasing-triplet-subsequence) |
 | [0347-top-k-frequent-elements](https://github.com/kanishk3114S/leetcode-problems/tree/master/0347-top-k-frequent-elements) |
@@ -391,6 +392,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/kanishk3114S/leetcode-problems/tree/master/0048-rotate-image) |
+| [0200-number-of-islands](https://github.com/kanishk3114S/leetcode-problems/tree/master/0200-number-of-islands) |
 | [1380-lucky-numbers-in-a-matrix](https://github.com/kanishk3114S/leetcode-problems/tree/master/1380-lucky-numbers-in-a-matrix) |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/kanishk3114S/leetcode-problems/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/kanishk3114S/leetcode-problems/tree/master/1582-special-positions-in-a-binary-matrix) |
@@ -595,6 +597,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0144-binary-tree-preorder-traversal](https://github.com/kanishk3114S/leetcode-problems/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/kanishk3114S/leetcode-problems/tree/master/0145-binary-tree-postorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/kanishk3114S/leetcode-problems/tree/master/0199-binary-tree-right-side-view) |
+| [0200-number-of-islands](https://github.com/kanishk3114S/leetcode-problems/tree/master/0200-number-of-islands) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/kanishk3114S/leetcode-problems/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/kanishk3114S/leetcode-problems/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/kanishk3114S/leetcode-problems/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
@@ -702,6 +705,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0111-minimum-depth-of-binary-tree](https://github.com/kanishk3114S/leetcode-problems/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/kanishk3114S/leetcode-problems/tree/master/0112-path-sum) |
 | [0199-binary-tree-right-side-view](https://github.com/kanishk3114S/leetcode-problems/tree/master/0199-binary-tree-right-side-view) |
+| [0200-number-of-islands](https://github.com/kanishk3114S/leetcode-problems/tree/master/0200-number-of-islands) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/kanishk3114S/leetcode-problems/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0404-sum-of-left-leaves](https://github.com/kanishk3114S/leetcode-problems/tree/master/0404-sum-of-left-leaves) |
 | [0429-n-ary-tree-level-order-traversal](https://github.com/kanishk3114S/leetcode-problems/tree/master/0429-n-ary-tree-level-order-traversal) |
@@ -785,6 +789,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Union-Find
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/kanishk3114S/leetcode-problems/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/kanishk3114S/leetcode-problems/tree/master/0547-number-of-provinces) |
 | [1722-minimize-hamming-distance-after-swap-operations](https://github.com/kanishk3114S/leetcode-problems/tree/master/1722-minimize-hamming-distance-after-swap-operations) |
 ## Geometry
