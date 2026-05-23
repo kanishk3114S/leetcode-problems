@@ -2,18 +2,26 @@ class Solution {
 public:
     bool check(vector<int>& nums) {
         
-        int below = 0;
+        int k = 0;
 
         for (int i=1; i<nums.size(); i++) {
 
-            if (nums[i-1] > nums[i]) below++;
+            if (nums[i-1] > nums[i]) {k = i; break;}
 
         }
+        
+        if (k==0) return true;
 
-        if (below==0) return true;
-        if (below > 1) return false;
-        if (below==1) {
-            if (nums[nums.size()-1] > nums[0]) return false;
+        k=nums.size()-k;
+
+        reverse(nums.begin() , nums.end());
+        reverse(nums.begin() , nums.begin()+k);
+        reverse(nums.begin()+k , nums.end());
+
+        for (int num:nums) cout<<num<<" ";
+
+        for (int i=1; i<nums.size(); i++) {
+            if (nums[i-1] > nums[i]) return false;
         }
 
         return true;
