@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1685-sum-of-absolute-differences-in-a-sorted-array](https://github.com/kanishk3114S/leetcode-problems/tree/master/1685-sum-of-absolute-differences-in-a-sorted-array) |
 | [1828-queries-on-number-of-points-inside-a-circle](https://github.com/kanishk3114S/leetcode-problems/tree/master/1828-queries-on-number-of-points-inside-a-circle) |
 | [1952-three-divisors](https://github.com/kanishk3114S/leetcode-problems/tree/master/1952-three-divisors) |
+| [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/kanishk3114S/leetcode-problems/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
 | [2269-find-the-k-beauty-of-a-number](https://github.com/kanishk3114S/leetcode-problems/tree/master/2269-find-the-k-beauty-of-a-number) |
 | [2280-minimum-lines-to-represent-a-line-chart](https://github.com/kanishk3114S/leetcode-problems/tree/master/2280-minimum-lines-to-represent-a-line-chart) |
 | [2413-smallest-even-multiple](https://github.com/kanishk3114S/leetcode-problems/tree/master/2413-smallest-even-multiple) |
@@ -118,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1962-remove-stones-to-minimize-the-total](https://github.com/kanishk3114S/leetcode-problems/tree/master/1962-remove-stones-to-minimize-the-total) |
 | [1980-find-unique-binary-string](https://github.com/kanishk3114S/leetcode-problems/tree/master/1980-find-unique-binary-string) |
 | [1995-count-special-quadruplets](https://github.com/kanishk3114S/leetcode-problems/tree/master/1995-count-special-quadruplets) |
+| [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/kanishk3114S/leetcode-problems/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
 | [2053-kth-distinct-string-in-an-array](https://github.com/kanishk3114S/leetcode-problems/tree/master/2053-kth-distinct-string-in-an-array) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/kanishk3114S/leetcode-problems/tree/master/2078-two-furthest-houses-with-different-colors) |
 | [2079-watering-plants](https://github.com/kanishk3114S/leetcode-problems/tree/master/2079-watering-plants) |
@@ -412,6 +414,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1861-rotating-the-box](https://github.com/kanishk3114S/leetcode-problems/tree/master/1861-rotating-the-box) |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/kanishk3114S/leetcode-problems/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
 | [1914-cyclically-rotating-a-grid](https://github.com/kanishk3114S/leetcode-problems/tree/master/1914-cyclically-rotating-a-grid) |
+| [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/kanishk3114S/leetcode-problems/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
 | [2482-difference-between-ones-and-zeros-in-row-and-column](https://github.com/kanishk3114S/leetcode-problems/tree/master/2482-difference-between-ones-and-zeros-in-row-and-column) |
 | [2906-construct-product-matrix](https://github.com/kanishk3114S/leetcode-problems/tree/master/2906-construct-product-matrix) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/kanishk3114S/leetcode-problems/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
@@ -491,6 +494,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1727-largest-submatrix-with-rearrangements](https://github.com/kanishk3114S/leetcode-problems/tree/master/1727-largest-submatrix-with-rearrangements) |
 | [1887-reduction-operations-to-make-the-array-elements-equal](https://github.com/kanishk3114S/leetcode-problems/tree/master/1887-reduction-operations-to-make-the-array-elements-equal) |
 | [1913-maximum-product-difference-between-two-pairs](https://github.com/kanishk3114S/leetcode-problems/tree/master/1913-maximum-product-difference-between-two-pairs) |
+| [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/kanishk3114S/leetcode-problems/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
 | [2280-minimum-lines-to-represent-a-line-chart](https://github.com/kanishk3114S/leetcode-problems/tree/master/2280-minimum-lines-to-represent-a-line-chart) |
 | [2583-kth-largest-sum-in-a-binary-tree](https://github.com/kanishk3114S/leetcode-problems/tree/master/2583-kth-largest-sum-in-a-binary-tree) |
 | [2611-mice-and-cheese](https://github.com/kanishk3114S/leetcode-problems/tree/master/2611-mice-and-cheese) |
