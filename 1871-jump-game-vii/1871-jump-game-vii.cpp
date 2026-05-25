@@ -34,7 +34,7 @@ public:
                 int mini = max(i+mn , farthest+1);
                 int maxi = min(i+mx , n-1);
 
-                cout << mini << " " << maxi;
+                // cout << mini << " " << maxi;
 
                 for (int id=mini; id<=maxi; id++) {
 
