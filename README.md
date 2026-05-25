@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/kanishk3114S/leetcode-problems/tree/master/0001-two-sum) |
 | [0015-3sum](https://github.com/kanishk3114S/leetcode-problems/tree/master/0015-3sum) |
 | [0041-first-missing-positive](https://github.com/kanishk3114S/leetcode-problems/tree/master/0041-first-missing-positive) |
+| [0045-jump-game-ii](https://github.com/kanishk3114S/leetcode-problems/tree/master/0045-jump-game-ii) |
 | [0046-permutations](https://github.com/kanishk3114S/leetcode-problems/tree/master/0046-permutations) |
 | [0048-rotate-image](https://github.com/kanishk3114S/leetcode-problems/tree/master/0048-rotate-image) |
 | [0057-insert-interval](https://github.com/kanishk3114S/leetcode-problems/tree/master/0057-insert-interval) |
@@ -384,6 +385,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0045-jump-game-ii](https://github.com/kanishk3114S/leetcode-problems/tree/master/0045-jump-game-ii) |
 | [0135-candy](https://github.com/kanishk3114S/leetcode-problems/tree/master/0135-candy) |
 | [0334-increasing-triplet-subsequence](https://github.com/kanishk3114S/leetcode-problems/tree/master/0334-increasing-triplet-subsequence) |
 | [0455-assign-cookies](https://github.com/kanishk3114S/leetcode-problems/tree/master/0455-assign-cookies) |
@@ -432,6 +434,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0045-jump-game-ii](https://github.com/kanishk3114S/leetcode-problems/tree/master/0045-jump-game-ii) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/kanishk3114S/leetcode-problems/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0264-ugly-number-ii](https://github.com/kanishk3114S/leetcode-problems/tree/master/0264-ugly-number-ii) |
 | [0396-rotate-function](https://github.com/kanishk3114S/leetcode-problems/tree/master/0396-rotate-function) |
