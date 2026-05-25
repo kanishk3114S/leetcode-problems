@@ -664,6 +664,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/kanishk3114S/leetcode-problems/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 | [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/kanishk3114S/leetcode-problems/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
 | [2641-cousins-in-binary-tree-ii](https://github.com/kanishk3114S/leetcode-problems/tree/master/2641-cousins-in-binary-tree-ii) |
+| [2685-count-the-number-of-complete-components](https://github.com/kanishk3114S/leetcode-problems/tree/master/2685-count-the-number-of-complete-components) |
 ## Binary Tree
 |  |
 | ------- |
@@ -765,6 +766,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2471-minimum-number-of-operations-to-sort-a-binary-tree-by-level](https://github.com/kanishk3114S/leetcode-problems/tree/master/2471-minimum-number-of-operations-to-sort-a-binary-tree-by-level) |
 | [2583-kth-largest-sum-in-a-binary-tree](https://github.com/kanishk3114S/leetcode-problems/tree/master/2583-kth-largest-sum-in-a-binary-tree) |
 | [2641-cousins-in-binary-tree-ii](https://github.com/kanishk3114S/leetcode-problems/tree/master/2641-cousins-in-binary-tree-ii) |
+| [2685-count-the-number-of-complete-components](https://github.com/kanishk3114S/leetcode-problems/tree/master/2685-count-the-number-of-complete-components) |
 | [3905-multi-source-flood-fill](https://github.com/kanishk3114S/leetcode-problems/tree/master/3905-multi-source-flood-fill) |
 ## Linked List
 |  |
@@ -833,6 +835,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0695-max-area-of-island](https://github.com/kanishk3114S/leetcode-problems/tree/master/0695-max-area-of-island) |
 | [1722-minimize-hamming-distance-after-swap-operations](https://github.com/kanishk3114S/leetcode-problems/tree/master/1722-minimize-hamming-distance-after-swap-operations) |
 | [1971-find-if-path-exists-in-graph](https://github.com/kanishk3114S/leetcode-problems/tree/master/1971-find-if-path-exists-in-graph) |
+| [2685-count-the-number-of-complete-components](https://github.com/kanishk3114S/leetcode-problems/tree/master/2685-count-the-number-of-complete-components) |
 ## Geometry
 |  |
 | ------- |
@@ -846,6 +849,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0841-keys-and-rooms](https://github.com/kanishk3114S/leetcode-problems/tree/master/0841-keys-and-rooms) |
 | [0997-find-the-town-judge](https://github.com/kanishk3114S/leetcode-problems/tree/master/0997-find-the-town-judge) |
 | [1971-find-if-path-exists-in-graph](https://github.com/kanishk3114S/leetcode-problems/tree/master/1971-find-if-path-exists-in-graph) |
+| [2685-count-the-number-of-complete-components](https://github.com/kanishk3114S/leetcode-problems/tree/master/2685-count-the-number-of-complete-components) |
 ## Binary Search Tree
 |  |
 | ------- |
