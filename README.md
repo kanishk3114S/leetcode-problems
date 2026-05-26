@@ -99,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1306-jump-game-iii](https://github.com/kanishk3114S/leetcode-problems/tree/master/1306-jump-game-iii) |
 | [1324-print-words-vertically](https://github.com/kanishk3114S/leetcode-problems/tree/master/1324-print-words-vertically) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/kanishk3114S/leetcode-problems/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
+| [1345-jump-game-iv](https://github.com/kanishk3114S/leetcode-problems/tree/master/1345-jump-game-iv) |
 | [1353-maximum-number-of-events-that-can-be-attended](https://github.com/kanishk3114S/leetcode-problems/tree/master/1353-maximum-number-of-events-that-can-be-attended) |
 | [1380-lucky-numbers-in-a-matrix](https://github.com/kanishk3114S/leetcode-problems/tree/master/1380-lucky-numbers-in-a-matrix) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/kanishk3114S/leetcode-problems/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
@@ -245,6 +246,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1189-maximum-number-of-balloons](https://github.com/kanishk3114S/leetcode-problems/tree/master/1189-maximum-number-of-balloons) |
 | [1296-divide-array-in-sets-of-k-consecutive-numbers](https://github.com/kanishk3114S/leetcode-problems/tree/master/1296-divide-array-in-sets-of-k-consecutive-numbers) |
 | [1297-maximum-number-of-occurrences-of-a-substring](https://github.com/kanishk3114S/leetcode-problems/tree/master/1297-maximum-number-of-occurrences-of-a-substring) |
+| [1345-jump-game-iv](https://github.com/kanishk3114S/leetcode-problems/tree/master/1345-jump-game-iv) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/kanishk3114S/leetcode-problems/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [1540-can-convert-string-in-k-moves](https://github.com/kanishk3114S/leetcode-problems/tree/master/1540-can-convert-string-in-k-moves) |
 | [1624-largest-substring-between-two-equal-characters](https://github.com/kanishk3114S/leetcode-problems/tree/master/1624-largest-substring-between-two-equal-characters) |
@@ -764,6 +766,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1123-lowest-common-ancestor-of-deepest-leaves](https://github.com/kanishk3114S/leetcode-problems/tree/master/1123-lowest-common-ancestor-of-deepest-leaves) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/kanishk3114S/leetcode-problems/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1306-jump-game-iii](https://github.com/kanishk3114S/leetcode-problems/tree/master/1306-jump-game-iii) |
+| [1345-jump-game-iv](https://github.com/kanishk3114S/leetcode-problems/tree/master/1345-jump-game-iv) |
 | [1609-even-odd-tree](https://github.com/kanishk3114S/leetcode-problems/tree/master/1609-even-odd-tree) |
 | [1971-find-if-path-exists-in-graph](https://github.com/kanishk3114S/leetcode-problems/tree/master/1971-find-if-path-exists-in-graph) |
 | [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/kanishk3114S/leetcode-problems/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
