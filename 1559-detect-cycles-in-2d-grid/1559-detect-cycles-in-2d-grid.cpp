@@ -72,8 +72,8 @@ public:
 
                 if (!vis[i][j]) {
 
-                    cout << "bfs runned for " << i << " " << j;
-                    cout << endl;
+                    // cout << "bfs runned for " << i << " " << j;
+                    // cout << endl;
 
                     if (bfs(grid , vis , grid[i][j] , i , j)) return true;
                 }
