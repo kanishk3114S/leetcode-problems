@@ -21,9 +21,9 @@ public:
                     pr = q.front().second.first;
                     pc = q.front().second.second;
                 }
-                if (ch == 'b') {
-                    cout << r << " " << c <<endl;
-                }
+                // if (ch == 'b') {
+                //     cout << r << " " << c <<endl;
+                // }
                 q.pop();
 
                 if (r!=0 && grid[r-1][c] == ch && !(r-1 == pr && c ==pc)) {
