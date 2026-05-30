@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2280-minimum-lines-to-represent-a-line-chart](https://github.com/kanishk3114S/leetcode-problems/tree/master/2280-minimum-lines-to-represent-a-line-chart) |
 | [2413-smallest-even-multiple](https://github.com/kanishk3114S/leetcode-problems/tree/master/2413-smallest-even-multiple) |
 | [2520-count-the-digits-that-divide-a-number](https://github.com/kanishk3114S/leetcode-problems/tree/master/2520-count-the-digits-that-divide-a-number) |
+| [2523-closest-prime-numbers-in-range](https://github.com/kanishk3114S/leetcode-problems/tree/master/2523-closest-prime-numbers-in-range) |
 | [2807-insert-greatest-common-divisors-in-linked-list](https://github.com/kanishk3114S/leetcode-problems/tree/master/2807-insert-greatest-common-divisors-in-linked-list) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/kanishk3114S/leetcode-problems/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/kanishk3114S/leetcode-problems/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
@@ -573,6 +574,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1952-three-divisors](https://github.com/kanishk3114S/leetcode-problems/tree/master/1952-three-divisors) |
 | [2280-minimum-lines-to-represent-a-line-chart](https://github.com/kanishk3114S/leetcode-problems/tree/master/2280-minimum-lines-to-represent-a-line-chart) |
 | [2413-smallest-even-multiple](https://github.com/kanishk3114S/leetcode-problems/tree/master/2413-smallest-even-multiple) |
+| [2523-closest-prime-numbers-in-range](https://github.com/kanishk3114S/leetcode-problems/tree/master/2523-closest-prime-numbers-in-range) |
 | [2807-insert-greatest-common-divisors-in-linked-list](https://github.com/kanishk3114S/leetcode-problems/tree/master/2807-insert-greatest-common-divisors-in-linked-list) |
 | [3591-check-if-any-element-has-prime-frequency](https://github.com/kanishk3114S/leetcode-problems/tree/master/3591-check-if-any-element-has-prime-frequency) |
 ## Tree
