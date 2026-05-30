@@ -297,6 +297,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/kanishk3114S/leetcode-problems/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0012-integer-to-roman](https://github.com/kanishk3114S/leetcode-problems/tree/master/0012-integer-to-roman) |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/kanishk3114S/leetcode-problems/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0257-binary-tree-paths](https://github.com/kanishk3114S/leetcode-problems/tree/master/0257-binary-tree-paths) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/kanishk3114S/leetcode-problems/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/kanishk3114S/leetcode-problems/tree/master/0438-find-all-anagrams-in-a-string) |
@@ -350,6 +351,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0015-3sum](https://github.com/kanishk3114S/leetcode-problems/tree/master/0015-3sum) |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/kanishk3114S/leetcode-problems/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0061-rotate-list](https://github.com/kanishk3114S/leetcode-problems/tree/master/0061-rotate-list) |
 | [0455-assign-cookies](https://github.com/kanishk3114S/leetcode-problems/tree/master/0455-assign-cookies) |
 | [0567-permutation-in-string](https://github.com/kanishk3114S/leetcode-problems/tree/master/0567-permutation-in-string) |
@@ -921,6 +923,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String Matching
 |  |
 | ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/kanishk3114S/leetcode-problems/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0796-rotate-string](https://github.com/kanishk3114S/leetcode-problems/tree/master/0796-rotate-string) |
 ## Iterator
 |  |
