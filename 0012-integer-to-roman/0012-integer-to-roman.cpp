@@ -1,59 +1,55 @@
 class Solution {
 public:
-    string intToRoman(int n) {
-     
-        string ans = "";
+    
+    vector<string> st;
 
-        while (n > 0) {
+    void build(int node, int l, int r, vector<string>& arr) {
 
-            if (n >= 1000) {
-                ans += 'M';
-                n-= 1000;
-            } else if (n >= 900) {
-                ans += "CM";
-                n-=900;
-            } else if (n >= 500) {
-                ans += 'D';
-                n-=500;
-            }else if(n>=400) {
-                ans += "CD";
-                n-=400;
-            } else if (n>=100) {
-                ans += 'C';
-                n-=100;
-            } else if (n>=90) {
-
-                ans += "XC";
-                n-=90;
-
-            } else if( n >= 50) {
-                ans += 'L';
-                n-=50;
-            } else if (n >= 40) {
-
-                ans += "XL";
-                n-=40;
-
-            } else if (n>= 10) {
-                ans += 'X';
-                n -= 10;
-            } else if (n >= 9) {
-                ans += "IX";
-                n-=9;
-            } else if (n >= 5) {
-                ans += 'V';
-                n-=5;
-            } else if (n >= 4) {
-                ans+= "IV";
-                n-=4;
-            } else if (n >= 1) {
-                ans += 'I';
-                n--;
-            }
-
+        if (l == r) {
+            st[node] = arr[l];
+            return;
         }
 
-        return ans;
+        int mid = (l + r) / 2;
 
+        build(2 * node, l, mid, arr);
+        build(2 * node + 1, mid + 1, r, arr);
+
+        st[node] = st[2 * node] + st[2 * node + 1];
+    }
+
+    string intToRoman(int num) {
+
+        vector<string> ones = {
+            "", "I", "II", "III", "IV",
+            "V", "VI", "VII", "VIII", "IX"
+        };
+
+        vector<string> tens = {
+            "", "X", "XX", "XXX", "XL",
+            "L", "LX", "LXX", "LXXX", "XC"
+        };
+
+        vector<string> hundreds = {
+            "", "C", "CC", "CCC", "CD",
+            "D", "DC", "DCC", "DCCC", "CM"
+        };
+
+        vector<string> thousands = {
+            "", "M", "MM", "MMM"
+        };
+
+        vector<string> arr(4);
+
+        arr[0] = thousands[num / 1000];
+        arr[1] = hundreds[(num / 100) % 10];
+        arr[2] = tens[(num / 10) % 10];
+        arr[3] = ones[num % 10];
+
+        st.resize(16);
+
+        build(1, 0, 3, arr);
+
+        return st[1];
     }
 };
