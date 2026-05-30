@@ -1,17 +1,17 @@
 class Solution {
 public:
 
-    bool isprime(int n) {
+    // bool isprime(int n) {
 
-        for (int i=2; i<=sqrt(n); i++) {
+    //     for (int i=2; i<=sqrt(n); i++) {
 
-            if (n%i == 0) return false;
+    //         if (n%i == 0) return false;
 
-        }
+    //     }
 
-        return true;
+    //     return true;
 
-    }
+    // }
 
     long long sieve(long long n) {
 
@@ -42,7 +42,7 @@ public:
 
         for(int i=0; i<nums.size(); i++) {
 
-            if (nums[i] >= 6 && !isprime(nums[i])) {
+            if (nums[i] >= 6) {
 
                 ans += sieve((long long)nums[i]);
                 // cout << nums[i] << " " << sieve((long long)nums[i]) << endl;
