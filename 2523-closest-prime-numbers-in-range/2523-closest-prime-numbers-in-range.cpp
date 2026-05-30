@@ -27,7 +27,7 @@ public:
         for (int i=left; i<=right; i++) {
             
             if (!sieve[i]) {
-                cout << i << " ";
+                // cout << i << " ";
                 if (first != -1) {
                     if (i-first < diff) {
                         diff = i-first;
