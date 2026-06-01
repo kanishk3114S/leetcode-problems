@@ -140,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2090-k-radius-subarray-averages](https://github.com/kanishk3114S/leetcode-problems/tree/master/2090-k-radius-subarray-averages) |
 | [2121-intervals-between-identical-elements](https://github.com/kanishk3114S/leetcode-problems/tree/master/2121-intervals-between-identical-elements) |
 | [2126-destroying-asteroids](https://github.com/kanishk3114S/leetcode-problems/tree/master/2126-destroying-asteroids) |
+| [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/kanishk3114S/leetcode-problems/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/kanishk3114S/leetcode-problems/tree/master/2196-create-binary-tree-from-descriptions) |
 | [2208-minimum-operations-to-halve-array-sum](https://github.com/kanishk3114S/leetcode-problems/tree/master/2208-minimum-operations-to-halve-array-sum) |
 | [2280-minimum-lines-to-represent-a-line-chart](https://github.com/kanishk3114S/leetcode-problems/tree/master/2280-minimum-lines-to-represent-a-line-chart) |
@@ -436,6 +437,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1962-remove-stones-to-minimize-the-total](https://github.com/kanishk3114S/leetcode-problems/tree/master/1962-remove-stones-to-minimize-the-total) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/kanishk3114S/leetcode-problems/tree/master/2078-two-furthest-houses-with-different-colors) |
 | [2126-destroying-asteroids](https://github.com/kanishk3114S/leetcode-problems/tree/master/2126-destroying-asteroids) |
+| [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/kanishk3114S/leetcode-problems/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2208-minimum-operations-to-halve-array-sum](https://github.com/kanishk3114S/leetcode-problems/tree/master/2208-minimum-operations-to-halve-array-sum) |
 | [2611-mice-and-cheese](https://github.com/kanishk3114S/leetcode-problems/tree/master/2611-mice-and-cheese) |
 ## Matrix
@@ -545,6 +547,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1913-maximum-product-difference-between-two-pairs](https://github.com/kanishk3114S/leetcode-problems/tree/master/1913-maximum-product-difference-between-two-pairs) |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/kanishk3114S/leetcode-problems/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
 | [2126-destroying-asteroids](https://github.com/kanishk3114S/leetcode-problems/tree/master/2126-destroying-asteroids) |
+| [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/kanishk3114S/leetcode-problems/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2280-minimum-lines-to-represent-a-line-chart](https://github.com/kanishk3114S/leetcode-problems/tree/master/2280-minimum-lines-to-represent-a-line-chart) |
 | [2583-kth-largest-sum-in-a-binary-tree](https://github.com/kanishk3114S/leetcode-problems/tree/master/2583-kth-largest-sum-in-a-binary-tree) |
 | [2611-mice-and-cheese](https://github.com/kanishk3114S/leetcode-problems/tree/master/2611-mice-and-cheese) |
