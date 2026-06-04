@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2269-find-the-k-beauty-of-a-number](https://github.com/kanishk3114S/leetcode-problems/tree/master/2269-find-the-k-beauty-of-a-number) |
 | [2280-minimum-lines-to-represent-a-line-chart](https://github.com/kanishk3114S/leetcode-problems/tree/master/2280-minimum-lines-to-represent-a-line-chart) |
 | [2413-smallest-even-multiple](https://github.com/kanishk3114S/leetcode-problems/tree/master/2413-smallest-even-multiple) |
+| [2514-count-anagrams](https://github.com/kanishk3114S/leetcode-problems/tree/master/2514-count-anagrams) |
 | [2520-count-the-digits-that-divide-a-number](https://github.com/kanishk3114S/leetcode-problems/tree/master/2520-count-the-digits-that-divide-a-number) |
 | [2523-closest-prime-numbers-in-range](https://github.com/kanishk3114S/leetcode-problems/tree/master/2523-closest-prime-numbers-in-range) |
 | [2807-insert-greatest-common-divisors-in-linked-list](https://github.com/kanishk3114S/leetcode-problems/tree/master/2807-insert-greatest-common-divisors-in-linked-list) |
@@ -294,6 +295,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2287-rearrange-characters-to-make-target-string](https://github.com/kanishk3114S/leetcode-problems/tree/master/2287-rearrange-characters-to-make-target-string) |
 | [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/kanishk3114S/leetcode-problems/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/kanishk3114S/leetcode-problems/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
+| [2514-count-anagrams](https://github.com/kanishk3114S/leetcode-problems/tree/master/2514-count-anagrams) |
 | [2540-minimum-common-value](https://github.com/kanishk3114S/leetcode-problems/tree/master/2540-minimum-common-value) |
 | [2615-sum-of-distances](https://github.com/kanishk3114S/leetcode-problems/tree/master/2615-sum-of-distances) |
 | [2641-cousins-in-binary-tree-ii](https://github.com/kanishk3114S/leetcode-problems/tree/master/2641-cousins-in-binary-tree-ii) |
@@ -355,6 +357,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2287-rearrange-characters-to-make-target-string](https://github.com/kanishk3114S/leetcode-problems/tree/master/2287-rearrange-characters-to-make-target-string) |
 | [2379-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/kanishk3114S/leetcode-problems/tree/master/2379-minimum-recolors-to-get-k-consecutive-black-blocks) |
 | [2452-words-within-two-edits-of-dictionary](https://github.com/kanishk3114S/leetcode-problems/tree/master/2452-words-within-two-edits-of-dictionary) |
+| [2514-count-anagrams](https://github.com/kanishk3114S/leetcode-problems/tree/master/2514-count-anagrams) |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/kanishk3114S/leetcode-problems/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
 | [2559-count-vowel-strings-in-ranges](https://github.com/kanishk3114S/leetcode-problems/tree/master/2559-count-vowel-strings-in-ranges) |
 | [2833-furthest-point-from-origin](https://github.com/kanishk3114S/leetcode-problems/tree/master/2833-furthest-point-from-origin) |
@@ -398,6 +401,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/kanishk3114S/leetcode-problems/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [2053-kth-distinct-string-in-an-array](https://github.com/kanishk3114S/leetcode-problems/tree/master/2053-kth-distinct-string-in-an-array) |
 | [2287-rearrange-characters-to-make-target-string](https://github.com/kanishk3114S/leetcode-problems/tree/master/2287-rearrange-characters-to-make-target-string) |
+| [2514-count-anagrams](https://github.com/kanishk3114S/leetcode-problems/tree/master/2514-count-anagrams) |
 | [2833-furthest-point-from-origin](https://github.com/kanishk3114S/leetcode-problems/tree/master/2833-furthest-point-from-origin) |
 | [3591-check-if-any-element-has-prime-frequency](https://github.com/kanishk3114S/leetcode-problems/tree/master/3591-check-if-any-element-has-prime-frequency) |
 ## Rolling Hash
@@ -1005,4 +1009,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0703-kth-largest-element-in-a-stream](https://github.com/kanishk3114S/leetcode-problems/tree/master/0703-kth-largest-element-in-a-stream) |
+## Combinatorics
+|  |
+| ------- |
+| [2514-count-anagrams](https://github.com/kanishk3114S/leetcode-problems/tree/master/2514-count-anagrams) |
 <!---LeetCode Topics End-->
