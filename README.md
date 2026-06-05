@@ -758,6 +758,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1339-maximum-product-of-splitted-binary-tree](https://github.com/kanishk3114S/leetcode-problems/tree/master/1339-maximum-product-of-splitted-binary-tree) |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/kanishk3114S/leetcode-problems/tree/master/1373-maximum-sum-bst-in-binary-tree) |
 | [1382-balance-a-binary-search-tree](https://github.com/kanishk3114S/leetcode-problems/tree/master/1382-balance-a-binary-search-tree) |
+| [1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero](https://github.com/kanishk3114S/leetcode-problems/tree/master/1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/kanishk3114S/leetcode-problems/tree/master/1559-detect-cycles-in-2d-grid) |
 | [1722-minimize-hamming-distance-after-swap-operations](https://github.com/kanishk3114S/leetcode-problems/tree/master/1722-minimize-hamming-distance-after-swap-operations) |
 | [1971-find-if-path-exists-in-graph](https://github.com/kanishk3114S/leetcode-problems/tree/master/1971-find-if-path-exists-in-graph) |
@@ -869,6 +870,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1254-number-of-closed-islands](https://github.com/kanishk3114S/leetcode-problems/tree/master/1254-number-of-closed-islands) |
 | [1306-jump-game-iii](https://github.com/kanishk3114S/leetcode-problems/tree/master/1306-jump-game-iii) |
 | [1345-jump-game-iv](https://github.com/kanishk3114S/leetcode-problems/tree/master/1345-jump-game-iv) |
+| [1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero](https://github.com/kanishk3114S/leetcode-problems/tree/master/1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/kanishk3114S/leetcode-problems/tree/master/1559-detect-cycles-in-2d-grid) |
 | [1609-even-odd-tree](https://github.com/kanishk3114S/leetcode-problems/tree/master/1609-even-odd-tree) |
 | [1765-map-of-highest-peak](https://github.com/kanishk3114S/leetcode-problems/tree/master/1765-map-of-highest-peak) |
@@ -966,6 +968,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0785-is-graph-bipartite](https://github.com/kanishk3114S/leetcode-problems/tree/master/0785-is-graph-bipartite) |
 | [0841-keys-and-rooms](https://github.com/kanishk3114S/leetcode-problems/tree/master/0841-keys-and-rooms) |
 | [0997-find-the-town-judge](https://github.com/kanishk3114S/leetcode-problems/tree/master/0997-find-the-town-judge) |
+| [1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero](https://github.com/kanishk3114S/leetcode-problems/tree/master/1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero) |
 | [1971-find-if-path-exists-in-graph](https://github.com/kanishk3114S/leetcode-problems/tree/master/1971-find-if-path-exists-in-graph) |
 | [2685-count-the-number-of-complete-components](https://github.com/kanishk3114S/leetcode-problems/tree/master/2685-count-the-number-of-complete-components) |
 ## Binary Search Tree
