@@ -39,9 +39,9 @@ public:
             }
         }
 
-        for (int i=0; i<vec.size(); i++) {
-            cout << "d : " << vec[i].first << " & val : " << vec[i].second << endl;
-        }
+        // for (int i=0; i<vec.size(); i++) {
+        //     cout << "d : " << vec[i].first << " & val : " << vec[i].second << endl;
+        // }
 
         stack<pair<int,TreeNode*>> s;
         TreeNode* root = new TreeNode(vec[0].second);
