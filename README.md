@@ -343,6 +343,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0856-score-of-parentheses](https://github.com/kanishk3114S/leetcode-problems/tree/master/0856-score-of-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/kanishk3114S/leetcode-problems/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [0988-smallest-string-starting-from-leaf](https://github.com/kanishk3114S/leetcode-problems/tree/master/0988-smallest-string-starting-from-leaf) |
+| [1028-recover-a-tree-from-preorder-traversal](https://github.com/kanishk3114S/leetcode-problems/tree/master/1028-recover-a-tree-from-preorder-traversal) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/kanishk3114S/leetcode-problems/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1189-maximum-number-of-balloons](https://github.com/kanishk3114S/leetcode-problems/tree/master/1189-maximum-number-of-balloons) |
 | [1297-maximum-number-of-occurrences-of-a-substring](https://github.com/kanishk3114S/leetcode-problems/tree/master/1297-maximum-number-of-occurrences-of-a-substring) |
@@ -698,6 +699,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0988-smallest-string-starting-from-leaf](https://github.com/kanishk3114S/leetcode-problems/tree/master/0988-smallest-string-starting-from-leaf) |
 | [0993-cousins-in-binary-tree](https://github.com/kanishk3114S/leetcode-problems/tree/master/0993-cousins-in-binary-tree) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/kanishk3114S/leetcode-problems/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
+| [1028-recover-a-tree-from-preorder-traversal](https://github.com/kanishk3114S/leetcode-problems/tree/master/1028-recover-a-tree-from-preorder-traversal) |
 | [1123-lowest-common-ancestor-of-deepest-leaves](https://github.com/kanishk3114S/leetcode-problems/tree/master/1123-lowest-common-ancestor-of-deepest-leaves) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/kanishk3114S/leetcode-problems/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1305-all-elements-in-two-binary-search-trees](https://github.com/kanishk3114S/leetcode-problems/tree/master/1305-all-elements-in-two-binary-search-trees) |
@@ -764,6 +766,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0988-smallest-string-starting-from-leaf](https://github.com/kanishk3114S/leetcode-problems/tree/master/0988-smallest-string-starting-from-leaf) |
 | [0993-cousins-in-binary-tree](https://github.com/kanishk3114S/leetcode-problems/tree/master/0993-cousins-in-binary-tree) |
 | [1020-number-of-enclaves](https://github.com/kanishk3114S/leetcode-problems/tree/master/1020-number-of-enclaves) |
+| [1028-recover-a-tree-from-preorder-traversal](https://github.com/kanishk3114S/leetcode-problems/tree/master/1028-recover-a-tree-from-preorder-traversal) |
 | [1042-flower-planting-with-no-adjacent](https://github.com/kanishk3114S/leetcode-problems/tree/master/1042-flower-planting-with-no-adjacent) |
 | [1123-lowest-common-ancestor-of-deepest-leaves](https://github.com/kanishk3114S/leetcode-problems/tree/master/1123-lowest-common-ancestor-of-deepest-leaves) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/kanishk3114S/leetcode-problems/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
@@ -832,6 +835,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0988-smallest-string-starting-from-leaf](https://github.com/kanishk3114S/leetcode-problems/tree/master/0988-smallest-string-starting-from-leaf) |
 | [0993-cousins-in-binary-tree](https://github.com/kanishk3114S/leetcode-problems/tree/master/0993-cousins-in-binary-tree) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/kanishk3114S/leetcode-problems/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
+| [1028-recover-a-tree-from-preorder-traversal](https://github.com/kanishk3114S/leetcode-problems/tree/master/1028-recover-a-tree-from-preorder-traversal) |
 | [1123-lowest-common-ancestor-of-deepest-leaves](https://github.com/kanishk3114S/leetcode-problems/tree/master/1123-lowest-common-ancestor-of-deepest-leaves) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/kanishk3114S/leetcode-problems/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1305-all-elements-in-two-binary-search-trees](https://github.com/kanishk3114S/leetcode-problems/tree/master/1305-all-elements-in-two-binary-search-trees) |
