@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2523-closest-prime-numbers-in-range](https://github.com/kanishk3114S/leetcode-problems/tree/master/2523-closest-prime-numbers-in-range) |
 | [2807-insert-greatest-common-divisors-in-linked-list](https://github.com/kanishk3114S/leetcode-problems/tree/master/2807-insert-greatest-common-divisors-in-linked-list) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/kanishk3114S/leetcode-problems/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
+| [3179-find-the-n-th-value-after-k-seconds](https://github.com/kanishk3114S/leetcode-problems/tree/master/3179-find-the-n-th-value-after-k-seconds) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/kanishk3114S/leetcode-problems/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3591-check-if-any-element-has-prime-frequency](https://github.com/kanishk3114S/leetcode-problems/tree/master/3591-check-if-any-element-has-prime-frequency) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/kanishk3114S/leetcode-problems/tree/master/3751-total-waviness-of-numbers-in-range-i) |
@@ -174,6 +175,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/kanishk3114S/leetcode-problems/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/kanishk3114S/leetcode-problems/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/kanishk3114S/leetcode-problems/tree/master/3070-count-submatrices-with-top-left-element-and-sum-less-than-k) |
+| [3179-find-the-n-th-value-after-k-seconds](https://github.com/kanishk3114S/leetcode-problems/tree/master/3179-find-the-n-th-value-after-k-seconds) |
 | [3212-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/kanishk3114S/leetcode-problems/tree/master/3212-count-submatrices-with-equal-frequency-of-x-and-y) |
 | [3275-k-th-nearest-obstacle-queries](https://github.com/kanishk3114S/leetcode-problems/tree/master/3275-k-th-nearest-obstacle-queries) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/kanishk3114S/leetcode-problems/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
@@ -250,6 +252,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/kanishk3114S/leetcode-problems/tree/master/3070-count-submatrices-with-top-left-element-and-sum-less-than-k) |
 | [3129-find-all-possible-stable-binary-arrays-i](https://github.com/kanishk3114S/leetcode-problems/tree/master/3129-find-all-possible-stable-binary-arrays-i) |
 | [3130-find-all-possible-stable-binary-arrays-ii](https://github.com/kanishk3114S/leetcode-problems/tree/master/3130-find-all-possible-stable-binary-arrays-ii) |
+| [3179-find-the-n-th-value-after-k-seconds](https://github.com/kanishk3114S/leetcode-problems/tree/master/3179-find-the-n-th-value-after-k-seconds) |
 | [3212-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/kanishk3114S/leetcode-problems/tree/master/3212-count-submatrices-with-equal-frequency-of-x-and-y) |
 | [3546-equal-sum-grid-partition-i](https://github.com/kanishk3114S/leetcode-problems/tree/master/3546-equal-sum-grid-partition-i) |
 | [3862-find-the-smallest-balanced-index](https://github.com/kanishk3114S/leetcode-problems/tree/master/3862-find-the-smallest-balanced-index) |
@@ -435,6 +438,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2482-difference-between-ones-and-zeros-in-row-and-column](https://github.com/kanishk3114S/leetcode-problems/tree/master/2482-difference-between-ones-and-zeros-in-row-and-column) |
 | [2553-separate-the-digits-in-an-array](https://github.com/kanishk3114S/leetcode-problems/tree/master/2553-separate-the-digits-in-an-array) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/kanishk3114S/leetcode-problems/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
+| [3179-find-the-n-th-value-after-k-seconds](https://github.com/kanishk3114S/leetcode-problems/tree/master/3179-find-the-n-th-value-after-k-seconds) |
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/kanishk3114S/leetcode-problems/tree/master/3653-xor-after-range-multiplication-queries-i) |
 ## Enumeration
 |  |
@@ -1028,6 +1032,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2514-count-anagrams](https://github.com/kanishk3114S/leetcode-problems/tree/master/2514-count-anagrams) |
+| [3179-find-the-n-th-value-after-k-seconds](https://github.com/kanishk3114S/leetcode-problems/tree/master/3179-find-the-n-th-value-after-k-seconds) |
 ## Topological Sort
 |  |
 | ------- |
