@@ -76,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/kanishk3114S/leetcode-problems/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0200-number-of-islands](https://github.com/kanishk3114S/leetcode-problems/tree/master/0200-number-of-islands) |
 | [0215-kth-largest-element-in-an-array](https://github.com/kanishk3114S/leetcode-problems/tree/master/0215-kth-largest-element-in-an-array) |
+| [0229-majority-element-ii](https://github.com/kanishk3114S/leetcode-problems/tree/master/0229-majority-element-ii) |
 | [0287-find-the-duplicate-number](https://github.com/kanishk3114S/leetcode-problems/tree/master/0287-find-the-duplicate-number) |
 | [0334-increasing-triplet-subsequence](https://github.com/kanishk3114S/leetcode-problems/tree/master/0334-increasing-triplet-subsequence) |
 | [0347-top-k-frequent-elements](https://github.com/kanishk3114S/leetcode-problems/tree/master/0347-top-k-frequent-elements) |
@@ -267,6 +268,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/kanishk3114S/leetcode-problems/tree/master/0049-group-anagrams) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/kanishk3114S/leetcode-problems/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/kanishk3114S/leetcode-problems/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
+| [0229-majority-element-ii](https://github.com/kanishk3114S/leetcode-problems/tree/master/0229-majority-element-ii) |
 | [0264-ugly-number-ii](https://github.com/kanishk3114S/leetcode-problems/tree/master/0264-ugly-number-ii) |
 | [0347-top-k-frequent-elements](https://github.com/kanishk3114S/leetcode-problems/tree/master/0347-top-k-frequent-elements) |
 | [0355-design-twitter](https://github.com/kanishk3114S/leetcode-problems/tree/master/0355-design-twitter) |
@@ -405,6 +407,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [0229-majority-element-ii](https://github.com/kanishk3114S/leetcode-problems/tree/master/0229-majority-element-ii) |
 | [0347-top-k-frequent-elements](https://github.com/kanishk3114S/leetcode-problems/tree/master/0347-top-k-frequent-elements) |
 | [0621-task-scheduler](https://github.com/kanishk3114S/leetcode-problems/tree/master/0621-task-scheduler) |
 | [1189-maximum-number-of-balloons](https://github.com/kanishk3114S/leetcode-problems/tree/master/1189-maximum-number-of-balloons) |
@@ -574,6 +577,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/kanishk3114S/leetcode-problems/tree/master/0015-3sum) |
 | [0049-group-anagrams](https://github.com/kanishk3114S/leetcode-problems/tree/master/0049-group-anagrams) |
 | [0215-kth-largest-element-in-an-array](https://github.com/kanishk3114S/leetcode-problems/tree/master/0215-kth-largest-element-in-an-array) |
+| [0229-majority-element-ii](https://github.com/kanishk3114S/leetcode-problems/tree/master/0229-majority-element-ii) |
 | [0347-top-k-frequent-elements](https://github.com/kanishk3114S/leetcode-problems/tree/master/0347-top-k-frequent-elements) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/kanishk3114S/leetcode-problems/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0414-third-maximum-number](https://github.com/kanishk3114S/leetcode-problems/tree/master/0414-third-maximum-number) |
