@@ -114,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1004-max-consecutive-ones-iii](https://github.com/kanishk3114S/leetcode-problems/tree/master/1004-max-consecutive-ones-iii) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/kanishk3114S/leetcode-problems/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1020-number-of-enclaves](https://github.com/kanishk3114S/leetcode-problems/tree/master/1020-number-of-enclaves) |
+| [1162-as-far-from-land-as-possible](https://github.com/kanishk3114S/leetcode-problems/tree/master/1162-as-far-from-land-as-possible) |
 | [1254-number-of-closed-islands](https://github.com/kanishk3114S/leetcode-problems/tree/master/1254-number-of-closed-islands) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/kanishk3114S/leetcode-problems/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1296-divide-array-in-sets-of-k-consecutive-numbers](https://github.com/kanishk3114S/leetcode-problems/tree/master/1296-divide-array-in-sets-of-k-consecutive-numbers) |
@@ -492,6 +493,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0733-flood-fill](https://github.com/kanishk3114S/leetcode-problems/tree/master/0733-flood-fill) |
 | [0994-rotting-oranges](https://github.com/kanishk3114S/leetcode-problems/tree/master/0994-rotting-oranges) |
 | [1020-number-of-enclaves](https://github.com/kanishk3114S/leetcode-problems/tree/master/1020-number-of-enclaves) |
+| [1162-as-far-from-land-as-possible](https://github.com/kanishk3114S/leetcode-problems/tree/master/1162-as-far-from-land-as-possible) |
 | [1254-number-of-closed-islands](https://github.com/kanishk3114S/leetcode-problems/tree/master/1254-number-of-closed-islands) |
 | [1380-lucky-numbers-in-a-matrix](https://github.com/kanishk3114S/leetcode-problems/tree/master/1380-lucky-numbers-in-a-matrix) |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/kanishk3114S/leetcode-problems/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
@@ -527,6 +529,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0678-valid-parenthesis-string](https://github.com/kanishk3114S/leetcode-problems/tree/master/0678-valid-parenthesis-string) |
 | [0788-rotated-digits](https://github.com/kanishk3114S/leetcode-problems/tree/master/0788-rotated-digits) |
 | [0907-sum-of-subarray-minimums](https://github.com/kanishk3114S/leetcode-problems/tree/master/0907-sum-of-subarray-minimums) |
+| [1162-as-far-from-land-as-possible](https://github.com/kanishk3114S/leetcode-problems/tree/master/1162-as-far-from-land-as-possible) |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/kanishk3114S/leetcode-problems/tree/master/1373-maximum-sum-bst-in-binary-tree) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/kanishk3114S/leetcode-problems/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [1871-jump-game-vii](https://github.com/kanishk3114S/leetcode-problems/tree/master/1871-jump-game-vii) |
@@ -875,6 +878,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1020-number-of-enclaves](https://github.com/kanishk3114S/leetcode-problems/tree/master/1020-number-of-enclaves) |
 | [1123-lowest-common-ancestor-of-deepest-leaves](https://github.com/kanishk3114S/leetcode-problems/tree/master/1123-lowest-common-ancestor-of-deepest-leaves) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/kanishk3114S/leetcode-problems/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
+| [1162-as-far-from-land-as-possible](https://github.com/kanishk3114S/leetcode-problems/tree/master/1162-as-far-from-land-as-possible) |
 | [1254-number-of-closed-islands](https://github.com/kanishk3114S/leetcode-problems/tree/master/1254-number-of-closed-islands) |
 | [1306-jump-game-iii](https://github.com/kanishk3114S/leetcode-problems/tree/master/1306-jump-game-iii) |
 | [1345-jump-game-iv](https://github.com/kanishk3114S/leetcode-problems/tree/master/1345-jump-game-iv) |
