@@ -704,6 +704,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/kanishk3114S/leetcode-problems/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1305-all-elements-in-two-binary-search-trees](https://github.com/kanishk3114S/leetcode-problems/tree/master/1305-all-elements-in-two-binary-search-trees) |
 | [1339-maximum-product-of-splitted-binary-tree](https://github.com/kanishk3114S/leetcode-problems/tree/master/1339-maximum-product-of-splitted-binary-tree) |
+| [1367-linked-list-in-binary-tree](https://github.com/kanishk3114S/leetcode-problems/tree/master/1367-linked-list-in-binary-tree) |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/kanishk3114S/leetcode-problems/tree/master/1373-maximum-sum-bst-in-binary-tree) |
 | [1382-balance-a-binary-search-tree](https://github.com/kanishk3114S/leetcode-problems/tree/master/1382-balance-a-binary-search-tree) |
 | [1609-even-odd-tree](https://github.com/kanishk3114S/leetcode-problems/tree/master/1609-even-odd-tree) |
@@ -774,6 +775,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1305-all-elements-in-two-binary-search-trees](https://github.com/kanishk3114S/leetcode-problems/tree/master/1305-all-elements-in-two-binary-search-trees) |
 | [1306-jump-game-iii](https://github.com/kanishk3114S/leetcode-problems/tree/master/1306-jump-game-iii) |
 | [1339-maximum-product-of-splitted-binary-tree](https://github.com/kanishk3114S/leetcode-problems/tree/master/1339-maximum-product-of-splitted-binary-tree) |
+| [1367-linked-list-in-binary-tree](https://github.com/kanishk3114S/leetcode-problems/tree/master/1367-linked-list-in-binary-tree) |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/kanishk3114S/leetcode-problems/tree/master/1373-maximum-sum-bst-in-binary-tree) |
 | [1382-balance-a-binary-search-tree](https://github.com/kanishk3114S/leetcode-problems/tree/master/1382-balance-a-binary-search-tree) |
 | [1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero](https://github.com/kanishk3114S/leetcode-problems/tree/master/1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero) |
@@ -840,6 +842,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/kanishk3114S/leetcode-problems/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1305-all-elements-in-two-binary-search-trees](https://github.com/kanishk3114S/leetcode-problems/tree/master/1305-all-elements-in-two-binary-search-trees) |
 | [1339-maximum-product-of-splitted-binary-tree](https://github.com/kanishk3114S/leetcode-problems/tree/master/1339-maximum-product-of-splitted-binary-tree) |
+| [1367-linked-list-in-binary-tree](https://github.com/kanishk3114S/leetcode-problems/tree/master/1367-linked-list-in-binary-tree) |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/kanishk3114S/leetcode-problems/tree/master/1373-maximum-sum-bst-in-binary-tree) |
 | [1382-balance-a-binary-search-tree](https://github.com/kanishk3114S/leetcode-problems/tree/master/1382-balance-a-binary-search-tree) |
 | [1609-even-odd-tree](https://github.com/kanishk3114S/leetcode-problems/tree/master/1609-even-odd-tree) |
@@ -914,6 +917,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0237-delete-node-in-a-linked-list](https://github.com/kanishk3114S/leetcode-problems/tree/master/0237-delete-node-in-a-linked-list) |
 | [0355-design-twitter](https://github.com/kanishk3114S/leetcode-problems/tree/master/0355-design-twitter) |
 | [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/kanishk3114S/leetcode-problems/tree/master/0430-flatten-a-multilevel-doubly-linked-list) |
+| [1367-linked-list-in-binary-tree](https://github.com/kanishk3114S/leetcode-problems/tree/master/1367-linked-list-in-binary-tree) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/kanishk3114S/leetcode-problems/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 | [2807-insert-greatest-common-divisors-in-linked-list](https://github.com/kanishk3114S/leetcode-problems/tree/master/2807-insert-greatest-common-divisors-in-linked-list) |
 ## Doubly-Linked List
