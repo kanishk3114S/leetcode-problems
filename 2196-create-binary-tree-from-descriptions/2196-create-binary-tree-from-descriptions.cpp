@@ -11,53 +11,58 @@
  */
 class Solution {
 public:
-    TreeNode* createBinaryTree(vector<vector<int>>& des) {
+    TreeNode* createBinaryTree(vector<vector<int>>& info) {
         
-        unordered_map<int, TreeNode*> mpp;
-        unordered_map<TreeNode* , bool> hasparent;
+        unordered_map<int,TreeNode*> mpp;
+        unordered_map<int,bool> hasparent;
 
-        for (int i=0; i<des.size(); i++) {
+        for (int i=0; i<info.size(); i++) {
 
+            int p = info[i][0];
+            int n = info[i][1];
             TreeNode* parent = NULL;
             TreeNode* child = NULL;
+            if (mpp.count(p) && !mpp.count(n)) {
 
-            if (!mpp.count(des[i][0]) && !mpp.count(des[i][1])) {
+                parent = mpp[p];
+                child = new TreeNode(n);
 
-                parent = new TreeNode(des[i][0]);
-                child = new TreeNode(des[i][1]);
+            } else if (!mpp.count(p) && mpp.count(n)) {
 
-            } else if (mpp.count(des[i][0]) && !mpp.count(des[i][1])) {
+                parent = new TreeNode(p);
+                child = mpp[n];
 
-                parent = mpp[des[i][0]];
-                child = new TreeNode(des[i][1]);
+            } else if (!mpp.count(p) && !mpp.count(n)) {
 
-            } else if (!mpp.count(des[i][0]) && mpp.count(des[i][1])) {
-
-                parent = new TreeNode(des[i][0]);
-                child = mpp[des[i][1]];
-   
+                parent = new TreeNode(p);
+                child = new TreeNode(n);
             } else {
-                parent = mpp[des[i][0]];
-                child = mpp[des[i][1]];
+                parent = mpp[p];
+                child = mpp[n];
             }
-            if (des[i][2] == 1) {
-                    parent->left = child;
-                } else {
-                    parent->right = child;
-                }
 
-                mpp[parent->val] = parent;
-                mpp[child->val] = child;
-                hasparent[child] = true;
+            if (info[i][2] == 1) {
+                parent->left = child;
+            } else {
+                parent->right = child;
+            }
+
+                mpp[p] = parent;
+                mpp[n] = child;
+
+
+
+            hasparent[n] = true;
+            if (!hasparent.count(p)) {
+                hasparent[p] = false;
+            }
 
         }
 
-        TreeNode* root = NULL;
-
         for (auto it:mpp) {
-            
-            if (!hasparent.count(it.second)) {
-                return it.second;
+
+            if (!hasparent[it.first]) {
+                return mpp[it.first];
             }
 
         }
