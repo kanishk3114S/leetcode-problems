@@ -164,6 +164,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2196-create-binary-tree-from-descriptions](https://github.com/kanishk3114S/leetcode-problems/tree/master/2196-create-binary-tree-from-descriptions) |
 | [2208-minimum-operations-to-halve-array-sum](https://github.com/kanishk3114S/leetcode-problems/tree/master/2208-minimum-operations-to-halve-array-sum) |
 | [2280-minimum-lines-to-represent-a-line-chart](https://github.com/kanishk3114S/leetcode-problems/tree/master/2280-minimum-lines-to-represent-a-line-chart) |
+| [2343-query-kth-smallest-trimmed-number](https://github.com/kanishk3114S/leetcode-problems/tree/master/2343-query-kth-smallest-trimmed-number) |
 | [2452-words-within-two-edits-of-dictionary](https://github.com/kanishk3114S/leetcode-problems/tree/master/2452-words-within-two-edits-of-dictionary) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/kanishk3114S/leetcode-problems/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2482-difference-between-ones-and-zeros-in-row-and-column](https://github.com/kanishk3114S/leetcode-problems/tree/master/2482-difference-between-ones-and-zeros-in-row-and-column) |
@@ -373,6 +374,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2120-execution-of-all-suffix-instructions-staying-in-a-grid](https://github.com/kanishk3114S/leetcode-problems/tree/master/2120-execution-of-all-suffix-instructions-staying-in-a-grid) |
 | [2269-find-the-k-beauty-of-a-number](https://github.com/kanishk3114S/leetcode-problems/tree/master/2269-find-the-k-beauty-of-a-number) |
 | [2287-rearrange-characters-to-make-target-string](https://github.com/kanishk3114S/leetcode-problems/tree/master/2287-rearrange-characters-to-make-target-string) |
+| [2343-query-kth-smallest-trimmed-number](https://github.com/kanishk3114S/leetcode-problems/tree/master/2343-query-kth-smallest-trimmed-number) |
 | [2379-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/kanishk3114S/leetcode-problems/tree/master/2379-minimum-recolors-to-get-k-consecutive-black-blocks) |
 | [2452-words-within-two-edits-of-dictionary](https://github.com/kanishk3114S/leetcode-problems/tree/master/2452-words-within-two-edits-of-dictionary) |
 | [2514-count-anagrams](https://github.com/kanishk3114S/leetcode-problems/tree/master/2514-count-anagrams) |
@@ -620,6 +622,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2126-destroying-asteroids](https://github.com/kanishk3114S/leetcode-problems/tree/master/2126-destroying-asteroids) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/kanishk3114S/leetcode-problems/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2280-minimum-lines-to-represent-a-line-chart](https://github.com/kanishk3114S/leetcode-problems/tree/master/2280-minimum-lines-to-represent-a-line-chart) |
+| [2343-query-kth-smallest-trimmed-number](https://github.com/kanishk3114S/leetcode-problems/tree/master/2343-query-kth-smallest-trimmed-number) |
 | [2583-kth-largest-sum-in-a-binary-tree](https://github.com/kanishk3114S/leetcode-problems/tree/master/2583-kth-largest-sum-in-a-binary-tree) |
 | [2611-mice-and-cheese](https://github.com/kanishk3114S/leetcode-problems/tree/master/2611-mice-and-cheese) |
 | [2784-check-if-array-is-good](https://github.com/kanishk3114S/leetcode-problems/tree/master/2784-check-if-array-is-good) |
@@ -648,6 +651,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1962-remove-stones-to-minimize-the-total](https://github.com/kanishk3114S/leetcode-problems/tree/master/1962-remove-stones-to-minimize-the-total) |
 | [2099-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/kanishk3114S/leetcode-problems/tree/master/2099-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2208-minimum-operations-to-halve-array-sum](https://github.com/kanishk3114S/leetcode-problems/tree/master/2208-minimum-operations-to-halve-array-sum) |
+| [2343-query-kth-smallest-trimmed-number](https://github.com/kanishk3114S/leetcode-problems/tree/master/2343-query-kth-smallest-trimmed-number) |
 | [2611-mice-and-cheese](https://github.com/kanishk3114S/leetcode-problems/tree/master/2611-mice-and-cheese) |
 | [3275-k-th-nearest-obstacle-queries](https://github.com/kanishk3114S/leetcode-problems/tree/master/3275-k-th-nearest-obstacle-queries) |
 ## Number Theory
@@ -966,6 +970,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0973-k-closest-points-to-origin](https://github.com/kanishk3114S/leetcode-problems/tree/master/0973-k-closest-points-to-origin) |
 | [1382-balance-a-binary-search-tree](https://github.com/kanishk3114S/leetcode-problems/tree/master/1382-balance-a-binary-search-tree) |
 | [1738-find-kth-largest-xor-coordinate-value](https://github.com/kanishk3114S/leetcode-problems/tree/master/1738-find-kth-largest-xor-coordinate-value) |
+| [2343-query-kth-smallest-trimmed-number](https://github.com/kanishk3114S/leetcode-problems/tree/master/2343-query-kth-smallest-trimmed-number) |
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/kanishk3114S/leetcode-problems/tree/master/3653-xor-after-range-multiplication-queries-i) |
 ## Design
 |  |
@@ -1055,6 +1060,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/kanishk3114S/leetcode-problems/tree/master/0347-top-k-frequent-elements) |
 | [0973-k-closest-points-to-origin](https://github.com/kanishk3114S/leetcode-problems/tree/master/0973-k-closest-points-to-origin) |
 | [1738-find-kth-largest-xor-coordinate-value](https://github.com/kanishk3114S/leetcode-problems/tree/master/1738-find-kth-largest-xor-coordinate-value) |
+| [2343-query-kth-smallest-trimmed-number](https://github.com/kanishk3114S/leetcode-problems/tree/master/2343-query-kth-smallest-trimmed-number) |
 ## Merge Sort
 |  |
 | ------- |
@@ -1076,4 +1082,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0802-find-eventual-safe-states](https://github.com/kanishk3114S/leetcode-problems/tree/master/0802-find-eventual-safe-states) |
+## Radix Sort
+|  |
+| ------- |
+| [2343-query-kth-smallest-trimmed-number](https://github.com/kanishk3114S/leetcode-problems/tree/master/2343-query-kth-smallest-trimmed-number) |
 <!---LeetCode Topics End-->
