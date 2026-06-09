@@ -314,6 +314,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2196-create-binary-tree-from-descriptions](https://github.com/kanishk3114S/leetcode-problems/tree/master/2196-create-binary-tree-from-descriptions) |
 | [2287-rearrange-characters-to-make-target-string](https://github.com/kanishk3114S/leetcode-problems/tree/master/2287-rearrange-characters-to-make-target-string) |
 | [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/kanishk3114S/leetcode-problems/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
+| [2423-remove-letter-to-equalize-frequency](https://github.com/kanishk3114S/leetcode-problems/tree/master/2423-remove-letter-to-equalize-frequency) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/kanishk3114S/leetcode-problems/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2514-count-anagrams](https://github.com/kanishk3114S/leetcode-problems/tree/master/2514-count-anagrams) |
 | [2540-minimum-common-value](https://github.com/kanishk3114S/leetcode-problems/tree/master/2540-minimum-common-value) |
@@ -381,6 +382,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2287-rearrange-characters-to-make-target-string](https://github.com/kanishk3114S/leetcode-problems/tree/master/2287-rearrange-characters-to-make-target-string) |
 | [2343-query-kth-smallest-trimmed-number](https://github.com/kanishk3114S/leetcode-problems/tree/master/2343-query-kth-smallest-trimmed-number) |
 | [2379-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/kanishk3114S/leetcode-problems/tree/master/2379-minimum-recolors-to-get-k-consecutive-black-blocks) |
+| [2423-remove-letter-to-equalize-frequency](https://github.com/kanishk3114S/leetcode-problems/tree/master/2423-remove-letter-to-equalize-frequency) |
 | [2452-words-within-two-edits-of-dictionary](https://github.com/kanishk3114S/leetcode-problems/tree/master/2452-words-within-two-edits-of-dictionary) |
 | [2514-count-anagrams](https://github.com/kanishk3114S/leetcode-problems/tree/master/2514-count-anagrams) |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/kanishk3114S/leetcode-problems/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
@@ -430,6 +432,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/kanishk3114S/leetcode-problems/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [2053-kth-distinct-string-in-an-array](https://github.com/kanishk3114S/leetcode-problems/tree/master/2053-kth-distinct-string-in-an-array) |
 | [2287-rearrange-characters-to-make-target-string](https://github.com/kanishk3114S/leetcode-problems/tree/master/2287-rearrange-characters-to-make-target-string) |
+| [2423-remove-letter-to-equalize-frequency](https://github.com/kanishk3114S/leetcode-problems/tree/master/2423-remove-letter-to-equalize-frequency) |
 | [2514-count-anagrams](https://github.com/kanishk3114S/leetcode-problems/tree/master/2514-count-anagrams) |
 | [2833-furthest-point-from-origin](https://github.com/kanishk3114S/leetcode-problems/tree/master/2833-furthest-point-from-origin) |
 | [3591-check-if-any-element-has-prime-frequency](https://github.com/kanishk3114S/leetcode-problems/tree/master/3591-check-if-any-element-has-prime-frequency) |
