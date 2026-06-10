@@ -1,63 +1,81 @@
-#include <bits/stdc++.h>
+#include<bits/stdc++.h>
 using namespace std;
 
-//term node ---> no outgoing edge//
-// safe node ---> every path from that node leads to term node//
 
-//observation--> if a node is attached to a cycle || part of a cycle === it is not a safe node//
+//Khan Algo --> when we use topological sort using the BFS //
 
-//while traversing a node if you got a cycle just return; //
+// we maintain a 1) indegree[node] 2) we try to insert the elements in the answer when the indegree becomes 0//
+
+// indegree=0 (means no node is before that node so put that node in the answer earlier)//
+
 
 class Solution {
-public:
+  public:
+    vector<int> eventualSafeNodes(vector<vector<int>>& graph) {
 
-    //dfs function..//
-    bool dfs(vector<vector<int>>& adj , vector<bool>&vis , vector<bool>&pathvis , int node) {
+        // Khan's---> BFS+indegree//
 
-        vis[node] = true;
-        pathvis[node] = true;
+        int V = graph.size();
+        int n = graph.size();
 
-        for (int i=0; i<adj[node].size(); i++) {
+        vector<int> indegree(V,0);
+        vector<int> adj[V];
 
-            int nbr = adj[node][i];
+        for (int i=0; i<n; i++) {
+            for (int j=0; j<graph[i].size(); j++) {
 
-            if (nbr == node) return true;
-            if (vis[nbr] && pathvis[nbr]) return true;
-            else if (!vis[nbr]) {
-                if(dfs(adj , vis , pathvis , nbr)) return true;
+                adj[graph[i][j]].push_back(i);
+
             }
-            
-
         }
 
-        pathvis[node] = false;
-        return false;
+        for (int i=0; i<n; i++) {
+            for (int j=0; j<graph[i].size(); j++) {
+                indegree[i]++;
+            }
+        }
 
-    }
+        //push all the nodes with indegree = 0 into the queue (coz they will be the first element)//
 
+        queue<int> q;
 
-    vector<int> eventualSafeNodes(vector<vector<int>>& adj) {
-        
-        vector<bool> vis(adj.size() , false);
-        vector<bool> pathvis(adj.size() , false);
+        for (int i=0; i<V; i++) {
+            if (indegree[i] == 0) {
+                q.push(i);
+            }
+        }
 
         vector<int> ans;
 
-        for (int i=0; i<vis.size(); i++) {
 
-            if (!vis[i]) {
-                dfs(adj , vis , pathvis , i);
+        while(!q.empty()) {
+
+            int size = q.size();
+            for (int i=0; i<size; i++) {
+
+                int node = q.front();
+                q.pop();
+
+                for (int i=0; i<adj[node].size(); i++) {
+
+                    int nbr = adj[node][i];
+                    indegree[nbr]--;
+
+                    if(indegree[nbr] == 0) {
+                        q.push(nbr);
+                    }
+
+                }
+
+                ans.push_back(node);
+
             }
 
         }
 
-        for (int i=0; i<pathvis.size(); i++) {
-            if (!pathvis[i]) ans.push_back(i);
-        }
+        sort(ans.begin(), ans.end());
 
         return ans;
-
-        
 
     }
 };
