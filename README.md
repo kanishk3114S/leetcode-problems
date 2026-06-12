@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0012-integer-to-roman](https://github.com/kanishk3114S/leetcode-problems/tree/master/0012-integer-to-roman) |
 | [0048-rotate-image](https://github.com/kanishk3114S/leetcode-problems/tree/master/0048-rotate-image) |
 | [0264-ugly-number-ii](https://github.com/kanishk3114S/leetcode-problems/tree/master/0264-ugly-number-ii) |
+| [0319-bulb-switcher](https://github.com/kanishk3114S/leetcode-problems/tree/master/0319-bulb-switcher) |
 | [0396-rotate-function](https://github.com/kanishk3114S/leetcode-problems/tree/master/0396-rotate-function) |
 | [0556-next-greater-element-iii](https://github.com/kanishk3114S/leetcode-problems/tree/master/0556-next-greater-element-iii) |
 | [0788-rotated-digits](https://github.com/kanishk3114S/leetcode-problems/tree/master/0788-rotated-digits) |
@@ -1135,4 +1136,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2343-query-kth-smallest-trimmed-number](https://github.com/kanishk3114S/leetcode-problems/tree/master/2343-query-kth-smallest-trimmed-number) |
+## Brainteaser
+|  |
+| ------- |
+| [0319-bulb-switcher](https://github.com/kanishk3114S/leetcode-problems/tree/master/0319-bulb-switcher) |
 <!---LeetCode Topics End-->
