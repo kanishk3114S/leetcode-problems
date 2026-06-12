@@ -27,7 +27,7 @@ public:
                     for (int j=0; j<26; j++) {
 
                         temp[i] = (char)j+'A';
-                        cout << temp << " ";
+                        // cout << temp << " ";
 
                         if (temp==goal) {
                             return moves+1;
