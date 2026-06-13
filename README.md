@@ -206,6 +206,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3741-minimum-distance-between-three-equal-elements-ii](https://github.com/kanishk3114S/leetcode-problems/tree/master/3741-minimum-distance-between-three-equal-elements-ii) |
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/kanishk3114S/leetcode-problems/tree/master/3761-minimum-absolute-distance-between-mirror-pairs) |
 | [3779-minimum-number-of-operations-to-have-distinct-elements](https://github.com/kanishk3114S/leetcode-problems/tree/master/3779-minimum-number-of-operations-to-have-distinct-elements) |
+| [3838-weighted-word-mapping](https://github.com/kanishk3114S/leetcode-problems/tree/master/3838-weighted-word-mapping) |
 | [3862-find-the-smallest-balanced-index](https://github.com/kanishk3114S/leetcode-problems/tree/master/3862-find-the-smallest-balanced-index) |
 | [3905-multi-source-flood-fill](https://github.com/kanishk3114S/leetcode-problems/tree/master/3905-multi-source-flood-fill) |
 ## Binary Search
@@ -404,6 +405,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3146-permutation-difference-between-two-strings](https://github.com/kanishk3114S/leetcode-problems/tree/master/3146-permutation-difference-between-two-strings) |
 | [3325-count-substrings-with-k-frequency-characters-i](https://github.com/kanishk3114S/leetcode-problems/tree/master/3325-count-substrings-with-k-frequency-characters-i) |
 | [3340-check-balanced-string](https://github.com/kanishk3114S/leetcode-problems/tree/master/3340-check-balanced-string) |
+| [3838-weighted-word-mapping](https://github.com/kanishk3114S/leetcode-problems/tree/master/3838-weighted-word-mapping) |
 | [3853-merge-close-characters](https://github.com/kanishk3114S/leetcode-problems/tree/master/3853-merge-close-characters) |
 | [3863-minimum-operations-to-sort-a-string](https://github.com/kanishk3114S/leetcode-problems/tree/master/3863-minimum-operations-to-sort-a-string) |
 ## Two Pointers
@@ -474,6 +476,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/kanishk3114S/leetcode-problems/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [3179-find-the-n-th-value-after-k-seconds](https://github.com/kanishk3114S/leetcode-problems/tree/master/3179-find-the-n-th-value-after-k-seconds) |
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/kanishk3114S/leetcode-problems/tree/master/3653-xor-after-range-multiplication-queries-i) |
+| [3838-weighted-word-mapping](https://github.com/kanishk3114S/leetcode-problems/tree/master/3838-weighted-word-mapping) |
 ## Enumeration
 |  |
 | ------- |
