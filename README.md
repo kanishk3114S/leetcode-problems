@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/kanishk3114S/leetcode-problems/tree/master/0048-rotate-image) |
 | [0264-ugly-number-ii](https://github.com/kanishk3114S/leetcode-problems/tree/master/0264-ugly-number-ii) |
 | [0319-bulb-switcher](https://github.com/kanishk3114S/leetcode-problems/tree/master/0319-bulb-switcher) |
+| [0367-valid-perfect-square](https://github.com/kanishk3114S/leetcode-problems/tree/master/0367-valid-perfect-square) |
 | [0396-rotate-function](https://github.com/kanishk3114S/leetcode-problems/tree/master/0396-rotate-function) |
 | [0556-next-greater-element-iii](https://github.com/kanishk3114S/leetcode-problems/tree/master/0556-next-greater-element-iii) |
 | [0633-sum-of-square-numbers](https://github.com/kanishk3114S/leetcode-problems/tree/master/0633-sum-of-square-numbers) |
@@ -219,6 +220,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/kanishk3114S/leetcode-problems/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0222-count-complete-tree-nodes](https://github.com/kanishk3114S/leetcode-problems/tree/master/0222-count-complete-tree-nodes) |
 | [0287-find-the-duplicate-number](https://github.com/kanishk3114S/leetcode-problems/tree/master/0287-find-the-duplicate-number) |
+| [0367-valid-perfect-square](https://github.com/kanishk3114S/leetcode-problems/tree/master/0367-valid-perfect-square) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/kanishk3114S/leetcode-problems/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0633-sum-of-square-numbers](https://github.com/kanishk3114S/leetcode-problems/tree/master/0633-sum-of-square-numbers) |
 | [0658-find-k-closest-elements](https://github.com/kanishk3114S/leetcode-problems/tree/master/0658-find-k-closest-elements) |
