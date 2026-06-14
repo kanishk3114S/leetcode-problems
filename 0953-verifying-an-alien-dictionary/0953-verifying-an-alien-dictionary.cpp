@@ -20,22 +20,22 @@ public:
             string s1 = words[i];
             string s2 = words[i+1];
 
-            if (s1.length() > s2.length() && s1.substr(0,s2.length()) == s2) return false;
-
+            // if (s1.length() > s2.length() && s1.substr(0,s2.length()) == s2) return false;
+            bool found = false;
             for (int i=0; i<min(s1.length() , s2.length()); i++) {
 
                 if (s1[i] != s2[i]) {
 
                     // cout << s1[i] << " " << s2[i] << " " << mpp[s1[i]] << " " << mpp[s2[i]];
-
+                    found = true;
                     if (mpp[s1[i]] > mpp[s2[i]]) return false;
                     else break;
 
-                } else {
-                    continue;
                 }
-
             }
+
+            if (!found && s1.length() > s2.length()) return false;
+
         }
 
         return true;
