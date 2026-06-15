@@ -292,6 +292,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/kanishk3114S/leetcode-problems/tree/master/0049-group-anagrams) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/kanishk3114S/leetcode-problems/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/kanishk3114S/leetcode-problems/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
+| [0126-word-ladder-ii](https://github.com/kanishk3114S/leetcode-problems/tree/master/0126-word-ladder-ii) |
 | [0127-word-ladder](https://github.com/kanishk3114S/leetcode-problems/tree/master/0127-word-ladder) |
 | [0229-majority-element-ii](https://github.com/kanishk3114S/leetcode-problems/tree/master/0229-majority-element-ii) |
 | [0264-ugly-number-ii](https://github.com/kanishk3114S/leetcode-problems/tree/master/0264-ugly-number-ii) |
@@ -361,6 +362,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0012-integer-to-roman](https://github.com/kanishk3114S/leetcode-problems/tree/master/0012-integer-to-roman) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/kanishk3114S/leetcode-problems/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0049-group-anagrams](https://github.com/kanishk3114S/leetcode-problems/tree/master/0049-group-anagrams) |
+| [0126-word-ladder-ii](https://github.com/kanishk3114S/leetcode-problems/tree/master/0126-word-ladder-ii) |
 | [0127-word-ladder](https://github.com/kanishk3114S/leetcode-problems/tree/master/0127-word-ladder) |
 | [0257-binary-tree-paths](https://github.com/kanishk3114S/leetcode-problems/tree/master/0257-binary-tree-paths) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/kanishk3114S/leetcode-problems/tree/master/0297-serialize-and-deserialize-binary-tree) |
@@ -621,6 +623,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0046-permutations](https://github.com/kanishk3114S/leetcode-problems/tree/master/0046-permutations) |
 | [0113-path-sum-ii](https://github.com/kanishk3114S/leetcode-problems/tree/master/0113-path-sum-ii) |
+| [0126-word-ladder-ii](https://github.com/kanishk3114S/leetcode-problems/tree/master/0126-word-ladder-ii) |
 | [0257-binary-tree-paths](https://github.com/kanishk3114S/leetcode-problems/tree/master/0257-binary-tree-paths) |
 | [0797-all-paths-from-source-to-target](https://github.com/kanishk3114S/leetcode-problems/tree/master/0797-all-paths-from-source-to-target) |
 | [0988-smallest-string-starting-from-leaf](https://github.com/kanishk3114S/leetcode-problems/tree/master/0988-smallest-string-starting-from-leaf) |
@@ -937,6 +940,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0104-maximum-depth-of-binary-tree](https://github.com/kanishk3114S/leetcode-problems/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/kanishk3114S/leetcode-problems/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/kanishk3114S/leetcode-problems/tree/master/0112-path-sum) |
+| [0126-word-ladder-ii](https://github.com/kanishk3114S/leetcode-problems/tree/master/0126-word-ladder-ii) |
 | [0127-word-ladder](https://github.com/kanishk3114S/leetcode-problems/tree/master/0127-word-ladder) |
 | [0130-surrounded-regions](https://github.com/kanishk3114S/leetcode-problems/tree/master/0130-surrounded-regions) |
 | [0199-binary-tree-right-side-view](https://github.com/kanishk3114S/leetcode-problems/tree/master/0199-binary-tree-right-side-view) |
