@@ -689,6 +689,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0621-task-scheduler](https://github.com/kanishk3114S/leetcode-problems/tree/master/0621-task-scheduler) |
 | [0658-find-k-closest-elements](https://github.com/kanishk3114S/leetcode-problems/tree/master/0658-find-k-closest-elements) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/kanishk3114S/leetcode-problems/tree/master/0703-kth-largest-element-in-a-stream) |
+| [0743-network-delay-time](https://github.com/kanishk3114S/leetcode-problems/tree/master/0743-network-delay-time) |
 | [0786-k-th-smallest-prime-fraction](https://github.com/kanishk3114S/leetcode-problems/tree/master/0786-k-th-smallest-prime-fraction) |
 | [0973-k-closest-points-to-origin](https://github.com/kanishk3114S/leetcode-problems/tree/master/0973-k-closest-points-to-origin) |
 | [1353-maximum-number-of-events-that-can-be-attended](https://github.com/kanishk3114S/leetcode-problems/tree/master/1353-maximum-number-of-events-that-can-be-attended) |
@@ -829,6 +830,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0671-second-minimum-node-in-a-binary-tree](https://github.com/kanishk3114S/leetcode-problems/tree/master/0671-second-minimum-node-in-a-binary-tree) |
 | [0695-max-area-of-island](https://github.com/kanishk3114S/leetcode-problems/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/kanishk3114S/leetcode-problems/tree/master/0733-flood-fill) |
+| [0743-network-delay-time](https://github.com/kanishk3114S/leetcode-problems/tree/master/0743-network-delay-time) |
 | [0785-is-graph-bipartite](https://github.com/kanishk3114S/leetcode-problems/tree/master/0785-is-graph-bipartite) |
 | [0797-all-paths-from-source-to-target](https://github.com/kanishk3114S/leetcode-problems/tree/master/0797-all-paths-from-source-to-target) |
 | [0802-find-eventual-safe-states](https://github.com/kanishk3114S/leetcode-problems/tree/master/0802-find-eventual-safe-states) |
@@ -964,6 +966,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0662-maximum-width-of-binary-tree](https://github.com/kanishk3114S/leetcode-problems/tree/master/0662-maximum-width-of-binary-tree) |
 | [0695-max-area-of-island](https://github.com/kanishk3114S/leetcode-problems/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/kanishk3114S/leetcode-problems/tree/master/0733-flood-fill) |
+| [0743-network-delay-time](https://github.com/kanishk3114S/leetcode-problems/tree/master/0743-network-delay-time) |
 | [0785-is-graph-bipartite](https://github.com/kanishk3114S/leetcode-problems/tree/master/0785-is-graph-bipartite) |
 | [0797-all-paths-from-source-to-target](https://github.com/kanishk3114S/leetcode-problems/tree/master/0797-all-paths-from-source-to-target) |
 | [0802-find-eventual-safe-states](https://github.com/kanishk3114S/leetcode-problems/tree/master/0802-find-eventual-safe-states) |
@@ -1096,6 +1099,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0207-course-schedule](https://github.com/kanishk3114S/leetcode-problems/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/kanishk3114S/leetcode-problems/tree/master/0210-course-schedule-ii) |
 | [0547-number-of-provinces](https://github.com/kanishk3114S/leetcode-problems/tree/master/0547-number-of-provinces) |
+| [0743-network-delay-time](https://github.com/kanishk3114S/leetcode-problems/tree/master/0743-network-delay-time) |
 | [0785-is-graph-bipartite](https://github.com/kanishk3114S/leetcode-problems/tree/master/0785-is-graph-bipartite) |
 | [0797-all-paths-from-source-to-target](https://github.com/kanishk3114S/leetcode-problems/tree/master/0797-all-paths-from-source-to-target) |
 | [0802-find-eventual-safe-states](https://github.com/kanishk3114S/leetcode-problems/tree/master/0802-find-eventual-safe-states) |
@@ -1177,4 +1181,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0319-bulb-switcher](https://github.com/kanishk3114S/leetcode-problems/tree/master/0319-bulb-switcher) |
+## Shortest Path
+|  |
+| ------- |
+| [0743-network-delay-time](https://github.com/kanishk3114S/leetcode-problems/tree/master/0743-network-delay-time) |
 <!---LeetCode Topics End-->
