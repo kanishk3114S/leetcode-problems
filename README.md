@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0009-palindrome-number](https://github.com/kanishk3114S/leetcode-problems/tree/master/0009-palindrome-number) |
 | [0012-integer-to-roman](https://github.com/kanishk3114S/leetcode-problems/tree/master/0012-integer-to-roman) |
 | [0048-rotate-image](https://github.com/kanishk3114S/leetcode-problems/tree/master/0048-rotate-image) |
+| [0060-permutation-sequence](https://github.com/kanishk3114S/leetcode-problems/tree/master/0060-permutation-sequence) |
 | [0264-ugly-number-ii](https://github.com/kanishk3114S/leetcode-problems/tree/master/0264-ugly-number-ii) |
 | [0319-bulb-switcher](https://github.com/kanishk3114S/leetcode-problems/tree/master/0319-bulb-switcher) |
 | [0367-valid-perfect-square](https://github.com/kanishk3114S/leetcode-problems/tree/master/0367-valid-perfect-square) |
@@ -621,6 +622,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/kanishk3114S/leetcode-problems/tree/master/0021-merge-two-sorted-lists) |
+| [0060-permutation-sequence](https://github.com/kanishk3114S/leetcode-problems/tree/master/0060-permutation-sequence) |
 | [0779-k-th-symbol-in-grammar](https://github.com/kanishk3114S/leetcode-problems/tree/master/0779-k-th-symbol-in-grammar) |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/kanishk3114S/leetcode-problems/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 ## Backtracking
