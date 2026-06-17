@@ -604,6 +604,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/kanishk3114S/leetcode-problems/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [1871-jump-game-vii](https://github.com/kanishk3114S/leetcode-problems/tree/master/1871-jump-game-vii) |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/kanishk3114S/leetcode-problems/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
+| [2998-minimum-number-of-operations-to-make-x-and-y-equal](https://github.com/kanishk3114S/leetcode-problems/tree/master/2998-minimum-number-of-operations-to-make-x-and-y-equal) |
 | [3129-find-all-possible-stable-binary-arrays-i](https://github.com/kanishk3114S/leetcode-problems/tree/master/3129-find-all-possible-stable-binary-arrays-i) |
 | [3130-find-all-possible-stable-binary-arrays-ii](https://github.com/kanishk3114S/leetcode-problems/tree/master/3130-find-all-possible-stable-binary-arrays-ii) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/kanishk3114S/leetcode-problems/tree/master/3751-total-waviness-of-numbers-in-range-i) |
@@ -1018,6 +1019,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2583-kth-largest-sum-in-a-binary-tree](https://github.com/kanishk3114S/leetcode-problems/tree/master/2583-kth-largest-sum-in-a-binary-tree) |
 | [2641-cousins-in-binary-tree-ii](https://github.com/kanishk3114S/leetcode-problems/tree/master/2641-cousins-in-binary-tree-ii) |
 | [2685-count-the-number-of-complete-components](https://github.com/kanishk3114S/leetcode-problems/tree/master/2685-count-the-number-of-complete-components) |
+| [2998-minimum-number-of-operations-to-make-x-and-y-equal](https://github.com/kanishk3114S/leetcode-problems/tree/master/2998-minimum-number-of-operations-to-make-x-and-y-equal) |
 | [3905-multi-source-flood-fill](https://github.com/kanishk3114S/leetcode-problems/tree/master/3905-multi-source-flood-fill) |
 ## Linked List
 |  |
@@ -1201,4 +1203,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0743-network-delay-time](https://github.com/kanishk3114S/leetcode-problems/tree/master/0743-network-delay-time) |
+## Memoization
+|  |
+| ------- |
+| [2998-minimum-number-of-operations-to-make-x-and-y-equal](https://github.com/kanishk3114S/leetcode-problems/tree/master/2998-minimum-number-of-operations-to-make-x-and-y-equal) |
 <!---LeetCode Topics End-->
