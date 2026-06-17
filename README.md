@@ -368,6 +368,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/kanishk3114S/leetcode-problems/tree/master/0049-group-anagrams) |
 | [0126-word-ladder-ii](https://github.com/kanishk3114S/leetcode-problems/tree/master/0126-word-ladder-ii) |
 | [0127-word-ladder](https://github.com/kanishk3114S/leetcode-problems/tree/master/0127-word-ladder) |
+| [0131-palindrome-partitioning](https://github.com/kanishk3114S/leetcode-problems/tree/master/0131-palindrome-partitioning) |
 | [0257-binary-tree-paths](https://github.com/kanishk3114S/leetcode-problems/tree/master/0257-binary-tree-paths) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/kanishk3114S/leetcode-problems/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0402-remove-k-digits](https://github.com/kanishk3114S/leetcode-problems/tree/master/0402-remove-k-digits) |
@@ -589,6 +590,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0118-pascals-triangle](https://github.com/kanishk3114S/leetcode-problems/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/kanishk3114S/leetcode-problems/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/kanishk3114S/leetcode-problems/tree/master/0124-binary-tree-maximum-path-sum) |
+| [0131-palindrome-partitioning](https://github.com/kanishk3114S/leetcode-problems/tree/master/0131-palindrome-partitioning) |
 | [0264-ugly-number-ii](https://github.com/kanishk3114S/leetcode-problems/tree/master/0264-ugly-number-ii) |
 | [0396-rotate-function](https://github.com/kanishk3114S/leetcode-problems/tree/master/0396-rotate-function) |
 | [0542-01-matrix](https://github.com/kanishk3114S/leetcode-problems/tree/master/0542-01-matrix) |
@@ -635,6 +637,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0046-permutations](https://github.com/kanishk3114S/leetcode-problems/tree/master/0046-permutations) |
 | [0113-path-sum-ii](https://github.com/kanishk3114S/leetcode-problems/tree/master/0113-path-sum-ii) |
 | [0126-word-ladder-ii](https://github.com/kanishk3114S/leetcode-problems/tree/master/0126-word-ladder-ii) |
+| [0131-palindrome-partitioning](https://github.com/kanishk3114S/leetcode-problems/tree/master/0131-palindrome-partitioning) |
 | [0257-binary-tree-paths](https://github.com/kanishk3114S/leetcode-problems/tree/master/0257-binary-tree-paths) |
 | [0797-all-paths-from-source-to-target](https://github.com/kanishk3114S/leetcode-problems/tree/master/0797-all-paths-from-source-to-target) |
 | [0988-smallest-string-starting-from-leaf](https://github.com/kanishk3114S/leetcode-problems/tree/master/0988-smallest-string-starting-from-leaf) |
