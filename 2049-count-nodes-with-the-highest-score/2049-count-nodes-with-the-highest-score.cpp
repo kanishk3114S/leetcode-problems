@@ -40,15 +40,15 @@ public:
                 score*=sz[it];
             }
 
-            cout << score << " ";
+            // cout << score << " ";
 
             long long rem = sz[0]-sz[i];
-            cout << rem <<" ";
+            // cout << rem <<" ";
             if (rem>0) {
                 score*=rem;
             }
 
-            cout << score << endl;
+            // cout << score << endl;
 
             if (score > ans) {
                 freq = 1;
