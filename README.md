@@ -166,6 +166,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1980-find-unique-binary-string](https://github.com/kanishk3114S/leetcode-problems/tree/master/1980-find-unique-binary-string) |
 | [1995-count-special-quadruplets](https://github.com/kanishk3114S/leetcode-problems/tree/master/1995-count-special-quadruplets) |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/kanishk3114S/leetcode-problems/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
+| [2049-count-nodes-with-the-highest-score](https://github.com/kanishk3114S/leetcode-problems/tree/master/2049-count-nodes-with-the-highest-score) |
 | [2053-kth-distinct-string-in-an-array](https://github.com/kanishk3114S/leetcode-problems/tree/master/2053-kth-distinct-string-in-an-array) |
 | [2059-minimum-operations-to-convert-number](https://github.com/kanishk3114S/leetcode-problems/tree/master/2059-minimum-operations-to-convert-number) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/kanishk3114S/leetcode-problems/tree/master/2078-two-furthest-houses-with-different-colors) |
@@ -786,6 +787,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/kanishk3114S/leetcode-problems/tree/master/1373-maximum-sum-bst-in-binary-tree) |
 | [1382-balance-a-binary-search-tree](https://github.com/kanishk3114S/leetcode-problems/tree/master/1382-balance-a-binary-search-tree) |
 | [1609-even-odd-tree](https://github.com/kanishk3114S/leetcode-problems/tree/master/1609-even-odd-tree) |
+| [2049-count-nodes-with-the-highest-score](https://github.com/kanishk3114S/leetcode-problems/tree/master/2049-count-nodes-with-the-highest-score) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/kanishk3114S/leetcode-problems/tree/master/2196-create-binary-tree-from-descriptions) |
 | [2236-root-equals-sum-of-children](https://github.com/kanishk3114S/leetcode-problems/tree/master/2236-root-equals-sum-of-children) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/kanishk3114S/leetcode-problems/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
@@ -870,6 +872,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1722-minimize-hamming-distance-after-swap-operations](https://github.com/kanishk3114S/leetcode-problems/tree/master/1722-minimize-hamming-distance-after-swap-operations) |
 | [1905-count-sub-islands](https://github.com/kanishk3114S/leetcode-problems/tree/master/1905-count-sub-islands) |
 | [1971-find-if-path-exists-in-graph](https://github.com/kanishk3114S/leetcode-problems/tree/master/1971-find-if-path-exists-in-graph) |
+| [2049-count-nodes-with-the-highest-score](https://github.com/kanishk3114S/leetcode-problems/tree/master/2049-count-nodes-with-the-highest-score) |
 | [2192-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/kanishk3114S/leetcode-problems/tree/master/2192-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/kanishk3114S/leetcode-problems/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 | [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/kanishk3114S/leetcode-problems/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
@@ -938,6 +941,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/kanishk3114S/leetcode-problems/tree/master/1373-maximum-sum-bst-in-binary-tree) |
 | [1382-balance-a-binary-search-tree](https://github.com/kanishk3114S/leetcode-problems/tree/master/1382-balance-a-binary-search-tree) |
 | [1609-even-odd-tree](https://github.com/kanishk3114S/leetcode-problems/tree/master/1609-even-odd-tree) |
+| [2049-count-nodes-with-the-highest-score](https://github.com/kanishk3114S/leetcode-problems/tree/master/2049-count-nodes-with-the-highest-score) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/kanishk3114S/leetcode-problems/tree/master/2196-create-binary-tree-from-descriptions) |
 | [2236-root-equals-sum-of-children](https://github.com/kanishk3114S/leetcode-problems/tree/master/2236-root-equals-sum-of-children) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/kanishk3114S/leetcode-problems/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
