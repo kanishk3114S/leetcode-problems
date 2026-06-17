@@ -116,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0889-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/kanishk3114S/leetcode-problems/tree/master/0889-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [0907-sum-of-subarray-minimums](https://github.com/kanishk3114S/leetcode-problems/tree/master/0907-sum-of-subarray-minimums) |
 | [0922-sort-array-by-parity-ii](https://github.com/kanishk3114S/leetcode-problems/tree/master/0922-sort-array-by-parity-ii) |
+| [0934-shortest-bridge](https://github.com/kanishk3114S/leetcode-problems/tree/master/0934-shortest-bridge) |
 | [0950-reveal-cards-in-increasing-order](https://github.com/kanishk3114S/leetcode-problems/tree/master/0950-reveal-cards-in-increasing-order) |
 | [0953-verifying-an-alien-dictionary](https://github.com/kanishk3114S/leetcode-problems/tree/master/0953-verifying-an-alien-dictionary) |
 | [0973-k-closest-points-to-origin](https://github.com/kanishk3114S/leetcode-problems/tree/master/0973-k-closest-points-to-origin) |
@@ -557,6 +558,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0542-01-matrix](https://github.com/kanishk3114S/leetcode-problems/tree/master/0542-01-matrix) |
 | [0695-max-area-of-island](https://github.com/kanishk3114S/leetcode-problems/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/kanishk3114S/leetcode-problems/tree/master/0733-flood-fill) |
+| [0934-shortest-bridge](https://github.com/kanishk3114S/leetcode-problems/tree/master/0934-shortest-bridge) |
 | [0994-rotting-oranges](https://github.com/kanishk3114S/leetcode-problems/tree/master/0994-rotting-oranges) |
 | [1020-number-of-enclaves](https://github.com/kanishk3114S/leetcode-problems/tree/master/1020-number-of-enclaves) |
 | [1034-coloring-a-border](https://github.com/kanishk3114S/leetcode-problems/tree/master/1034-coloring-a-border) |
@@ -852,6 +854,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/kanishk3114S/leetcode-problems/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/kanishk3114S/leetcode-problems/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [0886-possible-bipartition](https://github.com/kanishk3114S/leetcode-problems/tree/master/0886-possible-bipartition) |
+| [0934-shortest-bridge](https://github.com/kanishk3114S/leetcode-problems/tree/master/0934-shortest-bridge) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/kanishk3114S/leetcode-problems/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [0988-smallest-string-starting-from-leaf](https://github.com/kanishk3114S/leetcode-problems/tree/master/0988-smallest-string-starting-from-leaf) |
 | [0993-cousins-in-binary-tree](https://github.com/kanishk3114S/leetcode-problems/tree/master/0993-cousins-in-binary-tree) |
@@ -991,6 +994,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/kanishk3114S/leetcode-problems/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/kanishk3114S/leetcode-problems/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [0886-possible-bipartition](https://github.com/kanishk3114S/leetcode-problems/tree/master/0886-possible-bipartition) |
+| [0934-shortest-bridge](https://github.com/kanishk3114S/leetcode-problems/tree/master/0934-shortest-bridge) |
 | [0958-check-completeness-of-a-binary-tree](https://github.com/kanishk3114S/leetcode-problems/tree/master/0958-check-completeness-of-a-binary-tree) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/kanishk3114S/leetcode-problems/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [0993-cousins-in-binary-tree](https://github.com/kanishk3114S/leetcode-problems/tree/master/0993-cousins-in-binary-tree) |
