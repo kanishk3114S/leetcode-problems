@@ -115,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0786-k-th-smallest-prime-fraction](https://github.com/kanishk3114S/leetcode-problems/tree/master/0786-k-th-smallest-prime-fraction) |
 | [0815-bus-routes](https://github.com/kanishk3114S/leetcode-problems/tree/master/0815-bus-routes) |
 | [0846-hand-of-straights](https://github.com/kanishk3114S/leetcode-problems/tree/master/0846-hand-of-straights) |
+| [0870-advantage-shuffle](https://github.com/kanishk3114S/leetcode-problems/tree/master/0870-advantage-shuffle) |
 | [0874-walking-robot-simulation](https://github.com/kanishk3114S/leetcode-problems/tree/master/0874-walking-robot-simulation) |
 | [0889-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/kanishk3114S/leetcode-problems/tree/master/0889-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [0907-sum-of-subarray-minimums](https://github.com/kanishk3114S/leetcode-problems/tree/master/0907-sum-of-subarray-minimums) |
@@ -453,6 +454,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0658-find-k-closest-elements](https://github.com/kanishk3114S/leetcode-problems/tree/master/0658-find-k-closest-elements) |
 | [0696-count-binary-substrings](https://github.com/kanishk3114S/leetcode-problems/tree/master/0696-count-binary-substrings) |
 | [0786-k-th-smallest-prime-fraction](https://github.com/kanishk3114S/leetcode-problems/tree/master/0786-k-th-smallest-prime-fraction) |
+| [0870-advantage-shuffle](https://github.com/kanishk3114S/leetcode-problems/tree/master/0870-advantage-shuffle) |
 | [0922-sort-array-by-parity-ii](https://github.com/kanishk3114S/leetcode-problems/tree/master/0922-sort-array-by-parity-ii) |
 | [0986-interval-list-intersections](https://github.com/kanishk3114S/leetcode-problems/tree/master/0986-interval-list-intersections) |
 | [1508-range-sum-of-sorted-subarray-sums](https://github.com/kanishk3114S/leetcode-problems/tree/master/1508-range-sum-of-sorted-subarray-sums) |
@@ -532,6 +534,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0646-maximum-length-of-pair-chain](https://github.com/kanishk3114S/leetcode-problems/tree/master/0646-maximum-length-of-pair-chain) |
 | [0678-valid-parenthesis-string](https://github.com/kanishk3114S/leetcode-problems/tree/master/0678-valid-parenthesis-string) |
 | [0846-hand-of-straights](https://github.com/kanishk3114S/leetcode-problems/tree/master/0846-hand-of-straights) |
+| [0870-advantage-shuffle](https://github.com/kanishk3114S/leetcode-problems/tree/master/0870-advantage-shuffle) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/kanishk3114S/leetcode-problems/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1296-divide-array-in-sets-of-k-consecutive-numbers](https://github.com/kanishk3114S/leetcode-problems/tree/master/1296-divide-array-in-sets-of-k-consecutive-numbers) |
 | [1323-maximum-69-number](https://github.com/kanishk3114S/leetcode-problems/tree/master/1323-maximum-69-number) |
@@ -670,6 +673,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0658-find-k-closest-elements](https://github.com/kanishk3114S/leetcode-problems/tree/master/0658-find-k-closest-elements) |
 | [0786-k-th-smallest-prime-fraction](https://github.com/kanishk3114S/leetcode-problems/tree/master/0786-k-th-smallest-prime-fraction) |
 | [0846-hand-of-straights](https://github.com/kanishk3114S/leetcode-problems/tree/master/0846-hand-of-straights) |
+| [0870-advantage-shuffle](https://github.com/kanishk3114S/leetcode-problems/tree/master/0870-advantage-shuffle) |
 | [0922-sort-array-by-parity-ii](https://github.com/kanishk3114S/leetcode-problems/tree/master/0922-sort-array-by-parity-ii) |
 | [0950-reveal-cards-in-increasing-order](https://github.com/kanishk3114S/leetcode-problems/tree/master/0950-reveal-cards-in-increasing-order) |
 | [0973-k-closest-points-to-origin](https://github.com/kanishk3114S/leetcode-problems/tree/master/0973-k-closest-points-to-origin) |
