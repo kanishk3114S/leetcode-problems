@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0319-bulb-switcher](https://github.com/kanishk3114S/leetcode-problems/tree/master/0319-bulb-switcher) |
 | [0367-valid-perfect-square](https://github.com/kanishk3114S/leetcode-problems/tree/master/0367-valid-perfect-square) |
 | [0396-rotate-function](https://github.com/kanishk3114S/leetcode-problems/tree/master/0396-rotate-function) |
+| [0539-minimum-time-difference](https://github.com/kanishk3114S/leetcode-problems/tree/master/0539-minimum-time-difference) |
 | [0556-next-greater-element-iii](https://github.com/kanishk3114S/leetcode-problems/tree/master/0556-next-greater-element-iii) |
 | [0633-sum-of-square-numbers](https://github.com/kanishk3114S/leetcode-problems/tree/master/0633-sum-of-square-numbers) |
 | [0779-k-th-symbol-in-grammar](https://github.com/kanishk3114S/leetcode-problems/tree/master/0779-k-th-symbol-in-grammar) |
@@ -98,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/kanishk3114S/leetcode-problems/tree/master/0455-assign-cookies) |
 | [0463-island-perimeter](https://github.com/kanishk3114S/leetcode-problems/tree/master/0463-island-perimeter) |
 | [0502-ipo](https://github.com/kanishk3114S/leetcode-problems/tree/master/0502-ipo) |
+| [0539-minimum-time-difference](https://github.com/kanishk3114S/leetcode-problems/tree/master/0539-minimum-time-difference) |
 | [0542-01-matrix](https://github.com/kanishk3114S/leetcode-problems/tree/master/0542-01-matrix) |
 | [0560-subarray-sum-equals-k](https://github.com/kanishk3114S/leetcode-problems/tree/master/0560-subarray-sum-equals-k) |
 | [0605-can-place-flowers](https://github.com/kanishk3114S/leetcode-problems/tree/master/0605-can-place-flowers) |
@@ -378,6 +380,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0433-minimum-genetic-mutation](https://github.com/kanishk3114S/leetcode-problems/tree/master/0433-minimum-genetic-mutation) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/kanishk3114S/leetcode-problems/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0520-detect-capital](https://github.com/kanishk3114S/leetcode-problems/tree/master/0520-detect-capital) |
+| [0539-minimum-time-difference](https://github.com/kanishk3114S/leetcode-problems/tree/master/0539-minimum-time-difference) |
 | [0556-next-greater-element-iii](https://github.com/kanishk3114S/leetcode-problems/tree/master/0556-next-greater-element-iii) |
 | [0567-permutation-in-string](https://github.com/kanishk3114S/leetcode-problems/tree/master/0567-permutation-in-string) |
 | [0657-robot-return-to-origin](https://github.com/kanishk3114S/leetcode-problems/tree/master/0657-robot-return-to-origin) |
@@ -660,6 +663,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0414-third-maximum-number](https://github.com/kanishk3114S/leetcode-problems/tree/master/0414-third-maximum-number) |
 | [0455-assign-cookies](https://github.com/kanishk3114S/leetcode-problems/tree/master/0455-assign-cookies) |
 | [0502-ipo](https://github.com/kanishk3114S/leetcode-problems/tree/master/0502-ipo) |
+| [0539-minimum-time-difference](https://github.com/kanishk3114S/leetcode-problems/tree/master/0539-minimum-time-difference) |
 | [0621-task-scheduler](https://github.com/kanishk3114S/leetcode-problems/tree/master/0621-task-scheduler) |
 | [0645-set-mismatch](https://github.com/kanishk3114S/leetcode-problems/tree/master/0645-set-mismatch) |
 | [0646-maximum-length-of-pair-chain](https://github.com/kanishk3114S/leetcode-problems/tree/master/0646-maximum-length-of-pair-chain) |
