@@ -383,6 +383,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0131-palindrome-partitioning](https://github.com/kanishk3114S/leetcode-problems/tree/master/0131-palindrome-partitioning) |
 | [0257-binary-tree-paths](https://github.com/kanishk3114S/leetcode-problems/tree/master/0257-binary-tree-paths) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/kanishk3114S/leetcode-problems/tree/master/0297-serialize-and-deserialize-binary-tree) |
+| [0394-decode-string](https://github.com/kanishk3114S/leetcode-problems/tree/master/0394-decode-string) |
 | [0402-remove-k-digits](https://github.com/kanishk3114S/leetcode-problems/tree/master/0402-remove-k-digits) |
 | [0433-minimum-genetic-mutation](https://github.com/kanishk3114S/leetcode-problems/tree/master/0433-minimum-genetic-mutation) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/kanishk3114S/leetcode-problems/tree/master/0438-find-all-anagrams-in-a-string) |
@@ -634,6 +635,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0145-binary-tree-postorder-traversal](https://github.com/kanishk3114S/leetcode-problems/tree/master/0145-binary-tree-postorder-traversal) |
 | [0173-binary-search-tree-iterator](https://github.com/kanishk3114S/leetcode-problems/tree/master/0173-binary-search-tree-iterator) |
 | [0232-implement-queue-using-stacks](https://github.com/kanishk3114S/leetcode-problems/tree/master/0232-implement-queue-using-stacks) |
+| [0394-decode-string](https://github.com/kanishk3114S/leetcode-problems/tree/master/0394-decode-string) |
 | [0402-remove-k-digits](https://github.com/kanishk3114S/leetcode-problems/tree/master/0402-remove-k-digits) |
 | [0589-n-ary-tree-preorder-traversal](https://github.com/kanishk3114S/leetcode-problems/tree/master/0589-n-ary-tree-preorder-traversal) |
 | [0590-n-ary-tree-postorder-traversal](https://github.com/kanishk3114S/leetcode-problems/tree/master/0590-n-ary-tree-postorder-traversal) |
@@ -648,6 +650,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/kanishk3114S/leetcode-problems/tree/master/0021-merge-two-sorted-lists) |
 | [0060-permutation-sequence](https://github.com/kanishk3114S/leetcode-problems/tree/master/0060-permutation-sequence) |
+| [0394-decode-string](https://github.com/kanishk3114S/leetcode-problems/tree/master/0394-decode-string) |
 | [0779-k-th-symbol-in-grammar](https://github.com/kanishk3114S/leetcode-problems/tree/master/0779-k-th-symbol-in-grammar) |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/kanishk3114S/leetcode-problems/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 | [2094-finding-3-digit-even-numbers](https://github.com/kanishk3114S/leetcode-problems/tree/master/2094-finding-3-digit-even-numbers) |
