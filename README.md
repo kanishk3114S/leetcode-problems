@@ -154,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1685-sum-of-absolute-differences-in-a-sorted-array](https://github.com/kanishk3114S/leetcode-problems/tree/master/1685-sum-of-absolute-differences-in-a-sorted-array) |
 | [1722-minimize-hamming-distance-after-swap-operations](https://github.com/kanishk3114S/leetcode-problems/tree/master/1722-minimize-hamming-distance-after-swap-operations) |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/kanishk3114S/leetcode-problems/tree/master/1727-largest-submatrix-with-rearrangements) |
+| [1732-find-the-highest-altitude](https://github.com/kanishk3114S/leetcode-problems/tree/master/1732-find-the-highest-altitude) |
 | [1738-find-kth-largest-xor-coordinate-value](https://github.com/kanishk3114S/leetcode-problems/tree/master/1738-find-kth-largest-xor-coordinate-value) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/kanishk3114S/leetcode-problems/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1765-map-of-highest-peak](https://github.com/kanishk3114S/leetcode-problems/tree/master/1765-map-of-highest-peak) |
@@ -277,6 +278,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/kanishk3114S/leetcode-problems/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1508-range-sum-of-sorted-subarray-sums](https://github.com/kanishk3114S/leetcode-problems/tree/master/1508-range-sum-of-sorted-subarray-sums) |
 | [1685-sum-of-absolute-differences-in-a-sorted-array](https://github.com/kanishk3114S/leetcode-problems/tree/master/1685-sum-of-absolute-differences-in-a-sorted-array) |
+| [1732-find-the-highest-altitude](https://github.com/kanishk3114S/leetcode-problems/tree/master/1732-find-the-highest-altitude) |
 | [1738-find-kth-largest-xor-coordinate-value](https://github.com/kanishk3114S/leetcode-problems/tree/master/1738-find-kth-largest-xor-coordinate-value) |
 | [1871-jump-game-vii](https://github.com/kanishk3114S/leetcode-problems/tree/master/1871-jump-game-vii) |
 | [2121-intervals-between-identical-elements](https://github.com/kanishk3114S/leetcode-problems/tree/master/2121-intervals-between-identical-elements) |
