@@ -150,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/kanishk3114S/leetcode-problems/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/kanishk3114S/leetcode-problems/tree/master/1559-detect-cycles-in-2d-grid) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/kanishk3114S/leetcode-problems/tree/master/1582-special-positions-in-a-binary-matrix) |
+| [1631-path-with-minimum-effort](https://github.com/kanishk3114S/leetcode-problems/tree/master/1631-path-with-minimum-effort) |
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/kanishk3114S/leetcode-problems/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
 | [1685-sum-of-absolute-differences-in-a-sorted-array](https://github.com/kanishk3114S/leetcode-problems/tree/master/1685-sum-of-absolute-differences-in-a-sorted-array) |
 | [1722-minimize-hamming-distance-after-swap-operations](https://github.com/kanishk3114S/leetcode-problems/tree/master/1722-minimize-hamming-distance-after-swap-operations) |
@@ -241,6 +242,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0786-k-th-smallest-prime-fraction](https://github.com/kanishk3114S/leetcode-problems/tree/master/0786-k-th-smallest-prime-fraction) |
 | [1004-max-consecutive-ones-iii](https://github.com/kanishk3114S/leetcode-problems/tree/master/1004-max-consecutive-ones-iii) |
 | [1508-range-sum-of-sorted-subarray-sums](https://github.com/kanishk3114S/leetcode-problems/tree/master/1508-range-sum-of-sorted-subarray-sums) |
+| [1631-path-with-minimum-effort](https://github.com/kanishk3114S/leetcode-problems/tree/master/1631-path-with-minimum-effort) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/kanishk3114S/leetcode-problems/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [2540-minimum-common-value](https://github.com/kanishk3114S/leetcode-problems/tree/master/2540-minimum-common-value) |
 | [3488-closest-equal-element-queries](https://github.com/kanishk3114S/leetcode-problems/tree/master/3488-closest-equal-element-queries) |
@@ -586,6 +588,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/kanishk3114S/leetcode-problems/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/kanishk3114S/leetcode-problems/tree/master/1559-detect-cycles-in-2d-grid) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/kanishk3114S/leetcode-problems/tree/master/1582-special-positions-in-a-binary-matrix) |
+| [1631-path-with-minimum-effort](https://github.com/kanishk3114S/leetcode-problems/tree/master/1631-path-with-minimum-effort) |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/kanishk3114S/leetcode-problems/tree/master/1727-largest-submatrix-with-rearrangements) |
 | [1738-find-kth-largest-xor-coordinate-value](https://github.com/kanishk3114S/leetcode-problems/tree/master/1738-find-kth-largest-xor-coordinate-value) |
 | [1765-map-of-highest-peak](https://github.com/kanishk3114S/leetcode-problems/tree/master/1765-map-of-highest-peak) |
@@ -734,6 +737,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0786-k-th-smallest-prime-fraction](https://github.com/kanishk3114S/leetcode-problems/tree/master/0786-k-th-smallest-prime-fraction) |
 | [0973-k-closest-points-to-origin](https://github.com/kanishk3114S/leetcode-problems/tree/master/0973-k-closest-points-to-origin) |
 | [1353-maximum-number-of-events-that-can-be-attended](https://github.com/kanishk3114S/leetcode-problems/tree/master/1353-maximum-number-of-events-that-can-be-attended) |
+| [1631-path-with-minimum-effort](https://github.com/kanishk3114S/leetcode-problems/tree/master/1631-path-with-minimum-effort) |
 | [1738-find-kth-largest-xor-coordinate-value](https://github.com/kanishk3114S/leetcode-problems/tree/master/1738-find-kth-largest-xor-coordinate-value) |
 | [1942-the-number-of-the-smallest-unoccupied-chair](https://github.com/kanishk3114S/leetcode-problems/tree/master/1942-the-number-of-the-smallest-unoccupied-chair) |
 | [1962-remove-stones-to-minimize-the-total](https://github.com/kanishk3114S/leetcode-problems/tree/master/1962-remove-stones-to-minimize-the-total) |
@@ -899,6 +903,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1382-balance-a-binary-search-tree](https://github.com/kanishk3114S/leetcode-problems/tree/master/1382-balance-a-binary-search-tree) |
 | [1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero](https://github.com/kanishk3114S/leetcode-problems/tree/master/1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/kanishk3114S/leetcode-problems/tree/master/1559-detect-cycles-in-2d-grid) |
+| [1631-path-with-minimum-effort](https://github.com/kanishk3114S/leetcode-problems/tree/master/1631-path-with-minimum-effort) |
 | [1722-minimize-hamming-distance-after-swap-operations](https://github.com/kanishk3114S/leetcode-problems/tree/master/1722-minimize-hamming-distance-after-swap-operations) |
 | [1905-count-sub-islands](https://github.com/kanishk3114S/leetcode-problems/tree/master/1905-count-sub-islands) |
 | [1971-find-if-path-exists-in-graph](https://github.com/kanishk3114S/leetcode-problems/tree/master/1971-find-if-path-exists-in-graph) |
@@ -1038,6 +1043,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero](https://github.com/kanishk3114S/leetcode-problems/tree/master/1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/kanishk3114S/leetcode-problems/tree/master/1559-detect-cycles-in-2d-grid) |
 | [1609-even-odd-tree](https://github.com/kanishk3114S/leetcode-problems/tree/master/1609-even-odd-tree) |
+| [1631-path-with-minimum-effort](https://github.com/kanishk3114S/leetcode-problems/tree/master/1631-path-with-minimum-effort) |
 | [1765-map-of-highest-peak](https://github.com/kanishk3114S/leetcode-problems/tree/master/1765-map-of-highest-peak) |
 | [1905-count-sub-islands](https://github.com/kanishk3114S/leetcode-problems/tree/master/1905-count-sub-islands) |
 | [1971-find-if-path-exists-in-graph](https://github.com/kanishk3114S/leetcode-problems/tree/master/1971-find-if-path-exists-in-graph) |
@@ -1132,6 +1138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1020-number-of-enclaves](https://github.com/kanishk3114S/leetcode-problems/tree/master/1020-number-of-enclaves) |
 | [1254-number-of-closed-islands](https://github.com/kanishk3114S/leetcode-problems/tree/master/1254-number-of-closed-islands) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/kanishk3114S/leetcode-problems/tree/master/1559-detect-cycles-in-2d-grid) |
+| [1631-path-with-minimum-effort](https://github.com/kanishk3114S/leetcode-problems/tree/master/1631-path-with-minimum-effort) |
 | [1722-minimize-hamming-distance-after-swap-operations](https://github.com/kanishk3114S/leetcode-problems/tree/master/1722-minimize-hamming-distance-after-swap-operations) |
 | [1905-count-sub-islands](https://github.com/kanishk3114S/leetcode-problems/tree/master/1905-count-sub-islands) |
 | [1971-find-if-path-exists-in-graph](https://github.com/kanishk3114S/leetcode-problems/tree/master/1971-find-if-path-exists-in-graph) |
