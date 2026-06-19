@@ -208,6 +208,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3275-k-th-nearest-obstacle-queries](https://github.com/kanishk3114S/leetcode-problems/tree/master/3275-k-th-nearest-obstacle-queries) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/kanishk3114S/leetcode-problems/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3309-maximum-possible-number-by-binary-concatenation](https://github.com/kanishk3114S/leetcode-problems/tree/master/3309-maximum-possible-number-by-binary-concatenation) |
+| [3483-unique-3-digit-even-numbers](https://github.com/kanishk3114S/leetcode-problems/tree/master/3483-unique-3-digit-even-numbers) |
 | [3488-closest-equal-element-queries](https://github.com/kanishk3114S/leetcode-problems/tree/master/3488-closest-equal-element-queries) |
 | [3546-equal-sum-grid-partition-i](https://github.com/kanishk3114S/leetcode-problems/tree/master/3546-equal-sum-grid-partition-i) |
 | [3567-minimum-absolute-difference-in-sliding-submatrix](https://github.com/kanishk3114S/leetcode-problems/tree/master/3567-minimum-absolute-difference-in-sliding-submatrix) |
@@ -359,6 +360,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3121-count-the-number-of-special-characters-ii](https://github.com/kanishk3114S/leetcode-problems/tree/master/3121-count-the-number-of-special-characters-ii) |
 | [3146-permutation-difference-between-two-strings](https://github.com/kanishk3114S/leetcode-problems/tree/master/3146-permutation-difference-between-two-strings) |
 | [3325-count-substrings-with-k-frequency-characters-i](https://github.com/kanishk3114S/leetcode-problems/tree/master/3325-count-substrings-with-k-frequency-characters-i) |
+| [3483-unique-3-digit-even-numbers](https://github.com/kanishk3114S/leetcode-problems/tree/master/3483-unique-3-digit-even-numbers) |
 | [3488-closest-equal-element-queries](https://github.com/kanishk3114S/leetcode-problems/tree/master/3488-closest-equal-element-queries) |
 | [3591-check-if-any-element-has-prime-frequency](https://github.com/kanishk3114S/leetcode-problems/tree/master/3591-check-if-any-element-has-prime-frequency) |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/kanishk3114S/leetcode-problems/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
@@ -520,6 +522,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1952-three-divisors](https://github.com/kanishk3114S/leetcode-problems/tree/master/1952-three-divisors) |
 | [1995-count-special-quadruplets](https://github.com/kanishk3114S/leetcode-problems/tree/master/1995-count-special-quadruplets) |
 | [3309-maximum-possible-number-by-binary-concatenation](https://github.com/kanishk3114S/leetcode-problems/tree/master/3309-maximum-possible-number-by-binary-concatenation) |
+| [3483-unique-3-digit-even-numbers](https://github.com/kanishk3114S/leetcode-problems/tree/master/3483-unique-3-digit-even-numbers) |
 | [3546-equal-sum-grid-partition-i](https://github.com/kanishk3114S/leetcode-problems/tree/master/3546-equal-sum-grid-partition-i) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/kanishk3114S/leetcode-problems/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 ## Greedy
@@ -644,6 +647,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0060-permutation-sequence](https://github.com/kanishk3114S/leetcode-problems/tree/master/0060-permutation-sequence) |
 | [0779-k-th-symbol-in-grammar](https://github.com/kanishk3114S/leetcode-problems/tree/master/0779-k-th-symbol-in-grammar) |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/kanishk3114S/leetcode-problems/tree/master/1545-find-kth-bit-in-nth-binary-string) |
+| [3483-unique-3-digit-even-numbers](https://github.com/kanishk3114S/leetcode-problems/tree/master/3483-unique-3-digit-even-numbers) |
 ## Backtracking
 |  |
 | ------- |
