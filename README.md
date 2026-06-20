@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0060-permutation-sequence](https://github.com/kanishk3114S/leetcode-problems/tree/master/0060-permutation-sequence) |
 | [0264-ugly-number-ii](https://github.com/kanishk3114S/leetcode-problems/tree/master/0264-ugly-number-ii) |
 | [0319-bulb-switcher](https://github.com/kanishk3114S/leetcode-problems/tree/master/0319-bulb-switcher) |
+| [0343-integer-break](https://github.com/kanishk3114S/leetcode-problems/tree/master/0343-integer-break) |
 | [0367-valid-perfect-square](https://github.com/kanishk3114S/leetcode-problems/tree/master/0367-valid-perfect-square) |
 | [0396-rotate-function](https://github.com/kanishk3114S/leetcode-problems/tree/master/0396-rotate-function) |
 | [0539-minimum-time-difference](https://github.com/kanishk3114S/leetcode-problems/tree/master/0539-minimum-time-difference) |
@@ -617,6 +618,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0124-binary-tree-maximum-path-sum](https://github.com/kanishk3114S/leetcode-problems/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0131-palindrome-partitioning](https://github.com/kanishk3114S/leetcode-problems/tree/master/0131-palindrome-partitioning) |
 | [0264-ugly-number-ii](https://github.com/kanishk3114S/leetcode-problems/tree/master/0264-ugly-number-ii) |
+| [0343-integer-break](https://github.com/kanishk3114S/leetcode-problems/tree/master/0343-integer-break) |
 | [0396-rotate-function](https://github.com/kanishk3114S/leetcode-problems/tree/master/0396-rotate-function) |
 | [0542-01-matrix](https://github.com/kanishk3114S/leetcode-problems/tree/master/0542-01-matrix) |
 | [0646-maximum-length-of-pair-chain](https://github.com/kanishk3114S/leetcode-problems/tree/master/0646-maximum-length-of-pair-chain) |
