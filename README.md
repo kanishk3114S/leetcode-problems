@@ -163,6 +163,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/kanishk3114S/leetcode-problems/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1765-map-of-highest-peak](https://github.com/kanishk3114S/leetcode-problems/tree/master/1765-map-of-highest-peak) |
 | [1828-queries-on-number-of-points-inside-a-circle](https://github.com/kanishk3114S/leetcode-problems/tree/master/1828-queries-on-number-of-points-inside-a-circle) |
+| [1833-maximum-ice-cream-bars](https://github.com/kanishk3114S/leetcode-problems/tree/master/1833-maximum-ice-cream-bars) |
 | [1840-maximum-building-height](https://github.com/kanishk3114S/leetcode-problems/tree/master/1840-maximum-building-height) |
 | [1848-minimum-distance-to-the-target-element](https://github.com/kanishk3114S/leetcode-problems/tree/master/1848-minimum-distance-to-the-target-element) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/kanishk3114S/leetcode-problems/tree/master/1855-maximum-distance-between-a-pair-of-values) |
@@ -560,6 +561,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/kanishk3114S/leetcode-problems/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/kanishk3114S/leetcode-problems/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/kanishk3114S/leetcode-problems/tree/master/1727-largest-submatrix-with-rearrangements) |
+| [1833-maximum-ice-cream-bars](https://github.com/kanishk3114S/leetcode-problems/tree/master/1833-maximum-ice-cream-bars) |
 | [1962-remove-stones-to-minimize-the-total](https://github.com/kanishk3114S/leetcode-problems/tree/master/1962-remove-stones-to-minimize-the-total) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/kanishk3114S/leetcode-problems/tree/master/2078-two-furthest-houses-with-different-colors) |
 | [2126-destroying-asteroids](https://github.com/kanishk3114S/leetcode-problems/tree/master/2126-destroying-asteroids) |
@@ -710,6 +712,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/kanishk3114S/leetcode-problems/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/kanishk3114S/leetcode-problems/tree/master/1727-largest-submatrix-with-rearrangements) |
 | [1738-find-kth-largest-xor-coordinate-value](https://github.com/kanishk3114S/leetcode-problems/tree/master/1738-find-kth-largest-xor-coordinate-value) |
+| [1833-maximum-ice-cream-bars](https://github.com/kanishk3114S/leetcode-problems/tree/master/1833-maximum-ice-cream-bars) |
 | [1840-maximum-building-height](https://github.com/kanishk3114S/leetcode-problems/tree/master/1840-maximum-building-height) |
 | [1887-reduction-operations-to-make-the-array-elements-equal](https://github.com/kanishk3114S/leetcode-problems/tree/master/1887-reduction-operations-to-make-the-array-elements-equal) |
 | [1913-maximum-product-difference-between-two-pairs](https://github.com/kanishk3114S/leetcode-problems/tree/master/1913-maximum-product-difference-between-two-pairs) |
@@ -1256,4 +1259,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2998-minimum-number-of-operations-to-make-x-and-y-equal](https://github.com/kanishk3114S/leetcode-problems/tree/master/2998-minimum-number-of-operations-to-make-x-and-y-equal) |
+## Counting Sort
+|  |
+| ------- |
+| [1833-maximum-ice-cream-bars](https://github.com/kanishk3114S/leetcode-problems/tree/master/1833-maximum-ice-cream-bars) |
 <!---LeetCode Topics End-->
