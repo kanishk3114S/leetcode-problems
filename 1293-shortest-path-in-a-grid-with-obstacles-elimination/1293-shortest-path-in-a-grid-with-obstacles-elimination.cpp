@@ -39,6 +39,8 @@ public:
 
             if (row == n-1 && col == m-1) return d;
 
+            if (d > dist[row][col][currK]) continue;
+
             if (row > 0) {
                 if (grid[row - 1][col] == 1) {
                     if (currK + 1 <= k) {
