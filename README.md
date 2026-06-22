@@ -195,6 +195,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2196-create-binary-tree-from-descriptions](https://github.com/kanishk3114S/leetcode-problems/tree/master/2196-create-binary-tree-from-descriptions) |
 | [2208-minimum-operations-to-halve-array-sum](https://github.com/kanishk3114S/leetcode-problems/tree/master/2208-minimum-operations-to-halve-array-sum) |
 | [2280-minimum-lines-to-represent-a-line-chart](https://github.com/kanishk3114S/leetcode-problems/tree/master/2280-minimum-lines-to-represent-a-line-chart) |
+| [2290-minimum-obstacle-removal-to-reach-corner](https://github.com/kanishk3114S/leetcode-problems/tree/master/2290-minimum-obstacle-removal-to-reach-corner) |
 | [2343-query-kth-smallest-trimmed-number](https://github.com/kanishk3114S/leetcode-problems/tree/master/2343-query-kth-smallest-trimmed-number) |
 | [2452-words-within-two-edits-of-dictionary](https://github.com/kanishk3114S/leetcode-problems/tree/master/2452-words-within-two-edits-of-dictionary) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/kanishk3114S/leetcode-problems/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
@@ -607,6 +608,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1905-count-sub-islands](https://github.com/kanishk3114S/leetcode-problems/tree/master/1905-count-sub-islands) |
 | [1914-cyclically-rotating-a-grid](https://github.com/kanishk3114S/leetcode-problems/tree/master/1914-cyclically-rotating-a-grid) |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/kanishk3114S/leetcode-problems/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
+| [2290-minimum-obstacle-removal-to-reach-corner](https://github.com/kanishk3114S/leetcode-problems/tree/master/2290-minimum-obstacle-removal-to-reach-corner) |
 | [2482-difference-between-ones-and-zeros-in-row-and-column](https://github.com/kanishk3114S/leetcode-problems/tree/master/2482-difference-between-ones-and-zeros-in-row-and-column) |
 | [2906-construct-product-matrix](https://github.com/kanishk3114S/leetcode-problems/tree/master/2906-construct-product-matrix) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/kanishk3114S/leetcode-problems/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
@@ -760,6 +762,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1962-remove-stones-to-minimize-the-total](https://github.com/kanishk3114S/leetcode-problems/tree/master/1962-remove-stones-to-minimize-the-total) |
 | [2099-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/kanishk3114S/leetcode-problems/tree/master/2099-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2208-minimum-operations-to-halve-array-sum](https://github.com/kanishk3114S/leetcode-problems/tree/master/2208-minimum-operations-to-halve-array-sum) |
+| [2290-minimum-obstacle-removal-to-reach-corner](https://github.com/kanishk3114S/leetcode-problems/tree/master/2290-minimum-obstacle-removal-to-reach-corner) |
 | [2343-query-kth-smallest-trimmed-number](https://github.com/kanishk3114S/leetcode-problems/tree/master/2343-query-kth-smallest-trimmed-number) |
 | [2611-mice-and-cheese](https://github.com/kanishk3114S/leetcode-problems/tree/master/2611-mice-and-cheese) |
 | [3275-k-th-nearest-obstacle-queries](https://github.com/kanishk3114S/leetcode-problems/tree/master/3275-k-th-nearest-obstacle-queries) |
@@ -1069,6 +1072,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1971-find-if-path-exists-in-graph](https://github.com/kanishk3114S/leetcode-problems/tree/master/1971-find-if-path-exists-in-graph) |
 | [2059-minimum-operations-to-convert-number](https://github.com/kanishk3114S/leetcode-problems/tree/master/2059-minimum-operations-to-convert-number) |
 | [2192-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/kanishk3114S/leetcode-problems/tree/master/2192-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
+| [2290-minimum-obstacle-removal-to-reach-corner](https://github.com/kanishk3114S/leetcode-problems/tree/master/2290-minimum-obstacle-removal-to-reach-corner) |
 | [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/kanishk3114S/leetcode-problems/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
 | [2415-reverse-odd-levels-of-binary-tree](https://github.com/kanishk3114S/leetcode-problems/tree/master/2415-reverse-odd-levels-of-binary-tree) |
 | [2471-minimum-number-of-operations-to-sort-a-binary-tree-by-level](https://github.com/kanishk3114S/leetcode-problems/tree/master/2471-minimum-number-of-operations-to-sort-a-binary-tree-by-level) |
@@ -1189,6 +1193,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1514-path-with-maximum-probability](https://github.com/kanishk3114S/leetcode-problems/tree/master/1514-path-with-maximum-probability) |
 | [1971-find-if-path-exists-in-graph](https://github.com/kanishk3114S/leetcode-problems/tree/master/1971-find-if-path-exists-in-graph) |
 | [2192-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/kanishk3114S/leetcode-problems/tree/master/2192-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
+| [2290-minimum-obstacle-removal-to-reach-corner](https://github.com/kanishk3114S/leetcode-problems/tree/master/2290-minimum-obstacle-removal-to-reach-corner) |
 | [2685-count-the-number-of-complete-components](https://github.com/kanishk3114S/leetcode-problems/tree/master/2685-count-the-number-of-complete-components) |
 ## Binary Search Tree
 |  |
@@ -1267,6 +1272,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0787-cheapest-flights-within-k-stops](https://github.com/kanishk3114S/leetcode-problems/tree/master/0787-cheapest-flights-within-k-stops) |
 | [1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/kanishk3114S/leetcode-problems/tree/master/1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [1514-path-with-maximum-probability](https://github.com/kanishk3114S/leetcode-problems/tree/master/1514-path-with-maximum-probability) |
+| [2290-minimum-obstacle-removal-to-reach-corner](https://github.com/kanishk3114S/leetcode-problems/tree/master/2290-minimum-obstacle-removal-to-reach-corner) |
 ## Memoization
 |  |
 | ------- |
