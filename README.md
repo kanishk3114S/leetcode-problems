@@ -178,6 +178,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1914-cyclically-rotating-a-grid](https://github.com/kanishk3114S/leetcode-problems/tree/master/1914-cyclically-rotating-a-grid) |
 | [1942-the-number-of-the-smallest-unoccupied-chair](https://github.com/kanishk3114S/leetcode-problems/tree/master/1942-the-number-of-the-smallest-unoccupied-chair) |
 | [1962-remove-stones-to-minimize-the-total](https://github.com/kanishk3114S/leetcode-problems/tree/master/1962-remove-stones-to-minimize-the-total) |
+| [1970-last-day-where-you-can-still-cross](https://github.com/kanishk3114S/leetcode-problems/tree/master/1970-last-day-where-you-can-still-cross) |
 | [1980-find-unique-binary-string](https://github.com/kanishk3114S/leetcode-problems/tree/master/1980-find-unique-binary-string) |
 | [1995-count-special-quadruplets](https://github.com/kanishk3114S/leetcode-problems/tree/master/1995-count-special-quadruplets) |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/kanishk3114S/leetcode-problems/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
@@ -254,6 +255,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1508-range-sum-of-sorted-subarray-sums](https://github.com/kanishk3114S/leetcode-problems/tree/master/1508-range-sum-of-sorted-subarray-sums) |
 | [1631-path-with-minimum-effort](https://github.com/kanishk3114S/leetcode-problems/tree/master/1631-path-with-minimum-effort) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/kanishk3114S/leetcode-problems/tree/master/1855-maximum-distance-between-a-pair-of-values) |
+| [1970-last-day-where-you-can-still-cross](https://github.com/kanishk3114S/leetcode-problems/tree/master/1970-last-day-where-you-can-still-cross) |
 | [2540-minimum-common-value](https://github.com/kanishk3114S/leetcode-problems/tree/master/2540-minimum-common-value) |
 | [3488-closest-equal-element-queries](https://github.com/kanishk3114S/leetcode-problems/tree/master/3488-closest-equal-element-queries) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/kanishk3114S/leetcode-problems/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
@@ -610,6 +612,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/kanishk3114S/leetcode-problems/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
 | [1905-count-sub-islands](https://github.com/kanishk3114S/leetcode-problems/tree/master/1905-count-sub-islands) |
 | [1914-cyclically-rotating-a-grid](https://github.com/kanishk3114S/leetcode-problems/tree/master/1914-cyclically-rotating-a-grid) |
+| [1970-last-day-where-you-can-still-cross](https://github.com/kanishk3114S/leetcode-problems/tree/master/1970-last-day-where-you-can-still-cross) |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/kanishk3114S/leetcode-problems/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
 | [2290-minimum-obstacle-removal-to-reach-corner](https://github.com/kanishk3114S/leetcode-problems/tree/master/2290-minimum-obstacle-removal-to-reach-corner) |
 | [2482-difference-between-ones-and-zeros-in-row-and-column](https://github.com/kanishk3114S/leetcode-problems/tree/master/2482-difference-between-ones-and-zeros-in-row-and-column) |
@@ -932,6 +935,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1631-path-with-minimum-effort](https://github.com/kanishk3114S/leetcode-problems/tree/master/1631-path-with-minimum-effort) |
 | [1722-minimize-hamming-distance-after-swap-operations](https://github.com/kanishk3114S/leetcode-problems/tree/master/1722-minimize-hamming-distance-after-swap-operations) |
 | [1905-count-sub-islands](https://github.com/kanishk3114S/leetcode-problems/tree/master/1905-count-sub-islands) |
+| [1970-last-day-where-you-can-still-cross](https://github.com/kanishk3114S/leetcode-problems/tree/master/1970-last-day-where-you-can-still-cross) |
 | [1971-find-if-path-exists-in-graph](https://github.com/kanishk3114S/leetcode-problems/tree/master/1971-find-if-path-exists-in-graph) |
 | [2049-count-nodes-with-the-highest-score](https://github.com/kanishk3114S/leetcode-problems/tree/master/2049-count-nodes-with-the-highest-score) |
 | [2192-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/kanishk3114S/leetcode-problems/tree/master/2192-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
@@ -1075,6 +1079,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1631-path-with-minimum-effort](https://github.com/kanishk3114S/leetcode-problems/tree/master/1631-path-with-minimum-effort) |
 | [1765-map-of-highest-peak](https://github.com/kanishk3114S/leetcode-problems/tree/master/1765-map-of-highest-peak) |
 | [1905-count-sub-islands](https://github.com/kanishk3114S/leetcode-problems/tree/master/1905-count-sub-islands) |
+| [1970-last-day-where-you-can-still-cross](https://github.com/kanishk3114S/leetcode-problems/tree/master/1970-last-day-where-you-can-still-cross) |
 | [1971-find-if-path-exists-in-graph](https://github.com/kanishk3114S/leetcode-problems/tree/master/1971-find-if-path-exists-in-graph) |
 | [2059-minimum-operations-to-convert-number](https://github.com/kanishk3114S/leetcode-problems/tree/master/2059-minimum-operations-to-convert-number) |
 | [2192-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/kanishk3114S/leetcode-problems/tree/master/2192-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
@@ -1172,6 +1177,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1631-path-with-minimum-effort](https://github.com/kanishk3114S/leetcode-problems/tree/master/1631-path-with-minimum-effort) |
 | [1722-minimize-hamming-distance-after-swap-operations](https://github.com/kanishk3114S/leetcode-problems/tree/master/1722-minimize-hamming-distance-after-swap-operations) |
 | [1905-count-sub-islands](https://github.com/kanishk3114S/leetcode-problems/tree/master/1905-count-sub-islands) |
+| [1970-last-day-where-you-can-still-cross](https://github.com/kanishk3114S/leetcode-problems/tree/master/1970-last-day-where-you-can-still-cross) |
 | [1971-find-if-path-exists-in-graph](https://github.com/kanishk3114S/leetcode-problems/tree/master/1971-find-if-path-exists-in-graph) |
 | [2685-count-the-number-of-complete-components](https://github.com/kanishk3114S/leetcode-problems/tree/master/2685-count-the-number-of-complete-components) |
 ## Geometry
