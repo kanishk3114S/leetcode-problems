@@ -466,6 +466,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0086-partition-list](https://github.com/kanishk3114S/leetcode-problems/tree/master/0086-partition-list) |
 | [0143-reorder-list](https://github.com/kanishk3114S/leetcode-problems/tree/master/0143-reorder-list) |
 | [0287-find-the-duplicate-number](https://github.com/kanishk3114S/leetcode-problems/tree/master/0287-find-the-duplicate-number) |
+| [0295-find-median-from-data-stream](https://github.com/kanishk3114S/leetcode-problems/tree/master/0295-find-median-from-data-stream) |
 | [0455-assign-cookies](https://github.com/kanishk3114S/leetcode-problems/tree/master/0455-assign-cookies) |
 | [0556-next-greater-element-iii](https://github.com/kanishk3114S/leetcode-problems/tree/master/0556-next-greater-element-iii) |
 | [0567-permutation-in-string](https://github.com/kanishk3114S/leetcode-problems/tree/master/0567-permutation-in-string) |
@@ -696,6 +697,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/kanishk3114S/leetcode-problems/tree/master/0049-group-anagrams) |
 | [0215-kth-largest-element-in-an-array](https://github.com/kanishk3114S/leetcode-problems/tree/master/0215-kth-largest-element-in-an-array) |
 | [0229-majority-element-ii](https://github.com/kanishk3114S/leetcode-problems/tree/master/0229-majority-element-ii) |
+| [0295-find-median-from-data-stream](https://github.com/kanishk3114S/leetcode-problems/tree/master/0295-find-median-from-data-stream) |
 | [0347-top-k-frequent-elements](https://github.com/kanishk3114S/leetcode-problems/tree/master/0347-top-k-frequent-elements) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/kanishk3114S/leetcode-problems/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0414-third-maximum-number](https://github.com/kanishk3114S/leetcode-problems/tree/master/0414-third-maximum-number) |
@@ -743,6 +745,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0023-merge-k-sorted-lists](https://github.com/kanishk3114S/leetcode-problems/tree/master/0023-merge-k-sorted-lists) |
 | [0215-kth-largest-element-in-an-array](https://github.com/kanishk3114S/leetcode-problems/tree/master/0215-kth-largest-element-in-an-array) |
 | [0264-ugly-number-ii](https://github.com/kanishk3114S/leetcode-problems/tree/master/0264-ugly-number-ii) |
+| [0295-find-median-from-data-stream](https://github.com/kanishk3114S/leetcode-problems/tree/master/0295-find-median-from-data-stream) |
 | [0347-top-k-frequent-elements](https://github.com/kanishk3114S/leetcode-problems/tree/master/0347-top-k-frequent-elements) |
 | [0355-design-twitter](https://github.com/kanishk3114S/leetcode-problems/tree/master/0355-design-twitter) |
 | [0373-find-k-pairs-with-smallest-sums](https://github.com/kanishk3114S/leetcode-problems/tree/master/0373-find-k-pairs-with-smallest-sums) |
@@ -1137,6 +1140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0173-binary-search-tree-iterator](https://github.com/kanishk3114S/leetcode-problems/tree/master/0173-binary-search-tree-iterator) |
 | [0232-implement-queue-using-stacks](https://github.com/kanishk3114S/leetcode-problems/tree/master/0232-implement-queue-using-stacks) |
+| [0295-find-median-from-data-stream](https://github.com/kanishk3114S/leetcode-problems/tree/master/0295-find-median-from-data-stream) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/kanishk3114S/leetcode-problems/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0355-design-twitter](https://github.com/kanishk3114S/leetcode-problems/tree/master/0355-design-twitter) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/kanishk3114S/leetcode-problems/tree/master/0703-kth-largest-element-in-a-stream) |
@@ -1246,6 +1250,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Data Stream
 |  |
 | ------- |
+| [0295-find-median-from-data-stream](https://github.com/kanishk3114S/leetcode-problems/tree/master/0295-find-median-from-data-stream) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/kanishk3114S/leetcode-problems/tree/master/0703-kth-largest-element-in-a-stream) |
 | [1352-product-of-the-last-k-numbers](https://github.com/kanishk3114S/leetcode-problems/tree/master/1352-product-of-the-last-k-numbers) |
 ## Combinatorics
