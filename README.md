@@ -142,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1296-divide-array-in-sets-of-k-consecutive-numbers](https://github.com/kanishk3114S/leetcode-problems/tree/master/1296-divide-array-in-sets-of-k-consecutive-numbers) |
 | [1306-jump-game-iii](https://github.com/kanishk3114S/leetcode-problems/tree/master/1306-jump-game-iii) |
 | [1324-print-words-vertically](https://github.com/kanishk3114S/leetcode-problems/tree/master/1324-print-words-vertically) |
+| [1338-reduce-array-size-to-the-half](https://github.com/kanishk3114S/leetcode-problems/tree/master/1338-reduce-array-size-to-the-half) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/kanishk3114S/leetcode-problems/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1345-jump-game-iv](https://github.com/kanishk3114S/leetcode-problems/tree/master/1345-jump-game-iv) |
 | [1352-product-of-the-last-k-numbers](https://github.com/kanishk3114S/leetcode-problems/tree/master/1352-product-of-the-last-k-numbers) |
@@ -347,6 +348,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1189-maximum-number-of-balloons](https://github.com/kanishk3114S/leetcode-problems/tree/master/1189-maximum-number-of-balloons) |
 | [1296-divide-array-in-sets-of-k-consecutive-numbers](https://github.com/kanishk3114S/leetcode-problems/tree/master/1296-divide-array-in-sets-of-k-consecutive-numbers) |
 | [1297-maximum-number-of-occurrences-of-a-substring](https://github.com/kanishk3114S/leetcode-problems/tree/master/1297-maximum-number-of-occurrences-of-a-substring) |
+| [1338-reduce-array-size-to-the-half](https://github.com/kanishk3114S/leetcode-problems/tree/master/1338-reduce-array-size-to-the-half) |
 | [1345-jump-game-iv](https://github.com/kanishk3114S/leetcode-problems/tree/master/1345-jump-game-iv) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/kanishk3114S/leetcode-problems/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [1540-can-convert-string-in-k-moves](https://github.com/kanishk3114S/leetcode-problems/tree/master/1540-can-convert-string-in-k-moves) |
@@ -564,6 +566,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/kanishk3114S/leetcode-problems/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1296-divide-array-in-sets-of-k-consecutive-numbers](https://github.com/kanishk3114S/leetcode-problems/tree/master/1296-divide-array-in-sets-of-k-consecutive-numbers) |
 | [1323-maximum-69-number](https://github.com/kanishk3114S/leetcode-problems/tree/master/1323-maximum-69-number) |
+| [1338-reduce-array-size-to-the-half](https://github.com/kanishk3114S/leetcode-problems/tree/master/1338-reduce-array-size-to-the-half) |
 | [1353-maximum-number-of-events-that-can-be-attended](https://github.com/kanishk3114S/leetcode-problems/tree/master/1353-maximum-number-of-events-that-can-be-attended) |
 | [1382-balance-a-binary-search-tree](https://github.com/kanishk3114S/leetcode-problems/tree/master/1382-balance-a-binary-search-tree) |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/kanishk3114S/leetcode-problems/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
@@ -723,6 +726,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/kanishk3114S/leetcode-problems/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1296-divide-array-in-sets-of-k-consecutive-numbers](https://github.com/kanishk3114S/leetcode-problems/tree/master/1296-divide-array-in-sets-of-k-consecutive-numbers) |
 | [1305-all-elements-in-two-binary-search-trees](https://github.com/kanishk3114S/leetcode-problems/tree/master/1305-all-elements-in-two-binary-search-trees) |
+| [1338-reduce-array-size-to-the-half](https://github.com/kanishk3114S/leetcode-problems/tree/master/1338-reduce-array-size-to-the-half) |
 | [1353-maximum-number-of-events-that-can-be-attended](https://github.com/kanishk3114S/leetcode-problems/tree/master/1353-maximum-number-of-events-that-can-be-attended) |
 | [1508-range-sum-of-sorted-subarray-sums](https://github.com/kanishk3114S/leetcode-problems/tree/master/1508-range-sum-of-sorted-subarray-sums) |
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/kanishk3114S/leetcode-problems/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
@@ -764,6 +768,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0786-k-th-smallest-prime-fraction](https://github.com/kanishk3114S/leetcode-problems/tree/master/0786-k-th-smallest-prime-fraction) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/kanishk3114S/leetcode-problems/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0973-k-closest-points-to-origin](https://github.com/kanishk3114S/leetcode-problems/tree/master/0973-k-closest-points-to-origin) |
+| [1338-reduce-array-size-to-the-half](https://github.com/kanishk3114S/leetcode-problems/tree/master/1338-reduce-array-size-to-the-half) |
 | [1353-maximum-number-of-events-that-can-be-attended](https://github.com/kanishk3114S/leetcode-problems/tree/master/1353-maximum-number-of-events-that-can-be-attended) |
 | [1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/kanishk3114S/leetcode-problems/tree/master/1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [1514-path-with-maximum-probability](https://github.com/kanishk3114S/leetcode-problems/tree/master/1514-path-with-maximum-probability) |
