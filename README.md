@@ -182,6 +182,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1962-remove-stones-to-minimize-the-total](https://github.com/kanishk3114S/leetcode-problems/tree/master/1962-remove-stones-to-minimize-the-total) |
 | [1970-last-day-where-you-can-still-cross](https://github.com/kanishk3114S/leetcode-problems/tree/master/1970-last-day-where-you-can-still-cross) |
 | [1980-find-unique-binary-string](https://github.com/kanishk3114S/leetcode-problems/tree/master/1980-find-unique-binary-string) |
+| [1992-find-all-groups-of-farmland](https://github.com/kanishk3114S/leetcode-problems/tree/master/1992-find-all-groups-of-farmland) |
 | [1995-count-special-quadruplets](https://github.com/kanishk3114S/leetcode-problems/tree/master/1995-count-special-quadruplets) |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/kanishk3114S/leetcode-problems/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
 | [2049-count-nodes-with-the-highest-score](https://github.com/kanishk3114S/leetcode-problems/tree/master/2049-count-nodes-with-the-highest-score) |
@@ -618,6 +619,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1914-cyclically-rotating-a-grid](https://github.com/kanishk3114S/leetcode-problems/tree/master/1914-cyclically-rotating-a-grid) |
 | [1926-nearest-exit-from-entrance-in-maze](https://github.com/kanishk3114S/leetcode-problems/tree/master/1926-nearest-exit-from-entrance-in-maze) |
 | [1970-last-day-where-you-can-still-cross](https://github.com/kanishk3114S/leetcode-problems/tree/master/1970-last-day-where-you-can-still-cross) |
+| [1992-find-all-groups-of-farmland](https://github.com/kanishk3114S/leetcode-problems/tree/master/1992-find-all-groups-of-farmland) |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/kanishk3114S/leetcode-problems/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
 | [2290-minimum-obstacle-removal-to-reach-corner](https://github.com/kanishk3114S/leetcode-problems/tree/master/2290-minimum-obstacle-removal-to-reach-corner) |
 | [2482-difference-between-ones-and-zeros-in-row-and-column](https://github.com/kanishk3114S/leetcode-problems/tree/master/2482-difference-between-ones-and-zeros-in-row-and-column) |
@@ -945,6 +947,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1905-count-sub-islands](https://github.com/kanishk3114S/leetcode-problems/tree/master/1905-count-sub-islands) |
 | [1970-last-day-where-you-can-still-cross](https://github.com/kanishk3114S/leetcode-problems/tree/master/1970-last-day-where-you-can-still-cross) |
 | [1971-find-if-path-exists-in-graph](https://github.com/kanishk3114S/leetcode-problems/tree/master/1971-find-if-path-exists-in-graph) |
+| [1992-find-all-groups-of-farmland](https://github.com/kanishk3114S/leetcode-problems/tree/master/1992-find-all-groups-of-farmland) |
 | [2049-count-nodes-with-the-highest-score](https://github.com/kanishk3114S/leetcode-problems/tree/master/2049-count-nodes-with-the-highest-score) |
 | [2192-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/kanishk3114S/leetcode-problems/tree/master/2192-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/kanishk3114S/leetcode-problems/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
@@ -1090,6 +1093,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1926-nearest-exit-from-entrance-in-maze](https://github.com/kanishk3114S/leetcode-problems/tree/master/1926-nearest-exit-from-entrance-in-maze) |
 | [1970-last-day-where-you-can-still-cross](https://github.com/kanishk3114S/leetcode-problems/tree/master/1970-last-day-where-you-can-still-cross) |
 | [1971-find-if-path-exists-in-graph](https://github.com/kanishk3114S/leetcode-problems/tree/master/1971-find-if-path-exists-in-graph) |
+| [1992-find-all-groups-of-farmland](https://github.com/kanishk3114S/leetcode-problems/tree/master/1992-find-all-groups-of-farmland) |
 | [2059-minimum-operations-to-convert-number](https://github.com/kanishk3114S/leetcode-problems/tree/master/2059-minimum-operations-to-convert-number) |
 | [2192-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/kanishk3114S/leetcode-problems/tree/master/2192-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
 | [2290-minimum-obstacle-removal-to-reach-corner](https://github.com/kanishk3114S/leetcode-problems/tree/master/2290-minimum-obstacle-removal-to-reach-corner) |
