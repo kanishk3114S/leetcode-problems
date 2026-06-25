@@ -32,7 +32,7 @@ public:
             int mid = low-(low-high)/2;
 
             if (check(bloomday , m , k , mid)) {
-                cout << "for : mid " << mid << " giving true " << endl;
+                // cout << "for : mid " << mid << " giving true " << endl;
                 ans = mid;
                 high = mid-1;
             } else { 
