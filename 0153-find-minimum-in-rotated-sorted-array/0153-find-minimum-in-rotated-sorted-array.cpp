@@ -2,27 +2,29 @@ class Solution {
 public:
     int findMin(vector<int>& arr) {
         
-        int l = 0, r = arr.size()-1;
+        //intution---> choose min from sorted and eliminate the search space//
 
-        while (l <= r){
+        int low = 0 , high = arr.size()-1;
+        int ans = INT_MAX;
 
-            int mid = (l+r)/2;
+        while (low <= high) {
 
-            if (arr[mid] > arr[r]) { //2nd half
+            int mid = low-(low-high)/2;
 
-                l = mid+1;
+            if (arr[low] <= arr[mid]) {
+                //left half is sorted//
 
-            } else if (arr[mid] < arr[r]) {
+                ans = min(arr[low] , ans);
+                low = mid+1;
+            } else {
 
-                r = mid;
+                ans = min(arr[mid] , ans);
+                high = mid-1;
 
-            } else  {
-                r--;
             }
-
         }
 
-        return arr[l];
+        return ans;
 
 
     }
