@@ -204,6 +204,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2161-partition-array-according-to-given-pivot](https://github.com/kanishk3114S/leetcode-problems/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/kanishk3114S/leetcode-problems/tree/master/2196-create-binary-tree-from-descriptions) |
 | [2208-minimum-operations-to-halve-array-sum](https://github.com/kanishk3114S/leetcode-problems/tree/master/2208-minimum-operations-to-halve-array-sum) |
+| [2226-maximum-candies-allocated-to-k-children](https://github.com/kanishk3114S/leetcode-problems/tree/master/2226-maximum-candies-allocated-to-k-children) |
 | [2280-minimum-lines-to-represent-a-line-chart](https://github.com/kanishk3114S/leetcode-problems/tree/master/2280-minimum-lines-to-represent-a-line-chart) |
 | [2290-minimum-obstacle-removal-to-reach-corner](https://github.com/kanishk3114S/leetcode-problems/tree/master/2290-minimum-obstacle-removal-to-reach-corner) |
 | [2343-query-kth-smallest-trimmed-number](https://github.com/kanishk3114S/leetcode-problems/tree/master/2343-query-kth-smallest-trimmed-number) |
@@ -270,6 +271,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1631-path-with-minimum-effort](https://github.com/kanishk3114S/leetcode-problems/tree/master/1631-path-with-minimum-effort) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/kanishk3114S/leetcode-problems/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [1970-last-day-where-you-can-still-cross](https://github.com/kanishk3114S/leetcode-problems/tree/master/1970-last-day-where-you-can-still-cross) |
+| [2226-maximum-candies-allocated-to-k-children](https://github.com/kanishk3114S/leetcode-problems/tree/master/2226-maximum-candies-allocated-to-k-children) |
 | [2540-minimum-common-value](https://github.com/kanishk3114S/leetcode-problems/tree/master/2540-minimum-common-value) |
 | [3488-closest-equal-element-queries](https://github.com/kanishk3114S/leetcode-problems/tree/master/3488-closest-equal-element-queries) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/kanishk3114S/leetcode-problems/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
