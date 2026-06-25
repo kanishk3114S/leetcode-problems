@@ -49,7 +49,7 @@ public:
             }
         }
 
-        cout << check(arr,maxOp , 3);
+        // cout << check(arr,maxOp , 3);
 
         return ans;
         
