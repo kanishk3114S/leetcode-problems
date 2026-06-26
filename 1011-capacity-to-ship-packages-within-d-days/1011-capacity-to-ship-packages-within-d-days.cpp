@@ -39,14 +39,14 @@ public:
 
             if (check(weights , days , mid)) {
 
-                cout << "check is true for  low : " << low << " high : " << high << " and mid is " << mid << endl;
+                // cout << "check is true for  low : " << low << " high : " << high << " and mid is " << mid << endl;
 
                 ans = mid;
                 high = mid-1;
 
             } else {
                 
-                cout << "check is false for  low : " << low << " high : " << high << " and mid is " << mid << endl;
+                // cout << "check is false for  low : " << low << " high : " << high << " and mid is " << mid << endl;
                 low = mid+1;
             }
 
