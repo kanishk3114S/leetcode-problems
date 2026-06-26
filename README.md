@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0343-integer-break](https://github.com/kanishk3114S/leetcode-problems/tree/master/0343-integer-break) |
 | [0367-valid-perfect-square](https://github.com/kanishk3114S/leetcode-problems/tree/master/0367-valid-perfect-square) |
 | [0396-rotate-function](https://github.com/kanishk3114S/leetcode-problems/tree/master/0396-rotate-function) |
+| [0441-arranging-coins](https://github.com/kanishk3114S/leetcode-problems/tree/master/0441-arranging-coins) |
 | [0539-minimum-time-difference](https://github.com/kanishk3114S/leetcode-problems/tree/master/0539-minimum-time-difference) |
 | [0556-next-greater-element-iii](https://github.com/kanishk3114S/leetcode-problems/tree/master/0556-next-greater-element-iii) |
 | [0633-sum-of-square-numbers](https://github.com/kanishk3114S/leetcode-problems/tree/master/0633-sum-of-square-numbers) |
@@ -263,6 +264,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0287-find-the-duplicate-number](https://github.com/kanishk3114S/leetcode-problems/tree/master/0287-find-the-duplicate-number) |
 | [0367-valid-perfect-square](https://github.com/kanishk3114S/leetcode-problems/tree/master/0367-valid-perfect-square) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/kanishk3114S/leetcode-problems/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [0441-arranging-coins](https://github.com/kanishk3114S/leetcode-problems/tree/master/0441-arranging-coins) |
 | [0540-single-element-in-a-sorted-array](https://github.com/kanishk3114S/leetcode-problems/tree/master/0540-single-element-in-a-sorted-array) |
 | [0633-sum-of-square-numbers](https://github.com/kanishk3114S/leetcode-problems/tree/master/0633-sum-of-square-numbers) |
 | [0658-find-k-closest-elements](https://github.com/kanishk3114S/leetcode-problems/tree/master/0658-find-k-closest-elements) |
