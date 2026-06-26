@@ -346,6 +346,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/kanishk3114S/leetcode-problems/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0126-word-ladder-ii](https://github.com/kanishk3114S/leetcode-problems/tree/master/0126-word-ladder-ii) |
 | [0127-word-ladder](https://github.com/kanishk3114S/leetcode-problems/tree/master/0127-word-ladder) |
+| [0146-lru-cache](https://github.com/kanishk3114S/leetcode-problems/tree/master/0146-lru-cache) |
 | [0229-majority-element-ii](https://github.com/kanishk3114S/leetcode-problems/tree/master/0229-majority-element-ii) |
 | [0264-ugly-number-ii](https://github.com/kanishk3114S/leetcode-problems/tree/master/0264-ugly-number-ii) |
 | [0347-top-k-frequent-elements](https://github.com/kanishk3114S/leetcode-problems/tree/master/0347-top-k-frequent-elements) |
@@ -1140,6 +1141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/kanishk3114S/leetcode-problems/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/kanishk3114S/leetcode-problems/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0143-reorder-list](https://github.com/kanishk3114S/leetcode-problems/tree/master/0143-reorder-list) |
+| [0146-lru-cache](https://github.com/kanishk3114S/leetcode-problems/tree/master/0146-lru-cache) |
 | [0237-delete-node-in-a-linked-list](https://github.com/kanishk3114S/leetcode-problems/tree/master/0237-delete-node-in-a-linked-list) |
 | [0328-odd-even-linked-list](https://github.com/kanishk3114S/leetcode-problems/tree/master/0328-odd-even-linked-list) |
 | [0355-design-twitter](https://github.com/kanishk3114S/leetcode-problems/tree/master/0355-design-twitter) |
@@ -1151,6 +1153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Doubly-Linked List
 |  |
 | ------- |
+| [0146-lru-cache](https://github.com/kanishk3114S/leetcode-problems/tree/master/0146-lru-cache) |
 | [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/kanishk3114S/leetcode-problems/tree/master/0430-flatten-a-multilevel-doubly-linked-list) |
 ## Sweep Line
 |  |
@@ -1181,6 +1184,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Design
 |  |
 | ------- |
+| [0146-lru-cache](https://github.com/kanishk3114S/leetcode-problems/tree/master/0146-lru-cache) |
 | [0173-binary-search-tree-iterator](https://github.com/kanishk3114S/leetcode-problems/tree/master/0173-binary-search-tree-iterator) |
 | [0232-implement-queue-using-stacks](https://github.com/kanishk3114S/leetcode-problems/tree/master/0232-implement-queue-using-stacks) |
 | [0295-find-median-from-data-stream](https://github.com/kanishk3114S/leetcode-problems/tree/master/0295-find-median-from-data-stream) |
