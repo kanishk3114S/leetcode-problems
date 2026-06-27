@@ -48,7 +48,7 @@ public:
 
         }
 
-        cout << ans;
+        // cout << ans;
 
         if (ans > 1) {
 
