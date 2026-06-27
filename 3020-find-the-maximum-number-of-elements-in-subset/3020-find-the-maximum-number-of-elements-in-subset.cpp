@@ -18,6 +18,8 @@ public:
             mpp[(long double)it]++;
         }
 
+        unordered_set<int> check;
+
 
         int ans = 0;
 
@@ -26,7 +28,7 @@ public:
             int seq = 0;
             int el = it.first;  
 
-            if (el==1) continue;
+            if (el==1 || check.count(el)) continue;
             int times = 1;
                 while (seq < arr.size()) {
                     long double val = pow(el , times);
@@ -37,9 +39,11 @@ public:
                         
                         //we found our peak;
                         seq++;
+                        check.insert(el);
                         break;
 
                     } else {
+                        check.insert(el);
                         break;
                     }
                 }
