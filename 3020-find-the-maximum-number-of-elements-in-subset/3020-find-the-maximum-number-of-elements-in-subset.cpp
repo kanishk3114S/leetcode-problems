@@ -10,16 +10,13 @@ public:
 
     int maximumLength(vector<int>& arr) {
         
-        using ld = long double;
+        using ll = long long;
 
-        unordered_map<ld,ld> mpp;
+        unordered_map<ll,ll> mpp;
 
         for (auto it:arr) {
-            mpp[(long double)it]++;
+            mpp[(long long)it]++;
         }
-
-        unordered_set<int> check;
-
 
         int ans = 0;
 
@@ -28,24 +25,22 @@ public:
             int seq = 0;
             int el = it.first;  
 
-            if (el==1 || check.count(el)) continue;
-            int times = 1;
+            if (el==1) continue;
+            long long curr = el;
                 while (seq < arr.size()) {
-                    long double val = pow(el , times);
-                    if (mpp.count(val) && mpp[val] >= 2) {
+                    if (mpp.count(curr) && mpp[curr] >= 2) {
                         seq++;
-                        times = times*2;
-                    } else if (mpp.count(val) && mpp[val] < 2) {
+                        curr = curr*curr;
+                    } else if (mpp.count(curr) && mpp[curr] < 2) {
                         
                         //we found our peak;
                         seq++;
-                        check.insert(el);
                         break;
 
                     } else {
-                        check.insert(el);
                         break;
                     }
+                    // cout << curr << " " << seq << endl; 
                 }
 
                 ans = max(seq , ans);
