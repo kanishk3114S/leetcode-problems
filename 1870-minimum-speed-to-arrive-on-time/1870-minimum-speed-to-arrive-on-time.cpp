@@ -14,7 +14,7 @@ public:
         }
 
         timeTaken += ((long double)dist.back()/speed);
-        cout << "Timetaken : " << timeTaken << " hours  " << hour << endl;
+        // cout << "Timetaken : " << timeTaken << " hours  " << hour << endl;
 
         return timeTaken <= (long double)hour+EPS;
 
@@ -34,11 +34,11 @@ public:
             int mid = low-(low-high)/2;
 
             if (check(dist,hour,mid)) {
-                cout << "check is true for : " << low << " " << high << " mid : " << mid << endl;
+                // cout << "check is true for : " << low << " " << high << " mid : " << mid << endl;
                 ans = mid;
                 high = mid-1;
             } else {
-                cout << "check is false for : " << low << " " << high << " mid : " << mid << endl;
+                // cout << "check is false for : " << low << " " << high << " mid : " << mid << endl;
                 low = mid+1;
             }
 
